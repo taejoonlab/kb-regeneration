@@ -1,0 +1,52 @@
+---
+tags: [2026-07]
+extract: 2026-07-16
+---
+
+# Spinal Cord Injury Induces Permanent Reprogramming of Microglia into a Disease-Associated State Which Contributes to Functional Recovery
+
+## Citation (NLM)
+Hakim R, Zachariadis V, Sankavaram SR, Han J, Harris RA, Brundin L, Enge M, Svensson M. Spinal Cord Injury Induces Permanent Reprogramming of Microglia into a Disease-Associated State Which Contributes to Functional Recovery. J Neurosci. 2021;41(40):8441-8459. doi:10.1523/JNEUROSCI.0860-21.2021
+
+**DOI:** [https://doi.org/10.1523/JNEUROSCI.0860-21.2021](https://doi.org/10.1523/JNEUROSCI.0860-21.2021)
+
+---
+
+## Background
+
+Microglia are the resident myeloid cells of the CNS. Single-cell RNA sequencing has identified disease-associated microglia (DAM), an alternate microglial state observed in aging, Alzheimer's disease, multiple sclerosis, neurodegeneration and demyelination. However, the cellular origin of DAM and their role in acute traumatic injury processes were not well understood.
+
+This study investigated the temporal dynamics of immune cells at the epicenter of traumatic spinal cord injury (SCI), asking whether baseline microglia reprogram into a DAM-like state after SCI, whether such cells exist in human SCI, and what functional role they play in recovery.
+
+---
+
+## Key Experiment Methods
+
+1. Severe contusion SCI (75 kdyn, Th10) in adult female C57BL/6J mice; CD45+ immune cells harvested from the injury epicenter at nine time points from 0.5 h to 90 d post-SCI, with healthy tissue as reference.
+2. Plate-based single-cell RNA-seq (Smart-Seq2) of 3687 individually sequenced CD45+ cells (pooled 3–5 mice per time point); Seurat clustering, tSNE, pseudotime ordering.
+3. Integration with published microglial/DAM datasets (Li 2019; Masuda 2019; Mathys 2017).
+4. Immunohistochemistry for APOE, CST7, IGF1, IBA1, TMEM119 on mouse SCI sections; proliferation assessed by Hoechst/flow cytometry.
+5. Microglia depletion model: CX3CR1CreER/Rosa26DTA mice given tamoxifen before SCI to deplete Cx3cr1+ cells, followed by scRNA-seq at 7 and 21 d and hindlimb locomotor assessment (Basso Mouse Scale, BMS) over 90 d.
+6. Validation in human SCI tissue (from an ongoing SC0806 FGF1/device clinical trial) by immunostaining for APOE, CST7, IGF1, IBA1.
+7. Bulk RNA-seq of sorted microglia/macrophages.
+
+---
+
+## Results
+
+- After SCI, microglia underwent a dramatic and permanent transcriptional transformation and never re-established their original profile, whereas B and T cell profiles stayed largely constant.
+- Five microglial subtypes were identified along a trajectory: baseline (bMicroglia; P2ry12, Tmem119, Siglech) → activated (aMicroglia; Il1a, Cd83, by 0.5 h) → proliferation-mediating (pmMicroglia; Hbegf, Edn1) → and ultimately a chronic disease-associated microglia (DAM) state.
+- SCI-derived DAM showed striking similarity to previously reported DAM (Alzheimer's/neurodegeneration) as well as a distinct developmental/embryonic-like microglial state.
+- DAM markers APOE, CST7 and IGF1 were confirmed at the protein level in mouse SCI sections and, importantly, in human SCI tissue—demonstrating translational relevance.
+- Using the CX3CR1CreER/Rosa26DTA depletion model, DAM in SCI were shown to derive from baseline (homeostatic) microglia rather than infiltrating monocytes.
+- Depletion experiments demonstrated that DAM strongly enhance recovery of hindlimb locomotor function (BMS) following SCI, assigning a beneficial functional role to this state in acute traumatic injury.
+
+---
+
+## Perspective
+
+The work directly addresses the origin and function of DAM in traumatic injury, showing that homeostatic microglia are permanently reprogrammed into a beneficial DAM-like state that promotes locomotor recovery after SCI. This reframes DAM—often studied in chronic neurodegeneration—as an important adaptive response in acute CNS trauma, and the confirmation in human tissue supports clinical relevance. The comprehensive time-course dataset (0.5 h–90 d) is a resource for the field. Limitations include pooling of animals per time point, plate-based scRNA-seq depth, use of only female mice, and limited human sample numbers. Future work could target or augment the DAM program therapeutically to improve SCI outcomes.
+
+---
+
+*Processed by **Claude Fable 5** (Claude Code) on 2026-07-16*
