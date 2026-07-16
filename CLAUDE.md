@@ -8,11 +8,15 @@ Bilingual (en/ko) Obsidian vault for **spinal cord** research literature. Each a
 
 ```
 .
-├── en/articles/   # English article notes
-├── ko/articles/   # Korean article notes (same filenames as en/)
+├── en/articles/   # English original-research notes
+├── ko/articles/   # Korean original-research notes (same filenames as en/)
+├── ko/reviews/    # Korean review-article notes (ko only, no en mirror)
+├── ko/pdf/        # PDF working dir + notes/ (gitignored)
 ├── tools/         # Git submodule (git@github.com:taejoonlab/kb-tools.git)
 └── .obsidian/     # Obsidian config (tracked, except workspace.json)
 ```
+
+원저 연구는 `articles/`에 en/ko 쌍으로, 리뷰 논문은 `ko/reviews/`에 한국어로만 작성한다. 자세한 워크플로우는 `tools/SKILL.md`(원저), `tools/SKILL_REVIEW.md`(리뷰) 참조.
 
 ## Note Format
 
