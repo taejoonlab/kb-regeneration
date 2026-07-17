@@ -32,7 +32,7 @@ extract: 2026-06-07
   - SOX9+ enSC (endoneurial Schwann cells) — 슈반세포와 연골세포 마커 동시 발현, 비정형 연골세포 기원
   - 관절 형성 중 interzone zonation 규명
   - 무릎 골관절염 GWAS 신호는 ArticularChon, 고관절 OA는 Preosteoblast에 집중
-- **링크:** [To2024_Nature (ko)](ko/articles/To2024_Nature.md) · [To2024_Nature (en)](en/articles/To2024_Nature.md) · [DOI](https://doi.org/10.1038/s41586-024-08189-z)
+- **링크:** [To2024_Nature (ko)](ko/articles/To2024_Nature_MultiOmicAtlas+EmbryonicSkeleton.md) · [To2024_Nature (en)](en/articles/To2024_Nature_MultiOmicAtlas+EmbryonicSkeleton.md) · [DOI](https://doi.org/10.1038/s41586-024-08189-z)
 
 ---
 
@@ -45,7 +45,7 @@ extract: 2026-06-07
   - 16개 세포 집단 동정
   - eSSC (embryonic skeletal stem/progenitor cells) — perichondrium 위치, CADM1/PDPN 마커, FOXP1/2 조절
   - 두개골: NCDC (neural crest-derived cells), FOXP1/2/4 regulon 공유
-- **링크:** [He2021_CellRes (ko)](ko/articles/He2021_CellRes.md) · [He2021_CellRes (en)](en/articles/He2021_CellRes.md) · [DOI](https://doi.org/10.1038/s41422-021-00467-z)
+- **링크:** [He2021_CellRes (ko)](ko/articles/He2021_CellRes_scRNAseq+EmbryonicSkeletalStemCells.md) · [He2021_CellRes (en)](en/articles/He2021_CellRes_scRNAseq+EmbryonicSkeletalStemCells.md) · [DOI](https://doi.org/10.1038/s41422-021-00467-z)
 
 ---
 
@@ -58,7 +58,7 @@ extract: 2026-06-07
   - off-target 신경계 (NES, OTX2, SOX2, WNT3A) 및 멜라닌세포 (MITF+) 계통 동정
   - WNT4 = 신경발생 허브, WNT2B = 멜라닌발생 허브
   - WNT 억제(C59)로 4개 연골세포 아집단 확인: 증식형, 조기분화형, 조기성숙형 (COL2A1/ACAN 최대), 성숙-비대형
-- **링크:** [Wu2021_NatComm (ko)](ko/articles/Wu2021_NatComm.md) · [Wu2021_NatComm (en)](en/articles/Wu2021_NatComm.md) · [DOI](https://doi.org/10.1038/s41467-020-20598-y)
+- **링크:** [Wu2021_NatComm (ko)](ko/articles/Wu2021_NatComm_hiPSC-Chondrogenesis+scRNAseq.md) · [Wu2021_NatComm (en)](en/articles/Wu2021_NatComm_hiPSC-Chondrogenesis+scRNAseq.md) · [DOI](https://doi.org/10.1038/s41467-020-20598-y)
 
 ---
 
@@ -71,7 +71,7 @@ extract: 2026-06-07
   - 연골전구세포 (PRRX1+, TWIST1+, FOXP1/2+), 휴지기/증식형/전비대/비대 연골세포, interzone cells (GDF5+PRG4-/+), 관절연골세포 (PRG4+, AQP1+, TPPP3+) 동정
   - FOXO1 억제 시 연골세포 유전자 발현 증가
   - in vivo vs in vitro highly variable gene match율 58%에 불과
-- **링크:** [Lawrence2023_bioRxiv (ko)](ko/articles/Lawrence2023_bioRxiv.md) · [Lawrence2023_bioRxiv (en)](en/articles/Lawrence2023_bioRxiv.md) · [DOI](https://doi.org/10.1101/2023.12.20.572425)
+- **링크:** [Lawrence2023_bioRxiv (ko)](ko/articles/Lawrence2023_bioRxiv_scRNAseq+ChondrocyteDifferentiation.md) · [Lawrence2023_bioRxiv (en)](en/articles/Lawrence2023_bioRxiv_scRNAseq+ChondrocyteDifferentiation.md) · [DOI](https://doi.org/10.1101/2023.12.20.572425)
 
 ---
 
@@ -84,7 +84,7 @@ extract: 2026-06-07
   - 9개 root cluster, 6개 연골세포 아집단: 조절형 (BMP2/TGFB1/FGF2), 항상성형 (ACAN/COL2A1), 효과형 (PRG4/CNMD)
   - PROCR+ 다능성 전구세포 (NPPC-3) in NP — 3계통 분화 능력
   - CellChat 분석: PDGF, TGF-β가 NP 핵심 신호전달 네트워크
-- **링크:** [Gan2021_BoneRes (ko)](ko/articles/Gan2021_BoneRes.md) · [Gan2021_BoneRes (en)](en/articles/Gan2021_BoneRes.md) · [DOI](https://doi.org/10.1038/s41413-021-00163-z)
+- **링크:** [Gan2021_BoneRes (ko)](ko/articles/Gan2021_BoneRes_scRNAseq+IntervertebralDisc+Chondrocytes.md) · [Gan2021_BoneRes (en)](en/articles/Gan2021_BoneRes_scRNAseq+IntervertebralDisc+Chondrocytes.md) · [DOI](https://doi.org/10.1038/s41413-021-00163-z)
 
 ---
 
@@ -99,7 +99,7 @@ extract: 2026-06-07
   - OA: CHI3L1+ RegCs 확장
   - CPCs는 두 질환 모두에서 소실
   - Pseudotime: KBD와 OA는 서로 다른 운명 분기에서 갈라짐
-- **링크:** [Wang2021_CellDeathDis (ko)](ko/articles/Wang2021_CellDeathDis.md) · [Wang2021_CellDeathDis (en)](en/articles/Wang2021_CellDeathDis.md) · [DOI](https://doi.org/10.1038/s41419-021-03832-3)
+- **링크:** [Wang2021_CellDeathDis (ko)](ko/articles/Wang2021_CellDeathDis_scRNAseq+OA-KashinBeck.md) · [Wang2021_CellDeathDis (en)](en/articles/Wang2021_CellDeathDis_scRNAseq+OA-KashinBeck.md) · [DOI](https://doi.org/10.1038/s41419-021-03832-3)
 
 ---
 
@@ -112,7 +112,7 @@ extract: 2026-06-07
   - preHTC是唯一 모든 4가지 통신 역할 (sender, receiver, mediator, influencer) 수행하는 아집단
   - ECs와 FCs는 서로 다른 신호전달 경로를 사용하는 "상호 배타적" 쌍
   - COLLAGEN, LAMININ pathway가 핵심 통신 경로로 동정
-- **링크:** [Wang2023_SciRep (ko)](ko/articles/Wang2023_SciRep.md) · [Wang2023_SciRep (en)](en/articles/Wang2023_SciRep.md) · [DOI](https://doi.org/10.1038/s41598-023-41874-z)
+- **링크:** [Wang2023_SciRep (ko)](ko/articles/Wang2023_SciRep_scRNAseq+OA+CellCommunication.md) · [Wang2023_SciRep (en)](en/articles/Wang2023_SciRep_scRNAseq+OA+CellCommunication.md) · [DOI](https://doi.org/10.1038/s41598-023-41874-z)
 
 ---
 
@@ -125,7 +125,7 @@ extract: 2026-06-07
   - 15개 세포 유형, 26개 cluster
   - 3개 신규 연골세포 아집단: Smoc2+ 혈관형, Angptl7+ 혈관형 (FGF2-FGFR2 경유 혈관형성 촉진), Col1a1+ 골형성형
   - Sparc+ 기능이상 골아세포는 골광화 억제
-- **링크:** [Liu2025_SignalTransductTargetTher (ko)](ko/articles/Liu2025_SignalTransductTargetTher.md) · [Liu2025_SignalTransductTargetTher (en)](en/articles/Liu2025_SignalTransductTargetTher.md) · [DOI](https://doi.org/10.1038/s41392-025-02136-8)
+- **링크:** [Liu2025_SignalTransductTargetTher (ko)](ko/articles/Liu2025_SignalTransductTargetTher_scRNAseq+KneeOA+Subtypes.md) · [Liu2025_SignalTransductTargetTher (en)](en/articles/Liu2025_SignalTransductTargetTher_scRNAseq+KneeOA+Subtypes.md) · [DOI](https://doi.org/10.1038/s41392-025-02136-8)
 
 ---
 
@@ -138,7 +138,7 @@ extract: 2026-06-07
   - Sox9 결손 GPCs는 후기 증식형/전비대/비대 단계 skip
   - terminal GPC → mesenchymal progenitor → OB progenitor → pre-OB → OB 경로로 전환
   - 연골세포 탈분화 → 골격전구세포 → 골아세포 재분화 과정 실증
-- **링크:** [Haseeb2021_PNAS (ko)](ko/articles/Haseeb2021_PNAS.md) · [Haseeb2021_PNAS (en)](en/articles/Haseeb2021_PNAS.md) · [DOI](https://doi.org/10.1073/pnas.2019152118)
+- **링크:** [Haseeb2021_PNAS (ko)](ko/articles/Haseeb2021_PNAS_SOX9+GrowthPlate+Dedifferentiation.md) · [Haseeb2021_PNAS (en)](en/articles/Haseeb2021_PNAS_SOX9+GrowthPlate+Dedifferentiation.md) · [DOI](https://doi.org/10.1073/pnas.2019152118)
 
 ---
 
@@ -150,7 +150,7 @@ extract: 2026-06-07
 - **주요 발견:**
   - 4개 연골세포 아집단: ProC (증식형), EcmC (ECM 생산형), MetC (해당과정/항산화, 조기 탈분화), DegC (기질분해/염증, 후기 탈분화)
   - Pseudotime trajectory: EcmC→MetC→DegC, biphasic 탈분화 모델 제시
-- **링크:** [Chen2022_BoneRes (ko)](ko/articles/Chen2022_BoneRes.md) · [Chen2022_BoneRes (en)](en/articles/Chen2022_BoneRes.md) · [DOI](https://doi.org/10.1038/s41413-022-00209-w)
+- **링크:** [Chen2022_BoneRes (ko)](ko/articles/Chen2022_BoneRes_ChondrocyteDedifferentiation+scRNAseq.md) · [Chen2022_BoneRes (en)](en/articles/Chen2022_BoneRes_ChondrocyteDedifferentiation+scRNAseq.md) · [DOI](https://doi.org/10.1038/s41413-022-00209-w)
 
 ---
 
@@ -162,7 +162,7 @@ extract: 2026-06-07
 - **주요 발견:**
   - 8개 cluster (MCT, dermis, PM, tendon, pre-osteoblast, perichondrium, interdigit mesenchyme, chondrocyte)
   - Col2a1 reporter가 전비대 연골세포 특이적으로 라벨링 확인 (Col2a1/Sox9/Foxa2/3/Matn/Fgfr3 고발현)
-- **링크:** [Darbellay2023_NatCommun (ko)](ko/articles/Darbellay2023_NatCommun.md) · [Darbellay2023_NatCommun (en)](en/articles/Darbellay2023_NatCommun.md) · [DOI](https://doi.org/10.1038/s41467-024-49203-2)
+- **링크:** [Darbellay2023_NatCommun (ko)](ko/articles/Darbellay2023_NatCommun_Chondrogenic+Enhancers+Limb.md) · [Darbellay2023_NatCommun (en)](en/articles/Darbellay2023_NatCommun_Chondrogenic+Enhancers+Limb.md) · [DOI](https://doi.org/10.1038/s41467-024-49203-2)
 
 ---
 
@@ -175,7 +175,7 @@ extract: 2026-06-07
   - 6개 cluster: NCSC, chondrocytes, mesenchymal cells, neuroblasts, melanocytes
   - Chondrocyte cluster: COL2A1, COL11A1, ACAN, VCAN, ELN, FBN1, LOX 고발현
   - Day 28: mesenchymal→chondrocyte paracrine signaling (EGF, PTN, WNT3, WNT7B) 및 ECM-autocrine feedforward
-- **링크:** [Foltz2024_iScience (ko)](ko/articles/Foltz2024_iScience.md) · [Foltz2024_iScience (en)](en/articles/Foltz2024_iScience.md) · [DOI](https://doi.org/10.1016/j.isci.2024.109585)
+- **링크:** [Foltz2024_iScience (ko)](ko/articles/Foltz2024_iScience_Craniofacial+Organoid+NeuralCrest.md) · [Foltz2024_iScience (en)](en/articles/Foltz2024_iScience_Craniofacial+Organoid+NeuralCrest.md) · [DOI](https://doi.org/10.1016/j.isci.2024.109585)
 
 ---
 
@@ -189,7 +189,7 @@ extract: 2026-06-07
   - Cd168+ 고증식성 골연골전구세포 집단 동정
   - Trajectory 분석: 골형성/연골형성 bifurcation 재현
   - Cd168+ 세포는 골절 가골에서 재생 연골세포로 분화
-- **링크:** [Hao2023_JGenetGenomics (ko)](ko/articles/Hao2023_JGenetGenomics.md) · [Hao2023_JGenetGenomics (en)](en/articles/Hao2023_JGenetGenomics.md) · [DOI](https://doi.org/10.1016/j.jgg.2023.04.004)
+- **링크:** [Hao2023_JGenetGenomics (ko)](ko/articles/Hao2023_JGenetGenomics_scRNAseq+Cd168+SkeletalProgenitors.md) · [Hao2023_JGenetGenomics (en)](en/articles/Hao2023_JGenetGenomics_scRNAseq+Cd168+SkeletalProgenitors.md) · [DOI](https://doi.org/10.1016/j.jgg.2023.04.004)
 
 ---
 
@@ -202,7 +202,7 @@ extract: 2026-06-07
   - 8개 세포 집단
   - ABPCs (antler blastema progenitor cells, CX43+FGFR2+) — BMSCs 대비 우수한 골연골분화 능력, 지방분화 능력 없음
   - 공간 분석: AGC differentiation gradient (mesenchymal layer → hypertrophic cartilage layer)
-- **링크:** [Qin2023_Science (ko)](ko/articles/Qin2023_Science.md) · [Qin2023_Science (en)](en/articles/Qin2023_Science.md) · [DOI](https://doi.org/10.1126/science.add0488)
+- **링크:** [Qin2023_Science (ko)](ko/articles/Qin2023_Science_DeerAntler+RegenerativeStemCells.md) · [Qin2023_Science (en)](en/articles/Qin2023_Science_DeerAntler+RegenerativeStemCells.md) · [DOI](https://doi.org/10.1126/science.add0488)
 
 ---
 
@@ -215,7 +215,7 @@ extract: 2026-06-07
   - 2개 distinct SSC type: ocSSCs (Acan, Col2a1, Pthr1, Spp1) vs pvSSCs (Pdgfra, Postn; Cxcl12, Igf1)
   - pvSSC는 BMAT의 유일한 기원
   - Ligand-receptor 분석: pvSSCs → Tgfb/Wnt로 ocSSC 운명 지원; ocSSCs → Bmp/Egf 신호 되돌림
-- **링크:** [Ambrosi2021_eLife (ko)](ko/articles/Ambrosi2021_eLife.md) · [Ambrosi2021_eLife (en)](en/articles/Ambrosi2021_eLife.md) · [DOI](https://doi.org/10.7554/eLife.66063)
+- **링크:** [Ambrosi2021_eLife (ko)](ko/articles/Ambrosi2021_eLife_SkeletalStemCells+LongBone.md) · [Ambrosi2021_eLife (en)](en/articles/Ambrosi2021_eLife_SkeletalStemCells+LongBone.md) · [DOI](https://doi.org/10.7554/eLife.66063)
 
 ---
 
@@ -228,7 +228,7 @@ extract: 2026-06-07
   - 14개 골격 cluster 중 mpSSC (Sstr2+/Pdgfrb+Kitl-) 동정
   - HC progeny trajectory: HC → mpSSC → tBMSC → RetiC/OLC
   - mpSSCs가 trabecular bone 형성의 대부분 주도
-- **링크:** [Yang2024_SciAdv (ko)](ko/articles/Yang2024_SciAdv.md) · [Yang2024_SciAdv (en)](en/articles/Yang2024_SciAdv.md) · [DOI](https://doi.org/10.1126/sciadv.adl2238)
+- **링크:** [Yang2024_SciAdv (ko)](ko/articles/Yang2024_SciAdv_MetaphysealSkeletalStemCell+TrabecularBone.md) · [Yang2024_SciAdv (en)](en/articles/Yang2024_SciAdv_MetaphysealSkeletalStemCell+TrabecularBone.md) · [DOI](https://doi.org/10.1126/sciadv.adl2238)
 
 ---
 
@@ -241,7 +241,7 @@ extract: 2026-06-07
   - 86개 세포가 단일 균일 집단으로 클러스터링 — distinct subpopulation 없음
   - 배양 연골세포는 MSC 마커 (CD44, CD90, CD73, CD105) 발현
   - adipogenic/osteogenic multilineage 분화 능력 확인
-- **링크:** [Karlsen2021_Cartilage (ko)](ko/articles/Karlsen2021_Cartilage.md) · [Karlsen2021_Cartilage (en)](en/articles/Karlsen2021_Cartilage.md) · [DOI](https://doi.org/10.1177/1947603519847746)
+- **링크:** [Karlsen2021_Cartilage (ko)](ko/articles/Karlsen2021_Cartilage_scRNAseq+ExpandedChondrocytes.md) · [Karlsen2021_Cartilage (en)](en/articles/Karlsen2021_Cartilage_scRNAseq+ExpandedChondrocytes.md) · [DOI](https://doi.org/10.1177/1947603519847746)
 
 ---
 
@@ -254,7 +254,7 @@ extract: 2026-06-07
   - 3개 세포 유형: TPC (tendon progenitor), TB (tenoblast), TC (tenocyte)
   - Pseudotime: Mkx−/− TPCs에서 골연골유전자 (Spp1, Ogn, Mgp, Comp) 조기 활성화
   - 혈관형성 유전자가 모든 세포 유형에서 enrichment
-- **링크:** [Lin2022_BoneRes (ko)](ko/articles/Lin2022_BoneRes.md) · [Lin2022_BoneRes (en)](en/articles/Lin2022_BoneRes.md) · [DOI](https://doi.org/10.1038/s41413-021-00175-9)
+- **링크:** [Lin2022_BoneRes (ko)](ko/articles/Lin2022_BoneRes_scRNAseq+HeterotopicOssification+Mkx.md) · [Lin2022_BoneRes (en)](en/articles/Lin2022_BoneRes_scRNAseq+HeterotopicOssification+Mkx.md) · [DOI](https://doi.org/10.1038/s41413-021-00175-9)
 
 ---
 
@@ -268,7 +268,7 @@ extract: 2026-06-07
   - 10개 fibroblast subset
   - 2개 opposing trajectory: 염증 손상 (Fib.2, Fib.9) vs repair (Fib.10)
   - FGF7-FGFR1, TGFB1-TGFBR2 핵심 신호전달 축
-- **링크:** [Yang2023_eLife (ko)](ko/articles/Yang2023_eLife.md) · [Yang2023_eLife (en)](en/articles/Yang2023_eLife.md) · [DOI](https://doi.org/10.7554/eLife.85500)
+- **링크:** [Yang2023_eLife (ko)](ko/articles/Yang2023_eLife_scRNAseq+ACL-Degeneration.md) · [Yang2023_eLife (en)](en/articles/Yang2023_eLife_scRNAseq+ACL-Degeneration.md) · [DOI](https://doi.org/10.7554/eLife.85500)
 
 ---
 
@@ -282,7 +282,7 @@ extract: 2026-06-07
   - AIS 특이적 MSC-IGFBP5: 골아세포 분화 실패 (저골밀도 기전)
   - AIS 특이적 CPC-PCNA: 연골세포 분화 실패 (비대칭 성장 기전)
   - 면역세포가 AIS에서 현저히 증가
-- **링크:** [Yang2021_JORSpine (ko)](ko/articles/Yang2021_JORSpine.md) · [Yang2021_JORSpine (en)](en/articles/Yang2021_JORSpine.md) · [DOI](https://doi.org/10.1002/jsp2.1184)
+- **링크:** [Yang2021_JORSpine (ko)](ko/articles/Yang2021_JORSpine_scRNAseq+Scoliosis-AIS.md) · [Yang2021_JORSpine (en)](en/articles/Yang2021_JORSpine_scRNAseq+Scoliosis-AIS.md) · [DOI](https://doi.org/10.1002/jsp2.1184)
 
 ---
 
@@ -296,7 +296,7 @@ extract: 2026-06-07
   - RNA velocity: 인대세포 내피분화 trajectory 확인 — C6 (progenitor) → endothelial/chondrocyte/osteoblast branches
   - LOXL2, HIF1A가 내피분화 중 점진적 증가
   - OPLL 최초 single-cell atlas
-- **링크:** [Wang2024_BoneRes (ko)](ko/articles/Wang2024_BoneRes.md) · [Wang2024_BoneRes (en)](en/articles/Wang2024_BoneRes.md) · [DOI](https://doi.org/10.1038/s41413-024-00327-7)
+- **링크:** [Wang2024_BoneRes (ko)](ko/articles/Wang2024_BoneRes_scRNAseq+OPLL+LOXL2.md) · [Wang2024_BoneRes (en)](en/articles/Wang2024_BoneRes_scRNAseq+OPLL+LOXL2.md) · [DOI](https://doi.org/10.1038/s41413-024-00327-7)
 
 ---
 
@@ -309,7 +309,7 @@ extract: 2026-06-07
   - 11개 cluster: pluripotent, endothelial, early tenogenic progenitors (Aldh1a2+/Acta2+), differentiating tenocytes (Scx+), mature tenocytes (Tnmd+)
   - PHATE trajectory: iPSC → mesodermal → tenocyte 연속 경로
   - RA signaling이 건형성 음성 조절
-- **링크:** [Yoshimoto2022_FrontCellDevBiol (ko)](ko/articles/Yoshimoto2022_FrontCellDevBiol.md) · [Yoshimoto2022_FrontCellDevBiol (en)](en/articles/Yoshimoto2022_FrontCellDevBiol.md) · [DOI](https://doi.org/10.3389/fcell.2022.780038)
+- **링크:** [Yoshimoto2022_FrontCellDevBiol (ko)](ko/articles/Yoshimoto2022_FrontCellDevBiol_iPSC-Tenocyte+scRNAseq.md) · [Yoshimoto2022_FrontCellDevBiol (en)](en/articles/Yoshimoto2022_FrontCellDevBiol_iPSC-Tenocyte+scRNAseq.md) · [DOI](https://doi.org/10.3389/fcell.2022.780038)
 
 ---
 

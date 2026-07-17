@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # Transcriptomic and Proteomic Analyses Reveal the Potential Mode of Action of Chondrocyte Sheets in Hyaline Cartilage Regeneration

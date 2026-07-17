@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-06
+extract_file: extract/2026-06-06_p01.txt
 ---
 
 # Histone ChIP-Seq identifies differential enhancer usage during chondrogenesis as critical for defining cell-type specificity

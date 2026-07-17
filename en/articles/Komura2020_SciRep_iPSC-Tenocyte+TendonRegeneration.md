@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p01.txt
 ---
 
 # Induced pluripotent stem cell-derived tenocyte-like cells promote the regeneration of injured tendons in mice

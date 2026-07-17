@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p01.txt
 ---
 
 # Single cell analysis reveals inhibition of angiogenesis attenuates the progression of heterotopic ossification in Mkx−/− mice

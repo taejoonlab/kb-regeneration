@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p01.txt
 ---
 
 # The Transcription Factor-microRNA Regulatory Network during hESC-chondrogenesis

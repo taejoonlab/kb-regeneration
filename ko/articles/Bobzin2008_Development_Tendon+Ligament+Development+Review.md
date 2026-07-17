@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p01.txt
 ---
 
 # 힘줄과 인대의 발달 및 유지

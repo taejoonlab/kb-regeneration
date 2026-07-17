@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # 골에서의 혈관 형성 및 기능

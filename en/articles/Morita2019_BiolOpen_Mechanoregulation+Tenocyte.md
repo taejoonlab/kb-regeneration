@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # The optimal mechanical condition in stem cell-to-tenocyte differentiation determined with the homogeneous strain distributions and the cellular orientation control

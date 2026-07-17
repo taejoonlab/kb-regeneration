@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # 골격줄기세포: 골격 유지 및 재생에 대한 통찰

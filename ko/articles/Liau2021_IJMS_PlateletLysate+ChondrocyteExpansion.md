@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p01.txt
 ---
 
 # Feasibility of Human Platelet Lysate as an Alternative to Foetal Bovine Serum for In Vitro Expansion of Chondrocytes

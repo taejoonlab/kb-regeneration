@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # 건 발달 및 근골격 조립: 세포외기질의 새롭게 밝혀진 역할

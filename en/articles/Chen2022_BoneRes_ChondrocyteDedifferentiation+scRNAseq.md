@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-06
+extract_file: extract/2026-06-06_p01.txt
 ---
 
 # A high-resolution route map reveals distinct stages of chondrocyte dedifferentiation for cartilage regeneration

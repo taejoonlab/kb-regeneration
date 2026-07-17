@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # Tenogenic Induction From Induced Pluripotent Stem Cells Unveils the Trajectory Towards Tenocyte Differentiation

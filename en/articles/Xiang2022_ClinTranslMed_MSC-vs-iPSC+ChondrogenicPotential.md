@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # Differences in the Intrinsic Chondrogenic Potential of Human Mesenchymal Stromal Cells and iPSC-Derived Multipotent Cells

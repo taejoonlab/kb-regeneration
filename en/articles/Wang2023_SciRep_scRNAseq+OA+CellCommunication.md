@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # Probing the communication patterns of different chondrocyte subtypes in osteoarthritis at the single cell level using pattern recognition and manifold learning

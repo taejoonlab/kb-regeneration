@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
+extract_file: extract/2026-06-07_p02.txt
 ---
 
 # A Single-Cell Atlas Depicting the Cellular and Molecular Features in Human Anterior Cruciate Ligamental Degeneration: A Single Cell Combined Spatial Transcriptomics Study

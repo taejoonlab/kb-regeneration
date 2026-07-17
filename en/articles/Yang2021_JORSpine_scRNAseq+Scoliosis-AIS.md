@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-06
+extract_file: extract/2026-06-06_p01.txt
 ---
 
 # Single-cell RNA Seq reveals cellular landscape-specific characteristics and potential etiologies for adolescent idiopathic scoliosis

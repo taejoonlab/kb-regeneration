@@ -1,6 +1,7 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-06
+extract_file: extract/2026-06-06_p01.txt
 ---
 
 # Adipogenesis, Osteogenesis, and Chondrogenesis of Human Mesenchymal Stem/Stromal Cells: A Comparative Transcriptome Approach
