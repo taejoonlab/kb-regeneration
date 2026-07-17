@@ -1,5 +1,5 @@
 ---
-tags: [2026-07]
+tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
 ---
