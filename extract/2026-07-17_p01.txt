@@ -1,0 +1,2723 @@
+===== Sabourin2009_StemCells_SpinalCordNSCniche+ZEB1 =====
+THE STEM CELL NICHE
+A Mesenchymal-Like ZEB11 Niche Harbors Dorsal Radial Glial
+Fibrillary Acidic Protein-Positive Stem Cells in the Spinal Cord
+JEAN-CHARLES SABOURIN,a KARIN B. ACKEMA,b DAVID OHAYON,a PIERRE-OLIVIER GUICHET,a FLORENCE E. PERRIN,a
+ALAIN GARCES,a CHANTAL RIPOLL,a JEROEN CHARITE´,c LIONEL SIMONNEAU,d H. KETTENMANN,e AZEL ZINE,a
+ALAIN PRIVAT,a JEAN VALMIER,a ALEXANDRE PATTYN,a JEAN-PHILIPPE HUGNOTa
+aInstitut National de la Sante´ et de la Recherche Me´dicale (INSERM) U583, Physiopathologie et The´rapie des
+de´ﬁcits sensoriels et moteurs, Institut des Neurosciences de Montpellier, Hoˆpital St. ELOI, Montpellier, France;
+bGrowth & Development, Biozentrum, University of Basel, Basel, Switzerland; cDepartment of Cell Biology,
+Erasmus Medical Center, Rotterdam, The Netherlands; dLaboratoire interdisciplinaire de recherche en didactique
+et formation, University Montpellier, Montpellier, France; eMax-Delbru¨ck-Centrum fu¨r Molekulare Medizin
+(MDC), Berlin, Germany
+Key Words. Neural stem cells • Spinal cord • Niche • ZEB1
+ABSTRACT
+In humans and rodents the adult spinal cord harbors neu-
+ral stem cells located around the central canal. Their iden-
+tity, precise location, and speciﬁc signaling are still ill-
+deﬁned and controversial. We report here on a detailed
+analysis of this niche. Using microdissection and glial
+ﬁbrillary acidic protein (GFAP)-green ﬂuorescent protein
+(GFP) transgenic mice, we demonstrate that neural stem
+cells are mostly dorsally located GFAP1 cells lying epen-
+dymally and subependymally that extend radial processes
+toward the pial surface. The niche also harbors doublecor-
+tin protein (Dcx)1 Nkx6.11 neurons sending processes into
+the lumen. Cervical and lumbar spinal cord neural stem
+cells maintain expression of speciﬁc rostro-caudal Hox
+gene combinations and the niche shows high levels of sig-
+naling proteins (CD15, Jagged1, Hes1, differential screen-
+ing-selected gene aberrative in neuroblastoma [DAN]).
+More surprisingly, the niche displays mesenchymal traits
+such as expression of epithelial-mesenchymal-transition
+zinc ﬁnger E-box-binding protein 1 (ZEB1) transcription
+factor and smooth muscle actin. We found ZEB1 to be
+essential for neural stem cell survival in vitro. Prolifera-
+tion within the niche progressively ceases around 13 weeks
+when the spinal cord reaches its ﬁnal size, suggesting an
+active role in postnatal development. In addition to hippo-
+campus and subventricular zone niches, adult spinal cord
+constitutes a third central nervous system stem cell niche
+with speciﬁc signaling, cellular, and structural characteris-
+tics that could possibly be manipulated to alleviate spinal
+cord traumatic and degenerative diseases. STEM CELLS
+2009;27:2722–2733
+Disclosure of potential conﬂicts of interest is found at the end of this article.
+INTRODUCTION
+Compared with brain neural stem cell niches (subventricular
+zone [SVZ]) and hippocampus), very little is known about stem
+cells in the adult spinal cord [1–3]. Bona ﬁde neural stem cells
+able to form long-term passageable neurospheres appear to be
+located only around the central canal [4]. After spinal cord
+trauma and also in various degenerative diseases, these migrate
+to the lesion site and differentiate into both astrocytes and oli-
+godendrocytes [5]. This may contribute to the exacerbation of
+the glial scar or inversely to axonal regeneration. Formation of
+neuronal-like cells and oligodendrocytes from the adult spinal
+cord both in physiological and pathological situations has also
+been reported [6–10]. The precise identity and diversity of
+stem/progenitor cells around the central canal is not yet known.
+Single cell puriﬁcation and studies with transgenic animals
+expressing green ﬂuorescent protein (GFP) in cells around the
+canal led to the conclusion that neural stem cells are glial ﬁbril-
+lary acidic protein (GFAP)-negative ependymal cells [11, 12].
+Stem cells in the adult spinal cord can also be sorted based on
+their high aldehyde dehydrogenase activity and these can then
+be induced to differentiate in vitro to form motoneurons thus
+opening new approaches to treat motoneuron disease [13]. We
+recently reported the existence of a Sox2þ Nestinþ stem/pro-
+genitor cell niche around the human central canal cord [14].
+Author contributions: J.C.S., K.B.A. P.O.G., F.E.P., and C.R.: conception and design; D.O., J.C., L.S., H.K., A.Z., and A.P.: provision
+of study material; A.G.: collection and/or assembly of data; A.P. and J.V.: ﬁnancial support; J.P. H.: conception and design, manuscript
+writing, ﬁnal approval of manuscript.
+A.P. and J.P.H. contributed equally to this work.
+Correspondence: Jean-Philippe Hugnot, Ph.D., Institut National de la Sante´ et de la Recherche Me´dicale (INSERM) U583,
+Physiopathologie et The´rapie des de´ﬁcits sensoriels et moteurs, Institut des Neurosciences de Montpellier, Hoˆpital St. ELOI,
+Montpellier, France. Tel: 00 33 4 99 63 60 08; Fax: 00 33 4 99 63 60 20; e-mail: hugnot@univ-montp2.fr
+Received May 11, 2009;
+accepted for publication September 8, 2009; ﬁrst published online in STEM CELLS EXPRESS September 25, 2009. V
+C AlphaMed Press
+1066-5099/2009/$30.00/0 doi: 10.1002/stem.226
+STEM CELLS 2009;27:2722–2733 www.StemCells.com
+
+The two brain neural stem cell niches have been exten-
+sively described but on the contrary the cellular composition,
+organization, and molecular signalings in the spinal cord
+niche remain ill-deﬁned. Here we report a detailed analysis of
+this third central nervous system (CNS) niche and show an
+unexpected cellular and molecular complexity. Neural stem
+cells
+were
+accurately
+identiﬁed
+as
+mostly
+dorsal
+radial
+GFAPþ cells lying in a multicellular niche displaying mesen-
+chymal features. These cells maintain correct rostro-caudal
+Hox gene pattern and require the epithelial-mesenchymal tran-
+sition transcription factor zinc ﬁnger E-box-binding protein 1
+(ZEB1) for their expansion in vitro. A better knowledge of
+this niche may ultimately allow its manipulation, permitting
+endogenous regeneration of the spinal cord.
+MATERIALS AND METHODS
+Spinal Cord Dissection and Neural
+Stem Cell Culture
+Mice were handled in compliance with French regulations. Spinal
+cords from 12- to 15-week-old OF1 wild-type (Janvier, Le Gen-
+est-Saint-Isle, France) or transgenic (hGFAP-GFP [15]) mice
+euthanized with CO2 were dissected and rapidly processed for
+neurosphere assay as described in Johansson et al. [12] without
+the bovine serum albumin step. For ﬂow cytometry, erythrocytes
+were lysed between the dissociation and sucrose centrifugation
+steps with a solution containing 0.15 M NH4Cl, 1 mM KHCO3
+and 0.1 mM Na2EDTA. Neural stem cells were cultured as
+described in Deleyrolle et al. [16] and Dromard et al. [17]. Neu-
+rosphere assays were performed with a cell density of 1 cell per
+microliter in T25 or T75 ﬂasks. Flask manipulation was mini-
+mized to decrease neurosphere aggregation. Using mixtures of
+ﬂuorescent (actin-GFP) and nonﬂuorescent neurospheres, we
+checked that under these conditions the vast majority of spheres
+were clonal. The total number of neurospheres formed was
+assessed 10 days later by carefully microscopic scanning of the
+entire ﬂask. For the neurosphere assay using spinal cord sections,
+lumbar spinal cord was sliced with a tissue chopper (McIlwain;
+Mickle Laboratory Engineering Co., Guildford, U.K., http://
+www.micklelab.co.uk) set at 750 lm and slices were collected in
+Hanks’ balanced salt solution (HBSS). Under a binocular micro-
+scope, each section was microdissected in two or three parts (Fig. 1)
+using a diamond blade (Sapphire knife 0.22 mm, 15; World Preci-
+sion Instruments, Sarasota, FL, http://www.wpiinc.com) or the cen-
+tral canal region was removed by punching with a ﬁre-reduced Pas-
+teur pipette (Fig. 1). Spinal cord fragments were then incubated in
+250 ll HBSS, 30 ll trypsin 13 mg/ml, 30 ll hyaluronidase 7 mg/ml,
+7 ll DNaseI 10 mg/ml, and 13 ll kinureic acid 4 mg/ml for 30
+minutes at 37C and dissociated by pipetting with yellow tips. The
+cell suspension was ﬁltered on a 40-lm sieve (BD, Franklin Lakes,
+NJ, http://www.bdbiosciences.com) and plated in neurosphere me-
+dium at clonal density (1 cell per microliter).
+Figure 1.
+Proliferation in the niche and localization of spinal cord neural stem cells. (A): Example of a Ki67þ cell (red) in the niche. (B): Aver-
+age number of Ki67þ cells per section (13-lm thick, 32 sections per animal) in the niche from 0–13 weeks after birth. Values are means 
+standard error of mean (SEM) (n ¼ 96 sections from three animals). (C): Spinal cord length from 0–13 weeks after birth measured with a ruler.
+Values are means  SEM (n ¼ 3 spinal cords analyzed). (D): Photographs of spinal cord 1 or 9 weeks after birth (scale bar ¼ 5 mm). (E, G, I):
+Schematic representations of lumbar spinal cord microdissections. (E): An approximately 550-lm diameter central fragment (red circle) was dis-
+sected from the parenchyma and both parts were processed for neurosphere formation. (G): Spinal cords were cut in half. (I): A narrow dorsal
+medial strip (3) was dissected. (F, H, J): Number of neurospheres formed per 1,000 cells seeded from dissections shown in (E, G, I). Values are
+means  SEM (n ¼ 7 ﬂasks) of one experiment representative of three completely independent experiments. For experiment in (G), the absolute
+numbers of neurospheres (deduced from the total number of cells obtained in the dorsal and ventral parts  frequency of neurosphere formation)
+were 84,000 in the dorsal versus 36,000 in the ventral part. For experiment in (I), the absolute numbers of neurospheres were 1,500, 5,500, and
+22,690 for the three indicated parts. Long dorsal GFAPþ cells are depicted in green in (E, G, I) to indicate that they may be damaged by the
+excision procedure in (E) but preserved in (G) and (I). (K): Diameter of neurospheres derived from the different spinal cord regions shown in
+(I). Dorsal medial-derived neurospheres are larger. Number of neurospheres measured from regions 1, 2, and 3 are 21, 9, and 30, respectively.
+(L): Multipotency of dorsal medial neurospheres. After differentiation for 4 days, most individual neurospheres show the presence of three cell
+types: astrocytes (GFAP; green, yellow arrow), oligodendrocytes (O4; blue, white arrow), and young neurons (Dcx; red, arrowhead). Abbrevia-
+tions: C, central canal; D, dorsal; Dcx, doublecortin protein; GFAP, glial ﬁbrillary acidic protein; P, parenchyma; V, ventral.
+Sabourin, Ackema, Ohayon et al.
+2723
+www.StemCells.com
+
+Statistical Analysis
+Tests were performed using one-way analysis of variance. Sim-
+ple, double and triple asterisks indicate, respectively, 0.05%,
+0.01% and 0.001% statistically signiﬁcant differences.
+RESULTS
+Proliferation in the Central Region Ceases
+Around 13 Weeks and Correlates with
+Postnatal Spinal Cord Extension
+As the postnatal development of the central canal region has
+been barely explored, we started by exploring the rate of pro-
+liferation from 0–13 weeks after birth using immunodetection
+of Ki67þ cells (Fig. 1A). We found a progressive decrease of
+proliferating cells around the central canal until 9 weeks, after
+which proliferation was no longer detected (Fig. 1B). This was
+conﬁrmed by injecting bromodeoxyuridine (BrdU) for 4 days
+every 4–8 hours and counting the number of BrdUþ cells. No
+BrdUþ cells were found around the canal in 42 sections corre-
+sponding to 500 lm in thickness, whereas positive cells were
+constantly found in the parenchyma. To test the possibility that
+postnatal central canal proliferation is linked to postnatal spinal
+cord extension, spinal cord length was measured during the 13
+postnatal weeks. As shown in Figure 1D, spinal cord length
+increases 2-fold after birth and a clear opposite correlation
+exists between cellular proliferation and extension (Fig. 1C).
+This substantiates the involvement of the central canal prolifer-
+ation in the increase of spinal cord length after birth and shows
+that this region is not or hardly proliferative in adult.
+Spinal Cord Neural Stem Cells Are Principally
+Located Dorsally
+Although proliferation in the central region is completed
+around 13 weeks, neural stem cells are still present after this
+age as evidenced by the formation of neurospheres by approx-
+imately 0.2% of clonally seeded cells (not shown). We speci-
+ﬁed the location of these neurosphere-forming cells using
+microdissection. As the lumbar spinal cord has more neural
+stem cells than at other levels [1], our study was concentrated
+on this region. Using a ﬁre-reduced Pasteur pipette (diameter
+540 lm) as a puncher on adult spinal cord sections, we ﬁrst
+conﬁrmed
+that
+neurosphere-forming
+cells
+are
+essentially
+located around the central canal (Fig. 1E, 1F). Microdissec-
+tion was then used to divide spinal cord sections into dorsal
+and ventral regions (Fig. 1G, 1H), which were then processed
+for neural stem cell assay. Surprisingly, the majority of neuro-
+sphere-forming cells were found to be located dorsally. Dis-
+secting further down to a dorsal strip including the central
+canal showed the highest enrichment for neurosphere-forming
+cells (Fig. 1I, 1J). After 2 weeks, the neurospheres reached a
+size larger than 500 lm, suggesting that they originate from
+stem rather than progenitor cells [18]. Upon differentiation
+(Fig. 1L; supporting information Fig. 3F), the neurospheres
+generate astrocytes, O4þ oligodendrocytes, and young Dcxþ
+neurons. The latter were GABAergic as indicated by GABA
+immunodetection (data not shown). Neurosphere formation
+and multipotentiality were maintained even after nine pas-
+sages (supporting information Fig. 3F). Neurospheres arising
+from the other regions might be due to contamination or to
+the presence of few non dorsal-medial located neurosphere-
+forming-cells. Such neurospheres are smaller (Fig. 1K), sug-
+gesting that they may be derived from progenitors rather than
+stem cells [18]. Of note, fourfold more neurospheres were
+obtained from 1,000 cells of the dorsal medial part (Fig. 1J)
+than from the central part (Fig. 1F), indicating that punching
+the central region for excision may damage part of the neuro-
+sphere-forming cells, as would be expected if these possessed
+long radial processes (see below).
+The Central Canal Region Is Composed
+of Several Cell Types
+The predominant dorsal location of neural stem cells prompted
+us to investigate the identity of these cells using a series of
+antibodies known to label different immature cells of the neural
+lineage. Simple histological examination of the adult mouse
+central canal shows that this region is not composed of a single
+layer of cells but like in humans contains several cell types dif-
+fering in their morphology and position (ependymal and sub-
+ependymal) (Fig. 2A). Here, the term ‘‘ependymal’’ indicates
+that the cell nucleus is within the ﬁrst row of cells. Most cells
+around the canal express the immature intermediate ﬁlament
+proteins vimentin (Fig. 2B) and nestin (not shown), the Sox2
+and Sox9 transcription factors (Fig. 2E, 2F), the polysialated
+form of neural cell adhesion molecule (PSA-NCAM, Fig. 2D),
+and Cadherin 13 (also known as t-cadherin, Fig. 2H), an adhe-
+sion molecule expressed by various neural precursor cells in
+vitro [19]. Cadherin 13 levels are however higher in young ani-
+mals than in adults (supporting information Fig. 1A). Sox4, a
+marker of the oligodendrocytic lineage, was not detected in
+adults; however we found positive cells in younger animals
+(Fig. 2G). Anti-CD133, a well-known marker of neuroepithelial
+and neural stem cells, stains the apical side of central canal
+cells (Fig. 2C). The endothelin receptor B (EdnrB), which is
+strongly
+expressed
+in
+spinal
+cord
+neurospheres
+[16],
+is
+expressed by most cells around the canal but, signiﬁcantly, dor-
+sal cells extending a process toward the pial surface are
+strongly stained (Fig. 2I). Anti-brain lipid binding protein
+(BLBP; also known as fatty acid binding protein 7), a radial
+glial marker, labels a small population of cells with radial mor-
+phology most often situated in the dorsal part (Fig. 2J). Staining
+for GFAP, an astrocytic/neural stem cell marker, labels several
+cell types (Fig. 2K, 2L; supporting information Fig. 1B, 1C,
+1H). Of note, these GFAPþ cells are detected with a polyclonal
+antibody and only a fraction can be detected with a monoclonal
+antibody (not shown). A group of cells extending very long
+GFAPþ processes toward the pial layer were always observed
+in the dorsal part (Fig. 2L; supporting information Fig. 1B, 1C).
+These cells were either in the ependymal layer adjacent to the
+canal (supporting information Fig. 1B, 1C) or further above in
+a subependymal location (supporting information Fig. 1B, 1C,
+1H) when they sent a process toward the canal (Fig. 2K, 2L;
+supporting information Fig. 1H). Interestingly a fraction of
+these cells express the radial glia marker BLBP (Fig. 2K). Ep-
+endymal and subependymal GFAPþ are also occasionally
+observed in the lateral and ventral part of the canal (Fig. 2L;
+supporting information Fig. 1C). CD15 (also known as Lewis
+X antigen or stage-speciﬁc embryonic antigen-1), a marker for
+various stem cells including neural stem cells [20], stained the
+central spinal cord region dissymmetrically with the dorsal
+region around the canal displaying a higher diffuse staining
+than the ventral part (Fig. 2P). Central canal cells were not la-
+beled but remarkably a fraction of dorsal GFAPþ cells and their
+luminal extension were labeled (Fig. 2Q). Double-labeled
+BLBP and CD15 could also be observed (not shown).
+Staining for b-III-tubulin (Fig. 2M) revealed the presence
+of neuronal cells lying close to the ependymal region often
+extending a process toward the lumen. These neurons express
+Dcx, a marker for young neurons, indicating that they may
+retain immaturity characteristics (Fig. 2N). Interestingly, these
+cells show a large bulge at the tip of their process in the canal
+2724
+Adult Spinal Cord Neural Stem Cell Niche
+
+lumen (Fig. 2M, 2N). The presence of these neurons was con-
+ﬁrmed by the observation of ﬂuorescent cells using a trans-
+genic mouse expressing GFP under a Dcx promoter (support-
+ing information Fig. 1D). To gain further insight on this
+neuronal subtype, we colabeled Dcx with the homeoprotein
+Nkx6.1, as during spinal cord development, the central canal
+region is derived from a ventral domain expressing this gene
+[21]. Nkx6.1 cells are mostly subependymal (Fig. 2O) and
+coexpressed Dcx, suggesting a ventral developmental origin
+of these central canal neurons (Fig. 2N, inset). Nkx6.1þ rarely
+stained GFAPþ dorsal cells (data not shown). Since we
+detected postnatal proliferation within the niche, we evaluated
+the possibility that these neuronal cells were born postnatally.
+Three-week-old mice were injected with BrdU for 5 days,
+then the presence of Dcx or b-III-tubulin neurons was
+assessed after 3 or 7 days. No BrdUþ neuronal cells were
+detected, suggesting that these cells are generated during the
+embryonic or the early postnatal period. As in the lumbar
+central canal, a diversity of cells (CD133þ, GFAPþ, and
+Nkx6.1þ) is also observed at the cervical level (supporting in-
+formation Fig. 1E–1G).
+We further examined the cellular diversity around the
+canal with electron microscopy and immunogold techniques
+(supporting information Fig. 2). There is a clear ventral/dorsal
+dissymmetry of the central canal organization with the most
+dorsal part showing a higher cell density (supporting informa-
+tion Fig. 2A) often organized in two or three rows (supporting
+information Fig. 2C). In agreement with immunoﬂuorescence
+analysis, cells with long radial extensions containing interme-
+diate ﬁlament recognized by GFAP antibodies were observed
+Figure 2.
+Diversity of cells in the spinal cord niche. (A): A lumbar spinal cord section stained with toluidine blue. Arrows indicate subependymal
+cells and arrowhead points to a cell with neuronal features. (B–Q): Immunoﬂuorescence detection of indicated marker on adult spinal cord sections.
+(C): CD133 labeling is conﬁned mainly to the apical pole of cells around the canal (arrowhead). (G): Sox4 labeling (arrow) is often observed in
+twin cells, suggesting recent mitosis. (I): The EdnRB stains central canal cells and long dorsal radial processes (arrow). (J): BLBP (red) stains a few
+dorsal cells with a radial process. (K): High magniﬁcation of the BLBPþ cell in (J). This cell coexpresses GFAP (middle picture). (L): GFAP stain-
+ing shows processes contacting the lumen (arrows) and a dorsal group of GFAPþ cells (arrowhead). (M, N): b-III-tubulinþ and Dcxþ neuronal-like
+cells extending a process into the lumen (arrow). A bulge (arrowheads) is often observed at the tip of the processes. (O): Nkx6.1 cells (red nuclei)
+are located mostly subependymally. These cells coexpress Dcx (inset in [N]). (P): CD15 staining is present mostly dorsally. (Q): High magniﬁcation
+of box in (P). CD15 stains a fraction of GFAPþ dorsal cells (arrowhead) and some luminal extension (arrow). Ventral central canal is at the bottom
+on all images. Scale bar ¼ 10 lm. Abbreviations: BLBP, brain lipid binding protein; Dcx, doublecortin protein; EdnrB, endothelin receptor B;
+GFAP, glial ﬁbrillary acidic protein; PSA-NCAM, polysialated form of neural cell adhesion molecule; Vim, vimentin.
+Sabourin, Ackema, Ohayon et al.
+2725
+www.StemCells.com
+
+in this region (supporting information Fig. 2B). Subependymal
+cells were common all around the central canal (supporting
+information Fig. 2D). These cells had either similar ultrastruc-
+tural features to ependymocytes or were clearly distinct (sup-
+porting information Fig. 2D). This analysis provides evidence
+for a dorsal-ventral dissymmetry of the central canal and the
+presence of several ependymal and subependymal cell types.
+Spinal Cord Neural Stem Cells Are Radial
+GFAP1 Cells
+Since in both humans and mice, many data indicate that neu-
+ral stem cells in the adult brain are GFAPþ cells closely asso-
+ciated with the ependymal cell layer, we investigated whether
+the GFAPþ cells around the canal behaved like neural stem
+cells in vitro using a human GFAP promoter-GFP transgenic
+mouse [15]. Around the canal of the lumbar spinal cord, most
+bright GFPþ cells (>80%) were found in the dorsal part (Fig.
+3A, 3B, supporting information Fig. 1H), located in the epen-
+dymal layer in direct contact with the lumen (Fig. 3A), or
+located subependymally, sending a process toward the lumen
+(Fig. 3B). GFP further revealed the presence of very long ra-
+dial processes originating from the GFAPþ dorsal cells
+(Fig. 3A). All GFPþ cells around the central canal were found
+to be GFAPþ (52 of 52 cells) (Fig. 3B; supporting informa-
+tion Fig. 1H), but inversely a fraction of GFAPþ cells are
+GFP. To examine whether GFPþ cells could generate neuro-
+spheres, after spinal cord dissection GFPþ and GFP cells
+were separated by ﬂow cytometry and seeded at clonal den-
+sity (supporting information Fig. 1I). We found that 90% of
+Figure 3.
+Identiﬁcation of spinal cord neural stem cells. (A, B): GFPþ cells around the canal of hGFAP-GFP mouse. (A): Example of three
+dorsal GFPþ cells abutting the central canal. These cells are located ependymally (inset). Note the presence of long tortuous GFP dorsal radial
+processes (arrow) and, in the ventral part, a group of weakly GFPþ cells (arrowhead). (B): Example of one dorsal GFPþ cell located subependy-
+mally (box) sending a process into the lumen (arrowhead). This cell coexpresses GFAP (red, left-hand image). (C): Neurospheres are derived
+mostly from GFPþ cells. After dissection of hGFAP-GFP spinal cord GFPþ and GFP cells were separated by ﬂow cytometry (supporting infor-
+mation Fig. 1I) and seeded at clonal density. Values are means  SEM (n ¼ 7 ﬂasks) of one experiment representative of four completely inde-
+pendent experiments. (D, D0): All primary derived neurospheres contain one or several strongly GFAPþ cells (green). Two examples are shown.
+(E): Most of primary neurospheres from the hGFAP-GFP mice contain one or several GFPþ cells that coexpressed GFAP (arrows). Inversely,
+some GFAPþ cells did not express GFP (arrowhead). (F–L): Immunoﬂuorescence detection of indicated antigen in undifferentiated neurospheres.
+Note that after centrifugation and attachment on coverslips for immunoﬂuorescence analysis, undifferentiated neurospheres can partially disaggre-
+gate giving an aspect of dissociated cells (F, H). Scale bars ¼ 10 lm. Abbreviations: BLBP, brain lipid binding protein; DAN, differential
+screening-selected gene aberrative in neuroblastoma; EdnrB, endothelin receptor B; GFAP, glial ﬁbrillary acidic protein; GFP, green ﬂuorescent
+protein; PSA-NCAM, polysialated form of neural cell adhesion molecule.
+2726
+Adult Spinal Cord Neural Stem Cell Niche
+
+the neurospheres are formed in the GFPþ fraction (Fig. 3C).
+These neurospheres could be cultured for at least 10 passages
+(not shown). In all neurospheres (179 of 179) cultured for
+only a few days at clonal density at least one or several
+strongly expressing GFAPþ cells were found (Fig. 3D, D0),
+some of which expressed CD133 (supporting information Fig.
+3A). We conﬁrmed the presence of GFAPþ cells by deriving
+neurospheres from the hGFAP-GFP mouse. We found that
+104 of 158 neurospheres contain one or several GFPþ cells
+coexpressing GFAP (Fig. 3E). Spheres that do not contain
+GFPþ cells may be derived from the subpopulation of GFAPþ
+GFP cells mentioned above. The observation of both GFAPþ
+and GFAP cells within a clonally expanded neurosphere sug-
+gests cellular diversity, probably resulting from asymmetric
+division as would be expected for neural stem cells. The vast
+majority of GFAP cells were found to express Olig2,
+Map2ab, CD15, and Dcx markers, presumably representing
+bipotent neuronal-glial progenitors (supporting information
+Fig. 3B–3E). Of note, all neurospheres were found to strongly
+express the markers we observed in the niche, namely Cad-
+herin 13, Sox4, Nkx6.1, DAN (see below), BLBP, PSA-
+NCAM, and EdnRB, (Fig. 3F–3L). All together, these results
+demonstrate that the adult spinal cord neural stem cells are
+mostly dorsal medial GFAPþ cells directly or indirectly in
+contact with the central lumen.
+Elevated Signalings and Mesenchymal
+Features of the Niche
+Various adult stem cells are commonly maintained in their
+niche through activation of key signalings. In the central
+canal, we evaluated the presence of such local stem cell sig-
+nalings by detection of the HES1 protein, a key effector of
+Sonic hedgehog and Notch pathways. HES1 is expressed in
+the nuclei of most cells around the canal (Fig. 4A), but also
+frequently in the cytoplasm, notably in long dorsal processes
+(Fig. 4B). This nuclear/cytoplasmic localization may reﬂect
+regulatory shuttling of the protein. The Jagged1 protein, one
+of the ligands of the Notch pathway, is also readily observed
+on the luminal side of the cells around the canal (Fig. 4C).
+Several stem cell niches are characterized by the presence of
+bone morphogenetic proteins (BMPs) and anti-BMP signaling
+molecules, such as BMP4 and noggin in the SVZ. In the adult
+spinal cord, we found that DAN, a BMP inhibitor highly
+expressed in spinal cord neurospheres [16], is expressed by,
+depending on the section, most or a restricted number of cen-
+tral canal cells (Fig. 4D). Double labeling indicated that dor-
+sal GFAPþ cells express DAN (Fig. 4D). In addition to ca-
+nonical stem cell signalings, recent studies have shown the
+implication of transcription factors of the epithelial-mesenchy-
+mal transition (EMT) in the maintenance of stem cells both in
+vertebrates and invertebrates [22]. This prompted us to examine
+the expression of ZEB1/2, SNAI1/2, and TWIST1/2 in neuro-
+spheres and in the niche. As shown in Figure 4E, reverse-tran-
+scription polymerase chain reaction (PCR) analysis shows the
+expression of SNAI2, ZEB1, and ZEB2 genes in spinal cord
+neurospheres. Expression of ZEB1 and ZEB2 was also demon-
+strated at the protein level by immunoﬂuorescence (Fig. 4F,
+4G). The mesenchymal feature of cultured neural stem cells
+was further conﬁrmed by the expression of vimentin, ﬁbronec-
+tin, CD44, and smooth muscle a-actin (SMA also known as
+actin a 2), four proteins commonly found in mesenchymal cells
+(Fig. 4H–4K and PCR on Fig. 4E). Upon neurosphere differen-
+tiation, the majority of GFAPþ astrocytic cells are SMAþ (Fig.
+4L). In the spinal cord, the majority of cells around the canal
+were found to express CD44, SMA, and ZEB1 (Fig. 4M–4O),
+whereas ZEB2 was not detected. Dorsal-medially or ventral-
+medially located cells tended to be stained more strongly for
+ZEB1 and dorsal GFAPþ cells were intensely labeled (Fig. 4O,
+4P). ZEB1 expression was also examined in the adult brain
+SVZ (supporting information Fig. 4A, 4B). The majority of
+GFAPþ cells, considered to be stem cells [23], were positive,
+whereas only a fraction of PSA-NCAMþ young neuronal cells
+expressed ZEB1 at a detectable level.
+Collectively, these data provide evidence for the mainte-
+nance of several typical developmental signalings and more
+unexpectedly of EMT genes in the spinal cord niche and in
+cultured neural stem cells. Compared with epithelial cells, mes-
+enchymal cells are characterized by a high ability to migrate in
+vivo and in vitro. We thus assessed this mesenchymal feature
+on cultured adult spinal cord neural stem cells by plating neu-
+rosphere cells on laminin and measuring the cellular mobility
+by videomicroscopy. Primary mouse skin ﬁbroblasts were used
+as a positive control for the mesenchymal phenotype, whereas
+HeLa and HEK293 cells were used as two control lines for epi-
+thelial phenotype. As shown on Figure 4Q and supporting in-
+formation Videos V1–V4, we found that neurosphere cells
+were as motile as ﬁbroblasts, whereas as expected, epithelial
+cells were nearly immobile within this studied time frame.
+Critical Role of ZEB Proteins in Spinal Cord
+Neural Stem Cells In Vitro
+The ZEB transcription factors constitute a family of transcrip-
+tional factors acting as essential regulators of the epithelial to
+mesenchymal transition [22]. They are also involved in the regu-
+lation of apoptosis, proliferation, senescence, and cellular polar-
+ity. As their expression in spinal cord neural stem cells has not
+been reported, we explored their role in these cells by generating
+a transgenic mouse conditionally expressing DB-ZEB, a domi-
+nant negative form of ZEB proteins [24], and GFP (Fig. 5A).
+DB-ZEB contains only the DNA-binding domain of ZEB1 and
+blocks the activity of both ZEB1 and ZEB2. Translation of DB-
+ZEB and GFP is blocked by an upstream loxed-stop cassette
+that can be removed by cre-mediated recombination. Neuro-
+spheres were derived from the adult spinal cord of DB-ZEB ani-
+mals and no overt proliferation deﬁcit was observed, as expected
+since no expression of DB-ZEB was detected in these cultures
+(data not shown). Recombination and DB-ZEB expression were
+performed in this culture by infecting with a canine adenovirus
+(CAV) expressing cre recombinase (CAV-cre). More than 75%
+of the cells were infected and recombined as measured by the
+presence of GFPþ cells (Fig. 5B). The capacity of this culture to
+form new clonal neurospheres was compared with culture
+infected with control CAV-GFP virus. Figure 5C and 5D show
+that the expression of DB-ZEB causes a massive reduction of
+the neurosphere number and a concomitant reduction of the total
+number of cells. As a control, neurosphere cells derived from
+nontransgenic animals and infected with CAV-cre and CAV-
+GFP show no signiﬁcant differences for the formation of new
+neurospheres (Fig. 5E), demonstrating the absence of cre recom-
+binase-induced toxicity. To examine how DB-ZEB affects cells,
+during the 3 days following infection, the number of apoptotic
+cells was measured by terminal deoxynucleotidyl transferase-
+mediated dUTP-biotin nick-end labeling. Figure 5F shows that
+CAV-cre infection triggers a rapid and drastic increase of apo-
+ptotic cells, suggesting an essential role of ZEB transcription
+factors in the maintenance of spinal cord neural stem cells.
+Maintenance of a Hox Gene Pattern in Adult
+Spinal Cord Neural Stem Cells Along the
+Rostro-Caudal Axis
+Recent data have demonstrated that the SVZ harbors a hetero-
+geneous population of neural stem cells derived from several
+Sabourin, Ackema, Ohayon et al.
+2727
+www.StemCells.com
+
+Figure 4.
+Elevated signaling and mesenchymal features of the spinal cord niche. (A, B): Hes1 staining. Hes1 protein is mostly nuclear (A, red)
+or in the cytoplasm (B, arrowhead), notably in long dorsal processes (B, arrow). (B): A magniﬁcation of white box is presented on right-hand
+image. (C): Jagged1 staining (red) is conﬁned to the apical part of central canal cells. (D): Cells in the niche express DAN (red), notably the
+GFAPþ cells (green) on right-hand image. (E): Reverse-transcription polymerase chain reaction expression analysis of indicated mRNA in neuro-
+spheres with (þ) or without () reverse transcriptase during cDNA synthesis. Sizes in base pair. (F): ZEB1 staining was heterogeneous in neuro-
+sphere cells: absent (yellow arrow), nuclear (arrow), or cytoplasmic (arrowhead), whereas in (G), ZEB2 was mainly cytoplasmic. (H–K):
+Neurospheres express high level of vimentin, ﬁbronectin, CD44, and SMA. (L): Immunocytochemistry on differentiated neurospheres showing
+cells coexpressing the astrocytic marker GFAP (green) and SMA (red). Most of cells around the canal stained for CD44 (M, red staining on lumi-
+nal side), SMA (N, red), ZEB1 (O, red). ZEB1 is often more strongly expressed in the dorsal part (arrow in [O]). GFAPþ dorsal cells display
+intense ZEB1 staining (P). SMA staining was also observed with a polyclonal and another monoclonal antibody (clone O-N-5) (data not shown).
+Scale bars ¼ 10 lm. (Q): Velocity of indicated cells measured by videomicroscopy during 6 hours. NSC and ﬁbroblast velocity did not differ
+signiﬁcantly. Abbreviations: bp, base pair; DAN, differential screening-selected gene aberrative in neuroblastoma; Fibro, primary mouse skin
+ﬁbroblasts; GFAP, glial ﬁbrillary acidic protein; NSC, mouse adult spinal cord neurosphere cells; Sma, smooth muscle a-actin; Snai2, Snail hom-
+olog 2; Vim, vimentin; Zeb, zinc ﬁnger E-box-binding protein.
+2728
+Adult Spinal Cord Neural Stem Cell Niche
+
+embryonic regions that generate speciﬁc neuron subtypes
+upon differentiation ([23] for review). This diversity of stem
+cells relies on the adult maintenance of different embryonic
+patterning genes such as homeobox genes. During spinal cord
+development, the regionalization of the neural tube results
+from expression of different rostro-caudal combinations of
+genes of the large Hox family [25]. It is not known whether
+these genes are still expressed in adult spinal cord neural
+stem cells and whether stem cells from different rostro-caudal
+levels would maintain regional fetal combinations of Hox
+genes. This was explored by growing neurospheres derived
+from the cervical, thoracic, and lumbar levels for four pas-
+sages and assessing the expression of the 39 Hox genes by
+semiquantitative PCR. For comparison, Hox gene expression
+was also measured in the three adult spinal cord levels. We
+found that Hox genes are differentially expressed in the adult
+spinal cord, with a clear propensity for genes located toward
+the 50 end of a given cluster to be uniquely or more highly
+expressed in the adult lumbar region (see for instance Hox
+a13, b13, c13, d13) (Fig. 6). In neurospheres, Hox genes were
+expressed and their rostro-caudal pattern was, overall, very
+well conserved. Whereas some genes expressed in the lumbar
+spinal cord were not detected in lumbar-derived neurospheres
+(a13, d11, d13), all other genes expressed only in lumbar
+Figure 5.
+Critical role of ZEB proteins for survival of cultured neural stem cells. (A): Schematic representation of cre-inducible ZEB dominant
+negative (DB-ZEB) construction injected to obtain the DB-ZEB mouse. Upon recombination, the loxed Stop cassette is removed allowing transla-
+tion of an IRES-mediated bicistronic DB-ZEB and GFP messenger. (B): Immunodetection of GFP after infection with CAV-cre adenovirus in
+DB-ZEB transgenic neurosphere cells. For this experiment, neurospheres were plated on adherent substrate. IRES-mediated GFP expression was
+too low to be detected by direct ﬂuorescence. (C, D): Histograms show the number of neurospheres and the total number of cells obtained 7
+days after seeding 1,000 noninfected or infected cells in T25 ﬂasks. In this experiment, neurospheres were derived from adult spinal cord of DB-
+ZEB mice, passaged four times, then infected with CAV virus as described in Methods. This experiment is representative of three independent
+experiments. Value given are means  standard error of means (n ¼ 7 ﬂasks). (E): Control experiment of (C) performed with neurospheres
+derived from nontransgenic mice showing that CAV-cre virus is not toxic to the cells. Value given are means  standard error of means (n ¼ 7
+ﬂasks). (F): Percentage of TUNELþ cells after infection with CAV-GFP and CAV-cre. The latter induces massive cell death of neurosphere cells.
+Value given are means  standard error of means (n ¼ 3 coverslips). Abbreviations: CaV, canine adenovirus; CaV-cre, CaV expressing cre
+recombinase; CaV-GFP, CaV expressing green ﬂuorescent protein; GFP, green ﬂuorescent protein; h, hours; TUNEL, terminal deoxynucleotidyl
+transferase-mediated dUTP-biotin nick-end labeling.
+Sabourin, Ackema, Ohayon et al.
+2729
+www.StemCells.com
+
+spinal cord were expressed only in lumbar-derived neuro-
+spheres (b13, c11, c12, d10). Hoxa11, expressed mainly in
+lumbar spinal cord but also weakly expressed in thoracic spi-
+nal cord (maybe as a result of a small dissection contamina-
+tion), was detected exclusively in lumbar-derived neuro-
+spheres.
+The
+only
+exception
+was
+Hoxc13,
+which
+is
+moderately expressed in lumbar spinal cord and neurospheres
+but was also detectable, albeit at a lower level, in cervical
+neurospheres. These data provide evidence for the preserva-
+tion in the adult spinal cord of a range of regionally speciﬁed
+neural stem cells expressing speciﬁc rostro-caudal Hox gene
+combinations.
+DISCUSSION
+In contrast with recently published data [11], we provide evi-
+dence here that the spinal cord ependymal niche is composed
+of at least three cell types (Dcxþ Nkx6.1þ neuronal cells,
+GFAPþ radial cells, and BLBPþ cells) in addition to typical
+ependymocytes. A schematic view of the central canal niche
+is presented in Figure 7. Proliferation within this niche corre-
+sponds to the period of spinal cord extension. The neural
+stem cells present in this niche are represented mainly by dor-
+sal GFAPþ cells in contact with the central canal. In vitro,
+spinal cord neural stem cells derived from different spinal
+cords accurately maintain the rostra-caudal Hox gene pattern.
+The niches expresses high levels of Notch signaling and anti-
+BMP protein and, more surprisingly, display typical mesen-
+chymal traits. Finally, we demonstrated the requirement of the
+ZEB transcription factors for neural stem cell expansion
+in vitro.
+Several cell types in the ependymal region of the adult
+spinal cord (tanycytes, cerebral-ﬂuid contacting neurons) have
+been described in several species [28, 29] since the ﬁrst
+observations of Ramon y Cajal [30]. Less is known about mo-
+lecular markers characterizing cellular subpopulations and dif-
+ferences between the ventral and dorsal parts of the canal.
+Whereas most of cells around the canal express Sox2, Sox9,
+Cadherin 13, and EdnrB, the dorsal part is distinguished by
+the presence of higher CD15 staining and by a group of
+GFAPþ radial cells, at least some of which have stem cell
+properties. This is also consistent with our observation that in
+the hGFAP-GFP mouse, the dorsal part consistently contains
+GFPþ cells, whereas in the ventral and lateral of the canal
+this was only occasionally observed. The central canal dorsal-
+ventral dissymmetry can be further demonstrated by checking
+the GENSAT expression database (http://www.gensat.org),
+which reports that some markers are restricted to the dorsal or
+ventral ependymal regions. In human spinal cord, CD15 and
+PSA-NCAM labeling of central canal cells also revealed a
+manifest ventral-dorsal dissymmetry [14].
+Recently Meletis et al. [11] did not ﬁnd any molecular
+markers delineating subpopulations of central canal cells and
+concluded that spinal cord neural stem cells are GFAP
+unlike in the SVZ. Here, in contrast, we found abundant
+GFAPþ cells around the canal, the discrepancy most probably
+resulting from the use of different antibodies. There are sev-
+eral isoforms of GFAP, some of which are expressed mostly
+around the ventricle [31]. The use of a monoclonal rather
+than polyclonal antibody (as in this study) may not reveal all
+GFAPþ cells. The presence of such cells was conﬁrmed in
+our study using polyclonal and monoclonal GFAP antibodies,
+a hGFAP-GFP transgenic mouse, and immunogold analysis.
+These cells either are located directly in contact with the cere-
+brospinal ﬂuid or lie subependymally sending a process
+between the cells, a situation quite different from that in the
+SVZ where GFAPþ cells are mostly subependymal.
+As in the SVZ, we found that most spinal cord neural
+stem cells express GFAP. However considering that in the
+SVZ, GFAP transit-amplifying cells cell can be converted
+into stem cells with epidermal growth factor [32] and that
+neurospheres are composed mainly of GFAP cells, the possi-
+bility still exists that, similarly, in the spinal cord a limited
+fraction of neurospheres could be derived from GFAP cells.
+Dorsal GFAPþ cells have a radial morphology and some
+expressed BLBP, a typical radial glial marker. In the spinal
+cord, these cells have been classiﬁed as tanycytes by other
+investigators [33–35]. This cell population is however hetero-
+geneous [29] and we could distinguish a subpopulation of
+dorsal radial GFAPþ expressing BLBP or CD15. This subpo-
+pulation may constitute a signiﬁcant fraction of adult spinal
+cord neural stem cells as (a) during development BLBPþ ra-
+dial glial cells are considered as the main population of multi-
+potent neural cells [36], (b) neurospheres are composed
+mainly of BLBPþ and CD15þ cells (this study and [17]), and
+(c) CD15 can be used to purify neural stem and progenitor
+cells in the adult SVZ and radial glial stem cell in the embryo
+Figure 6.
+Hox gene expression in spinal cord neural stem cells.
+(A): Examples of RT-PCR showing expression of 50 Hox genes re-
+stricted to the lumbar part of the adult spinal cord and in correspond-
+ing neurospheres. Hypoxanthine phosphoribosyl transferase (HPRT)
+ampliﬁcation was used as a PCR quality control. (B): Schematic rep-
+resentation of expression of the 39 Hox genes in adult spinal cord and
+in neurospheres. A black square (nd) indicates that no expression was
+detected using 2 ll of cDNA and 40 cycles. A colored square indi-
+cates that a product of the predicted size was obtained with 2 (dark
+red), 0.2 (red), and 0.02 (orange) ll of cDNA corresponding to low,
+moderate, and high expression, respectively. Abbreviations: C, cervi-
+cal; L, lumbar; NS, neurospheres; SP, spinal cord; T, thoracic.
+2730
+Adult Spinal Cord Neural Stem Cell Niche
+
+[20]. The interaction of tanycytes with the vascular system is
+reminiscent of the situation observed with type B1 astrocyte
+in the SVZ [26, 37, 38] and, signiﬁcantly, we observed that
+these cells strongly express the B receptor for endothelins, a
+family of cytokines released by endothelial cells that inﬂuen-
+ces neural stem cell proliferation in vitro [16].
+Using FoxJ1-GFP transgenic mice, a gene involved in
+the formation of motile cilia and expressed only by cells
+around the canal in the spinal cord, Meletis et al. [11]
+found that neurospheres are derived from FoxJ1þ cells.
+This supports the conclusion that neural stem cells are
+GFAP in the spinal cord since, in the SVZ, type B astro-
+cytes have a single primary cilium [27] considered as
+immotile and are thus supposed to be FoxJ1, assumptions
+remaining to be formally demonstrated. In contrast, dorsal
+radial cells are likely to express FoxJ1 as these were clearly
+GFPþ upon cre activation in FoxJ1-cre Z/EG transgenic
+mice [11].
+In addition to GFAPþ and BLBPþ cells, cerebrospinal-
+ﬂuid contacting neurons (CSF-Ns) were commonly observed
+around the canal. They have already been noted in various
+brain regions and in the spinal cord from cyclostomes to
+mammals [28], although their function is still unknown. They
+could act as mechanoreceptors sensitive to pressure or ﬂow of
+the cerebrospinal ﬂuid (CSF) or to spinal cord ﬂexion, or they
+might release neurotransmitters into the CSF as they express
+GABA and vasoactive intestinal peptide. The Dcx expression
+reported here may reﬂect an immature trait of these cells as
+Dcx is expressed transiently during development. It is how-
+ever unlikely that these CSF-Ns are produced from a continu-
+ous adult spinal cord neurogenesis as we did not detect
+BrdUþ cells after 13 weeks. In addition, we provided evi-
+dence that these neurons are not generated postnatally and a
+recent study performed in the rat showed that they are in fact
+produced during embryogenesis [39]. The expression of the
+Nkx6.1 homeogene we found in these CSF-Ns is consistent
+Figure
+7.
+Schematic
+representation
+of
+adult spinal cord niche. The presence of a
+single short cilia on GFAPþ cells was not
+investigated in this study but was extrapo-
+lated from the study in the SVZ performed
+by [26, 27]. Red shapes indicate CD15
+staining.
+Sabourin, Ackema, Ohayon et al.
+2731
+www.StemCells.com
+
+with the fact that the adult central region is derived from the
+embryonic ventral Nkx6.1þ pMN/p2 domains [21].
+The persistence of immature cells around the central canal
+coincides with the presence of a high level of both Notch
+(HES1, Jagged1) and transforming growth factor b (TGFb;
+DAN) signaling proteins. As in CNS development [40], Notch
+signaling in the adult spinal cord may help to maintain the
+BLBP radial cell. HES1 and Jagged1 expression is however
+not restricted to the dorsal stem cells but extends to other
+cells around the canal. The latter appears to be able to gener-
+ate neuroblasts, astrocytes, and oligodendrocytes after lesions
+[10, 11, 41] and can thus be considered as progenitor cells.
+This region is thus a new illustration of an adult CNS niche
+where developmental signals maintain and regulate various
+cells with different proliferation and differentiation potentials
+(stem cells, progenitors, young neurons) [42]. One remarkable
+protein we observed in the niche is DAN, also known as
+NBL1, a member of a cystine knot protein family that
+includes Noggin, Cerberus, Gremlin, and protein related to
+DAN and cerberus [43]. These proteins act as secreted inhibi-
+tors of BMP and growth differentiation factor proteins and
+are thus key regulators of TGFb signaling. In the brain SVZ,
+Noggin is expressed by ependymocytes [44]. Here we found
+that DAN is expressed by cells of the spinal cord niche, nota-
+bly by the dorsal group, and in vitro by most cells of the neu-
+rospheres. DAN causes growth suppression of a variety of
+cells lines and thus its expression in the spinal cord niche and
+in neural stem cells may serve a similar function.
+In addition to the presence in the niche of typical stem cell
+signaling pathways, one important ﬁnding is the expression of
+SMA and ZEB1, two genes typically expressed during EMT.
+This suggests the existence of close relationships between
+EMT and stemness, as has recently also been found in breast
+cancer stem cells [45, 46]. We conﬁrmed this hypothesis by
+showing that (a) ZEB protein inactivation in cultured neural
+stem cells led to a massive cell death, (b) neurospheres
+expressed several mesenchymal markers, and (c) neurosphere
+cells are as motile in vitro as typical mesenchymal cells. ZEB
+transcription factors are important regulators of the EMT
+required for development and cancer [22] and their expression
+is controlled by a number of ligands including TGF b1, proges-
+terone, estrogen, insulin-like growth factor 1, and several
+micro-RNAs. They operate as transcriptional activators or
+repressors (notably for E-Cadherin) for controlling several cel-
+lular processes such as migration, senescence, and apoptosis.
+Signiﬁcantly, ZEB1 transactivates the SMA promoter [47] and
+thus may be directly implicated in the expression of smooth
+muscle actin in central canal niche cells and in the neuro-
+spheres. As both ZEB1 and ZEB2 are expressed in neuro-
+spheres and DB-ZEB inactivates both, it is difﬁcult to decide
+how much each protein contributes to the survival of neuro-
+sphere cells. The detection of only ZEB1 in the spinal cord ep-
+endymal region indicates it plays a predominant role in the
+maintenance of several cell types in the niche. In Drosophila,
+the orthologous ZEB protein Zfh-1 was recently shown to have
+a critical role in maintenance of the somatic stem cell compart-
+ment in the testis stem cell niche [48]. ZEB proteins may thus
+have a general role in the maintenance of stem/progenitor cells
+in the SVZ and spinal cord adult niches. Finally, EMT is asso-
+ciated with cellular delamination and migration, two phenom-
+enon observed in CNS lesions such as in spinal cord injury
+where neural precursor cells readily leave their niche to migrate
+to the lesion site [10, 11]. The expression of EMT genes in the
+niche may be involved in keeping the cells competent to, or to
+prime them to, perform this process. In a normal situation, the
+EMT genetic program could be counterbalanced by local sig-
+nalings to keep the cells in their normal position.
+Whereas CNS adult neural stem cell niches display com-
+parable gene expression and organization, it is now becom-
+ing clear that these niches harbor different types of neural
+stem cells capable of generating distinct types of neurons
+and glial cells [49]. This implies that expression of particular
+genes and epigenetic modiﬁcations operate to retain neural
+stem cell diversity in adult CNS. Here, we found that cul-
+tured spinal cord stem cells maintained distinct Hox gene
+expression proﬁles typical of the embryonic spinal cord pat-
+tern [25], suggesting that different Hox gene combinations
+still operate in adult spinal cord stem cells probably to spec-
+ify their rostro-caudal features, as recently observed by Kul-
+batski and Tator [50]. The maintenance within the SVZ and
+along the rostro-caudal spinal cord axis of different pattern-
+ing genes in neural stem cells suggests that not all neural
+stem cells may be equivalent and useful for stem cell-based
+therapy [51].
+CONCLUSION
+Compared with the brain SVZ and hippocampal niches, the
+role of this adult spinal cord niche is unclear, as the produc-
+tion of new cells is absent or low. In contrast, we found that
+after birth, this niche is mitotically active until 9 weeks in
+association with a higher expression of two markers (Sox4,
+Cadherin 13) so its role may be limited to postnatal spinal
+cord development. Since the spinal cord extends 2-fold in
+length after birth, this niche may be involved in the produc-
+tion of new cells for the central canal wall to extend in paral-
+lel with the spinal cord. As the spinal cord niche cells are
+able to produce neurons, oligodendrocytes, and astrocytes in
+vitro, this niche may produce such cells in the postnatal pe-
+riod. In the adult brain, the activity of the neural stem niches
+is modulated by various environmental parameters and, like-
+wise, the adult spinal cord niche may be reactivated in partic-
+ular physiological situations.
+ACKNOWLEDGMENTS
+This work was supported by the European Union FP6 ‘‘Rescue’’
+STREP, the ‘‘Association Franc¸aise contre les Myopathies’’
+(Evry, France), the Princess Grace of Monaco Fundation (Mon-
+aco). We are very grateful to Dr N. Heintz (New York), Dr P. Jay
+(Montpellier, France), Dr Darling (Louisville, KY), Dr Sudo
+(Toray, Japan), Dr Wegner (Erlangen, Germany), Dr A. Postigo
+(St. Louis), and Dr T. Walker (Brisbane, Australia) who gener-
+ously provided us with BLBP, Sox9, ZEB1, Hes1, Sox10 anti-
+bodies, DB-ZEB construct, and Dcx-GFP mice, respectively.
+J.C.S. is a recipient of an AFM Ph.D. fellowship. We thank Dr C.
+Cazevielle (electron microscopy platform), Dr C. Duperray
+(cytometry platform), Dr H. Boukhaddaoui and C. Sar (cell
+imaging platform), I. Sassetti (histology platform), and Y.
+Gerber/G. Bonniface for high-quality technical assistance and
+experiment designs. We are grateful to Dr K. Langley for critical
+reading of the manuscript. A.P. and J.P.H. contributed equally to
+this work.
+DISCLOSURE OF POTENTIAL CONFLICTS
+OF INTEREST
+The authors indicate no potential conﬂicts of interest.
+2732
+Adult Spinal Cord Neural Stem Cell Niche
+
+REFERENCES
+1
+Weiss S, Dunne C, Hewson J et al. Multipotent CNS stem cells are
+present in the adult mammalian spinal cord and ventricular neuroaxis.
+J Neurosci 1996;16:7599–7609.
+2
+Kehl LJ, Fairbanks CA, Laughlin TM et al. Neurogenesis in postnatal
+rat spinal cord: a study in primary culture. Science 1997;276:586–589.
+3
+Shihabuddin LS, Ray J, Gage FH. FGF-2 is sufﬁcient to isolate pro-
+genitors found in the adult mammalian spinal cord. Exp Neurol 1997;
+148:577–586.
+4
+Martens DJ, Seaberg RM, Van der Kooy D. In vivo infusions of exogenous
+growth factors into the fourth ventricle of the adult mouse brain increase
+the proliferation of neural progenitors around the fourth ventricle and the
+central canal of the spinal cord. Eur J Neurosci 2002;16:1045–1057.
+5
+Barnabe´-Heider F, Frisen J. Stem cells for spinal cord repair. Cell
+Stem Cell 2008;3:16–24.
+6
+Danilov AI, Covacu R, Moe MC et al. Neurogenesis in the adult spi-
+nal cord in an experimental model of multiple sclerosis. Eur J Neuro-
+sci 2006;23:394–400.
+7
+Shechter R, Ziv Y, Schwartz M. New GABAergic interneurons sup-
+ported by myelin-speciﬁc T cells are formed in intact adult spinal
+cord. Stem Cells 2007;25:2277–2282.
+8
+Ke Y, Chi L, Xu R et al. Early response of endogenous adult neural progeni-
+tor cells to acute spinal cord injury in mice. Stem Cells 2006;24:1011–1019.
+9
+Chi L, Ke Y, Luo C et al. Motor neuron degeneration promotes neural
+progenitor cell proliferation, migration, and neurogenesis in the spinal
+cords of amyotrophic lateral sclerosis mice. Stem Cells 2006;24:34–43.
+10 Moreno-Manzano V, Rodriguez-Jimenez FJ, Garcia-Rosello M et al.
+Activated spinal cord ependymal stem cells rescue neurological func-
+tion. Stem Cells 2009;27:733–743.
+11 Meletis K, Barnabe-Heider F, Carlen M et al. Spinal cord injury reveals
+multilineage differentiation of ependymal cells. Plos Biol 2008;6:e182.
+12 Johansson CB, Momma S, Clarke DL et al. Identiﬁcation of a neural stem
+cell in the adult mammalian central nervous system. Cell 1999;96:25–34.
+13 Corti S, Locatelli F, Papadimitriou D et al. Transplanted ALDHhiS-
+SClo neural stem cells generate motor neurons and delay disease pro-
+gression of nmd mice, an animal model of SMARD1. Hum Mol
+Genet 2006;15:167–187.
+14 Dromard C, Guillon H, Rigau V et al. Adult human spinal cord har-
+bors neural precursor cells that generate neurons and glial cells in
+vitro. J Neurosci Res 2008;86:1916–1926.
+15 Nolte C, Matyash M, Pivneva T et al. GFAP promoter-controlled
+EGFP-expressing transgenic mice: a tool to visualize astrocytes and
+astrogliosis in living brain tissue. Glia 2001;33:72–86.
+16 Deleyrolle L, Marchal-Victorion S, Dromard C et al. Exogenous and
+ﬁbroblast growth factor 2/epidermal growth factor-regulated endoge-
+nous cytokines regulate neural precursor cell growth and differentia-
+tion. Stem Cells 2006;24:748–762.
+17 Dromard C, Bartolami S, Deleyrolle L et al. NG2 and Olig2 expres-
+sion provides evidence for phenotypic deregulation of cultured central
+nervous system and peripheral nervous system neural precursor cells.
+Stem Cells 2007;25:340–353.
+18 Louis SA, Rietze RL, Deleyrolle L et al. Enumeration of neural stem
+and progenitor cells in the neural colony-forming cell assay. Stem
+Cells 2008;26:988–996.
+19 Gurok U, Steinhoff C, Lipkowitz B et al. Gene expression changes in the
+course of neural progenitor cell differentiation. J Neurosci 2004;24:
+5982–6002.
+20 Capela A, Temple S. LeX is expressed by principle progenitor cells in
+the embryonic nervous system, is secreted into their environment and
+binds Wnt-1. Dev Biol 2006;291:300–313.
+21 Fu H, Qi Y, Tan M et al. Molecular mapping of the origin of post-
+natal spinal cord ependymal cells: evidence that adult ependymal cells
+are derived from Nkx6.1þ ventral neural progenitor cells. J Comp
+Neurol 2003;456:237–244.
+22 Peinado H, Olmeda D, Cano A. Snail, Zeb and Bhlh factors in tumour
+progression: an alliance against the epithelial phenotype? Nat Rev
+Cancer 2007;7:415–428.
+23 Chojnacki AK, Mak GK, Weiss S. Identity crisis for adult periventric-
+ular neural stem cells: subventricular zone astrocytes, ependymal cells
+or both? Nat Rev Neurosci 2009;10:153–163.
+24 Postigo AA, Dean DC. ZEB, a vertebrate homolog of Drosophila Zfh-1, is a
+negative regulator of muscle differentiation. EMBO J 1997;16:3935–3943.
+25 Carpenter EM. Hox genes and spinal cord development. Dev Neurosci
+2002;24:24–34.
+26 Mirzadeh Z, Merkle FT, Soriano-Navarro M et al. Neural stem cells
+confer unique pinwheel architecture to the ventricular surface in neu-
+rogenic regions of the adult brain. Cell Stem Cell 2008;3:265–278.
+27 Doetsch F, Garcia-Verdugo JM, Alvarez-Buylla A. Regeneration of
+a germinal layer in the adult mammalian brain. Proc Natl Acad Sci
+U S A 1999;96:11619–11624.
+28 Vigh B, Manzano e Silva MJ, Frank CL et al. The system of cerebro-
+spinal ﬂuid-contacting neurons: its supposed role in the nonsynaptic
+signal transmission of the brain. Histol Histopathol 2004;19:607–628.
+29 Bruni JE. Ependymal development, proliferation, and functions: a
+review. Microsc Res Tech 1998;41:2–13.
+30 Ramon y Cajal S. Histologie du Syste`me Nerveux de L’hommes et
+des Verte´bre´s. Paris: Maloine, 1911.
+31 Roelofs RF, Fischer DF, Houtman SH et al. Adult human subventricu-
+lar, subgranular, and subpial zones contain astrocytes with a special-
+ized intermediate ﬁlament cytoskeleton. Glia 2005;52:289–300.
+32 Doetsch F, Petreanu L, Caille I et al. EGF converts transit-amplifying
+neurogenic precursors in the adult brain into multipotent stem cells.
+Neuron 2002;36:1021–1034.
+33 Rafols JA, Goshgarian HG. Spinal tanycytes in the adult rat: a correla-
+tive Golgi gold-toning study. Anat Rec 1985;211:75–86.
+34 Bruni JE, Reddy K. Ependyma of the central canal of the rat spinal
+cord: a light and transmission electron microscopic study. J Anat
+1987;152:55–70.
+35 Seitz R, Lohler J, Schwendemann G. Ependyma and meninges of the
+spinal cord of the mouse: a light-and electron-microscopic study. Cell
+Tissue Res 1981;220:61–72.
+36 Anthony TE, Klein C, Fishell G et al. Radial glia serve as neuronal
+progenitors in all regions of the central nervous system. Neuron 2004;
+41:881–890.
+37 Tavazoie M, Van der Veken L, Silva-Vargas V et al. A specialized
+vascular niche for adult neural stem cells. Cell Stem Cell 2008;3:
+279–288.
+38 Shen Q, Wang Y, Kokovay E et al. Adult SVZ stem cells lie in a vas-
+cular niche: a quantitative analysis of niche cell-cell interactions. Cell
+Stem Cell 2008;3:289–300.
+39 Marichal N, Garcia G, Radmilovich M et al. Enigmatic central canal
+contacting cells: immature neurons in ‘‘standby mode’’? J Neurosci
+2009;29:10010–10024.
+40 Anthony TE, Mason HA, Gridley T et al. Brain lipid-binding protein
+is a direct target of Notch signaling in radial glial cells. Genes Dev
+2005;19:1028–1033.
+41 Carle´n M, Meletis K, Goritz C et al. Forebrain ependymal cells are
+Notch-dependent and generate neuroblasts and astrocytes after stroke.
+Nat Neurosci 2009;12:259–267.
+42 Ninkovic J, Gotz M. Signaling in adult neurogenesis: from stem cell
+niche to neuronal networks. Curr Opin Neurobiol 2007;17:338–344.
+43 Balemans W, Van Hul W. Extracellular regulation of BMP signaling
+in vertebrates: a cocktail of modulators. Dev Biol 2002;250:231–250.
+44 Alvarez-Buylla A, Lim DA. For the long run: maintaining germinal
+niches in the adult brain. Neuron 2004;41:683–686.
+45 Morel AP, Lievre M, Thomas C et al. Generation of breast cancer
+stem cells through epithelial-mesenchymal transition. Plos One 2008;
+3:e2888.
+46 Mani SA, Guo W, Liao MJ et al. The epithelial-mesenchymal transi-
+tion generates cells with properties of stem cells. Cell 2008;133:
+704–715.
+47 Nishimura G, Manabe I, Tsushima K et al. DeltaEF1 mediates TGF-
+beta signaling in vascular smooth muscle cell differentiation. Dev Cell
+2006;11:93–104.
+48 Leatherman JL, Dinardo S. Zfh-1 controls somatic stem cell self-
+renewal in the Drosophila testis and nonautonomously inﬂuences
+germline stem cell self-renewal. Cell Stem Cell 2008;3:44–54.
+49 Lledo PM, Merkle FT, Alvarez-Buylla A. Origin and function of ol-
+factory bulb interneuron diversity. Trends Neurosci 2008;31:392–400.
+50 Kulbatski I, Tator CH. Region-speciﬁc differentiation potential of
+adult rat spinal cord neural stem/precursors and their plasticity in
+response to in vitro manipulation. J Histochem Cytochem 2009;57:
+405–423.
+51 Thuret S, Moon LD, Gage FH. Therapeutic interventions after spinal
+cord injury. Nat Rev Neurosci 2006;7:628–643.
+See www.StemCells.com for supporting information available online.
+Sabourin, Ackema, Ohayon et al.
+2733
+
+
+===== Courtine2019_NatMed_SCIrepair+Review =====
+Review Article
+https://doi.org/10.1038/s41591-019-0475-6
+1Center for Neuroprosthetics and Brain Mind Institute, School of Life Sciences, Swiss Federal Institute of Technology (EPFL), Geneva, Switzerland. 
+2Department of Neurosurgery, University Hospital Lausanne (CHUV), Lausanne, Switzerland. 3Department of Neurobiology, David Geffen School of 
+Medicine, University of California, Los Angeles, Los Angeles, CA, USA. *e-mail: gregoire.courtine@epfl.ch
+T
+he US national SCI statistical center estimates that the annual 
+incidence of SCI in the United States is approximately 54 
+cases per million people, or approximately 17,000 new cases 
+each year1. The World Health Organization (WHO) approximates 
+that between 250,000 and 500,000 people suffer from a SCI each 
+year2. SCI has an immediate and devastating impact on the con-
+trol of movement and many essential physiological functions. Over 
+the past century, progress in the understanding of injury mecha-
+nisms has transformed the clinical management of SCI. Surgical 
+procedures, supportive measures and rehabilitation protocols have 
+improved functional outcomes and decreased morbidity in patients 
+with SCI2. However, at this time no randomized clinical trial has 
+demonstrated the efficacy of a repair strategy for improving func-
+tional recovery from SCI. Due to the limited ability of the cen-
+tral nervous system (CNS) to repair itself following injury, many 
+deficits remain permanent. Half of the affected individuals remain 
+paralyzed, with life expectancies of decades with permanent dis-
+abilities3,4. The estimated lifetime cost attributable to SCI ranges 
+from US$1 to 5 million per person depending on the location of the 
+injury along the spinal cord and its severity1.
+While a cure that could repair the injured spinal cord is unfore-
+seeable, recent advances in biological and engineering strategies 
+have opened promising avenues for improving function after SCI. 
+Over the past decade, advances have occurred not only in tradi-
+tional research areas such as axon regeneration, inflammation, 
+scar formation and engraftment of neural and supporting cells, 
+but also in the identification of mechanisms underlying spontane-
+ous circuit reorganization, spinal cord automaticity and recovery 
+after SCI. These new findings have redefined our understanding of 
+requirements for restoration of function after SCI and have altered 
+concepts regarding the design of repair interventions (Box 1). 
+Additionally, advances in engineering have led to the emergence 
+of a new research area — broadly termed neuroprosthetics — that 
+leverages our understanding of motor control principles to tap into 
+circuits and residual neural pathways spared from injury in order to 
+enable and restore function.
+Various experimental therapies are moving toward or are already 
+in clinical trials — opening a new era for SCI medicine. Here, we 
+review these advances in animal models, and where relevant, their 
+translation in human patients. The majority of preclinical stud-
+ies and experimental read-outs are focused on motor functions. 
+Consequently, we primarily discuss motor recovery, but it worth 
+noting that the recovery of autonomic and sexual functions are 
+among the top priorities of people with SCI3. We first describe the 
+main biological approaches and mechanisms for spinal cord repair. 
+We then explain the principles through which researchers seek to 
+use engineering strategies to enable function and augment recov-
+ery with neurotechnologies and rehabilitation. Finally, we consider 
+the great potential, but also highlight the complexity, of combining 
+biological and engineering approaches in order to target the mul-
+tifaceted mechanisms underlying spinal cord repair and recovery.
+Biological approaches to SCI repair
+Developing mechanism-based approaches to spinal cord repair will 
+require understanding the biology of SCI lesions and of the diverse 
+axonal growth responses that occur after injuries5. SCI lesions are 
+heterogeneous in their severity and cellular organization, and both 
+of these factors have implications for developing repair strategies. 
+For example, anatomically complete lesions span the entire breadth 
+of the spinal cord, thereby eliminating all neural communication 
+across the site of transection (Fig. 1). Their repair will require 
+restoring neural connectivity across large and hostile non-neural 
+lesion cores, which will require invasive treatments. In contrast, 
+anatomically incomplete SCI are formed by smaller or discontinu-
+ous lesions that spare sufficient neural tissue to support commu-
+nication across the injury. Anatomically incomplete SCI are often 
+associated with partial recovery that can benefit from strategies to 
+augment spontaneous circuit reorganization and improve the con-
+ductivity and function of residual neural connections, including by 
+non-invasive means.
+Diverse SCI compartments and axonal growth responses. 
+Regardless of their size or severity, mature lesions exhibit three tis-
+sue compartments that present markedly different cellular composi-
+tion and functional interactions5–11 (Fig. 1). Non-neural lesion cores 
+consist of perivascular-fibroblast-derived stromal cells, meningeal 
+fibroblasts and pericytes that proliferate in areas undergoing CNS 
+cell death6–8. Reactive astrocyte scar borders formed by newly pro-
+liferated astrocytes surround non-neural lesion cores and protect 
+adjacent functional neural tissue by corralling inflammatory cells 
+within areas of damaged tissue9,10. Spared but reactive neural tissue 
+that surrounds astrocyte scar borders contains all cellular elements 
+Spinal cord repair: advances in biology and 
+technology
+Grégoire Courtine   1,2* and Michael V. Sofroniew   3
+Individuals with spinal cord injury (SCI) can face decades with permanent disabilities. Advances in clinical management have 
+decreased morbidity and improved outcomes, but no randomized clinical trial has demonstrated the efficacy of a repair strat-
+egy for improving recovery from SCI. Here, we summarize recent advances in biological and engineering strategies to augment 
+neuroplasticity and/or functional recovery in animal models of SCI that are pushing toward clinical translation.
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+898
+
+Review Article
+NAture MedICIne
+found in functioning neural tissue, including hypertrophic reactive 
+astrocytes and microglia that retain their interactions with neurons 
+and synapses undergoing circuit reorganization and remodelling5,11.
+Diverse forms of axonal growth responses have been identified 
+that can occur spontaneously or be induced after SCI. There is a 
+growing consensus that the concepts of ‘neural regeneration’ and 
+‘axon regeneration’ after SCI should be expanded to encompass 
+multiple forms of axonal growth responses that can restore func-
+tion, ranging from synaptic remodeling in spared and reorganizing 
+neural tissue to axon regrowth across non-neural lesion core tis-
+sue5,11,12 (Fig. 2). Understanding how different cellular and molecu-
+lar mechanisms regulate different growth responses in different 
+lesion compartments over specific temporal windows is essential to 
+devising mechanism-based approaches to SCI repair.
+Modulating circuit reorganization after incomplete SCI. The iden-
+tification of spontaneous circuit reorganization in animal models 
+of SCI has provided valuable insights into repair strategies (see 
+Box 1). After incomplete injuries, intraspinal projection neurons 
+form new ‘detour circuits’ that relay supraspinal information from 
+above to below the lesion13–16. In turn, corticospinal and reticulospinal 
+tract neurons sprout onto these intraspinal relay neurons that con-
+nect to regions below the lesion14–17 (Fig. 1). In general, all descend-
+ing systems with residual axons that have been studied in animal 
+models exhibit pronounced reorganization after SCI18. For example, 
+after lateral hemisection injury in non-human primates, spared cor-
+ticospinal axons descending in the contralateral white matter extend 
+axon collaterals across the spinal cord midline and sprout into 
+functional spinal cord areas below injury19,20. Similar observations 
+Box 1 | Requirements for restoration of function
+It was long assumed that recovery from SCI would require pre-
+cise reconstitution of the neural connectivity present before 
+damage. However, several decades of basic research have chal-
+lenged this view5.
+In the brain, loss of one set of synaptic inputs spontaneously leads 
+to the formation of new synapses derived from unaffected afferent 
+connections. After forebrain damage, this spontaneous structural 
+and functional plasticity allows the brain to reroute neural 
+information through alternative circuits to regain functions170. 
+Similar circuit reorganization spontaneously takes place after 
+incomplete SCI14,15,17,19. For example, a lateral hemisection of the 
+spinal cord (Brown–Sequard syndrome) triggers reorganization 
+of intraspinal14,16,109, brainstem and corticospinal tract25,26,109 
+projection circuits that supports remarkable levels of spontaneous 
+recovery, including voluntary skilled movements in humans20. 
+Projection neurons spontaneously form detour circuits that 
+relay supraspinal information to spinal circuits below the injury. 
+Such circuit reorganization can reroute task-specific cortical 
+commands to the lumbar execution centers even when all direct 
+descending supraspinal connections are interrupted13,15,109. 
+These observations have important implications for spinal cord 
+repair, as they suggest that intraspinal relay neurons, even when 
+newly derived from grafted cells90, may be sufficient to mediate 
+meaningful recovery.
+Another important consideration is the automaticity of neural 
+operations from spinal cord execution centers95,100. These circuits 
+have traditionally been referred to as central pattern generators 
+(CPGs) that produce stereotypical motor patterns100. This view 
+has advanced over the past decade171. It is now recognized that 
+the spinal cord acts as a smart information-processing interface 
+that translates task-specific sensory information and supraspinal 
+inputs into muscle activation patterns that continuously meet 
+behavioral goals and environmental constraints35,101. Even after 
+the complete loss of supraspinal inputs, spinal circuits remain 
+capable of using sensory information as a source of control 
+for producing complex motor behaviors, including standing, 
+walking over a range of speeds and directions and even climbing 
+a staircase31,35,105,172,173. These results suggest that passing a limited 
+amount of information to the spinal cord below injury may be 
+sufficient to restore meaningful motor control after SCI.
+Concepts of spinal cord automaticity, axonal plasticity and 
+circuit reorganization after SCI have established the framework 
+that is steering emerging biological and technological strategies 
+for spinal cord repair and recovery174.
+Incomplete injuries
+Partial function recovery
+Beneficial plasticity of spared circuits
+Lesion compartment zoom
+Detrimental plasticity of
+spinal circuits below injury
+Increase
+: reverse inhibition
+  for excitation
+Normal
+tissue
+Blood
+vessels
+Surviving
+functioning
+neurons
+Spared but
+reactive
+neural tissue
+Non-neural
+lesion core
+Surviving
+axons
+Astrocytes
+scar border
+Degenerating 
+axons
+Synapse
+reorganization
+Lumbar circuit
+Proprioceptive cues
+Steering circuit reorganization
+Retractation
+bulbs
+Mnα
+Mnα
+New
+detrimental
+growth
+Proprioceptive
+feedback
+circuits 
+Muscle
+Cl¯
+Cl¯
+Cl¯
+Cl¯
+Cl¯
+Intraspinal
+relay circuit
+Sprouting
+of spared
+descending
+pathways onto 
+spinal circuits
+Spinal 
+sensorimotor
+circuits
+Residual connections
+New connections
+Spared descending pathways
+Cl–
+Leukocytes
+Blood vessels
+and progenitors
+Pericytes
+and fibroblast-
+lineage cells
+Fluid-filled
+cystic cavity
+Complete injury
+No function 
+Detrimental plasticity of spared circuits
+Fig. 1 | SCI biology and spontaneous recovery mechanisms. Spinal 
+cord damage can be broadly divided into two categories: complete and 
+incomplete SCI. A complete SCI is obtained experimentally by a full 
+transection of the spinal cord or a complete crush. Anatomically complete 
+SCI is less common in humans. A clinically complete SCI is essentially 
+defined functionally, when no motor and sensory functions can be detected 
+below the SCI, but this can occur in spite of the presence of some spared 
+tissue and connections. After such lesions, detrimental changes continue 
+taking place for decades below the SCI. An incomplete SCI spares tissue 
+bridges containing a variety of ascending and descending pathways, 
+depending on the location of the injury. The anatomical and functional 
+reorganization of these pathways and circuits below the injury support 
+various degrees of functional recovery. Both complete and incomplete SCIs 
+exhibit three distinct lesion compartments: (1) a central non-neural lesion 
+core often referred to as a fibrotic, mesenchymal or connective tissue 
+scar that often contains cystic cavities; (2) a narrow border of reactive 
+astroglia and other cells that intimately surrounds the lesion core; and (3) 
+a surrounding zone of viable neural tissue that is spared and functional but 
+is also reactive and reorganizing. Some of the mechanisms highlighted in 
+this figure have been uncovered in animal models, and it is not yet certain 
+whether human SCI involves similar mechanisms.
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+899
+
+Review Article
+NAture MedICIne
+have been described for the reticulospinal, rubrospinal and sero-
+tonergic descending systems17,21,22. Indirect evidence suggests that 
+similar reorganization and sprouting of descending pathways take 
+place in humans20,23,24.
+Studies in animal models have established causality between 
+sprouting of corticospinal25,26 and reticulospinal27 tract neurons 
+and motor recovery. This plasticity within the spinal cord leads to a 
+remapping of motor cortex output to spinal circuits; this pronounced 
+reorganization confers an essential role to the motor cortex in produc-
+ing movement after injury. Intraspinal projection circuits also play a 
+critical role in mediating recovery14,15 (Box 1). This dense network of 
+ascending and descending connections within the spinal cord28 may 
+be a particularly suitable target for SCI repair29. Even when multiple 
+incomplete lesions transect all direct descending supraspinal inputs 
+to lumbar execution centers, neurons with intraspinal projections 
+can establish detour circuits that bypass the injuries and relay suf-
+ficient information from the brain to restore rudimentary voluntary 
+locomotor functions in rodents13,15. In this model, reducing local 
+inhibition within the spinal cord regions embedding these relay 
+pathways augments their ability to mediate locomotor recovery29. 
+Similarly, intraspinal relay circuits can mediate voluntary fine finger 
+movements after loss of direct corticospinal tract input to cervical 
+motor centers in nonhuman primates30. Together, these observations 
+provide a compelling rationale for conceiving repair strategies that 
+seek either to augment spontaneous relay circuit formation after 
+incomplete SCI, or to restore neural connectivity by bridging axon 
+regrowth across anatomically complete SCI lesions even for short 
+distances into functioning neural tissue, as discussed below.
+While SCI deprives spinal circuits from all or some of the supra-
+spinal signals, the spinal cord below the injury continues receiving 
+and interpreting sensory information. Inputs from sensory afferents 
+that remain intact below lesions become an essential source of con-
+trol in the production of motor behaviors after SCI31. Sensory infor-
+mation steers many of the beneficial but also detrimental changes 
+that take place below the lesion. For example, inputs from proprio-
+ceptive organs are essential to guide the anatomical and functional 
+reorganization of supraspinal and intraspinal projection neurons 
+that restores locomotion after SCI. Mice with SCI that lack func-
+tional proprioceptive circuits display defective rearrangements of 
+descending projection circuits, which abolishes recovery16. In turn, 
+the depletion of synapses from descending pathways triggers an 
+aberrant sprouting of sensory afferents onto the available synaptic 
+targets32,33. Due to the absence of signals directing this homeostatic 
+plasticity, these changes often lead to degradation of neuronal func-
+tions below the SCI, which has been reported in animal models of 
+SCI32 and in humans34.
+The modification of synapse function and increase of synaptic 
+plasticity represent a promising approach to augment the beneficial 
+effects of rehabilitation and biochemical manipulations. For exam-
+ple, the presence of serotonin, noradrenalin or dopamine agonists 
+augment activity-dependent plasticity during training in various 
+animal models of SCI35. In addition, transient exposure of rats to 
+reduced oxygen levels (intermittent hypoxia) activates midbrain 
+raphe serotonergic neurons, the primary source of serotonin to the 
+spinal cord, and triggers brain-derived neurotrophin (BDNF) syn-
+thesis in the spinal cord, which together induce serotonin-depen-
+dent plasticity of spinal projections36. A clinical study has suggested 
+that the combination of rehabilitation and repetitive intermittent 
+hypoxia may improve walking in humans with incomplete SCI37. 
+However, confirmation of these results would require a phase 3 
+clinical trial with a large number of patients.
+New advances are also revealing cellular mechanisms of synapse 
+plasticity. For example, the classical complement signals C1q, C3 
+and C3R have been shown to regulate microglia-modulated synapse 
+pruning38,39, while molecules such as thrombospondins, glypicans, 
+secreted protein acidic and rich in cysteine (SPARC) and SPARC like 
+1 (also known as Hevin), produced by astrocytes, are partly respon-
+sible for synaptic formation40–43. In turn, chondroitin sulfate proteo-
+glycans (CSPGs) and tenascins produced by neurons and astrocytes 
+form perineuronal nets that constrain this synaptic plasticity and 
+associated circuit reorganization44. Signaling related to reticulon 4 
+(RTN4, also known as NOGO) and its receptors also restricts syn-
+aptic plasticity via perineuronal net molecules during development 
+and after injury45. Accumulating evidence suggests that strategies 
+against CSPGs or RTN4 receptors primarily target perineuronal nets 
+and synaptic plasticity in spared but reactive neural tissue45–48 rather 
+than axon regeneration across lesions. Axon guidance molecules, 
+such as repulsive Wnt receptors, are also potent inhibitors of axo-
+nal growth49. In rat models of incomplete SCI, the use of antibodies 
+against these receptors led to a pronounced sprouting from the prox-
+imal segments of corticospinal tract axons26, which augmented func-
+tional recovery. More work is needed to identify strategies capable of 
+modulating synapse plasticity and circuit reorganization after SCI.
+Restoring connectivity across complete SCI. Anatomically com-
+plete SCI lesions in humans are dominated by large areas of non-
+neural lesion core tissue that do not support axon regrowth11,50,51 
+Spared but
+reactive
+neural tissue
+Non-neural
+lesion core
+Surviving axons
+Astrocytes 
+scar border
+Normal
+tissue
+Spared but
+reactive
+neural tissue
+Non-neural
+lesion core
+Surviving
+functioning
+neurons
+Retractation
+bulbs
+Neuron intrinsic
+PTEN, mTOR, STAT3,
+SOCS3, cAMP, RHOA,
+c-Myc, Jun, KLFs, SOX11,
+ATF3, MAPKs, MAP3K13
+Oligodendrocyte
+NOGO, Mag
+New
+axon
+growth
+Growth cone intrinsic
+Microtubules, DCLK,
+NgRs, CSPG-Rs, NTF-Rs
+Microglia
+C1q
+NG2-OPC
+Spinal 
+sensorimotor
+circuits
+Local or
+systemic
+delivery of
+modulators
+Intraspinal 
+projection 
+neuron
+Descending 
+projections
+Sensory
+input steering 
+circuit reorganization
+Normal
+tissue
+Axon
+regeneration
+Axonal
+sprouting
+Synapse
+formation
+Astrocyte
+Thrombospondin,
+Sparc, Hevin,
+C3R, NTFs, PNN,
+CSPGs, laminins
+Not produced
+Chemoattractant NTFs
+Astrocyte scar and lesion
+core cells
+Repellent: CSPGs,
+ephrins, sema, slit, plxn,
+Wnts, myelin debris
+Permissive: laminins, NCAM
+syndecans, lgal
+Relay 
+neuron*
+Neuroglia*
+* graft-
+derived
+cells
+a
+b
+Cells and molecules influencing 
+synapse and axon growth potential 
+Mechanisms underlying
+spinal cord repair 
+Fig. 2 | Biological strategies and mechanisms for spinal cord repair.  
+a, Summary of the diverse types of cells and molecules that are known 
+to influence and regulate the potential growth of axons and synapses in 
+the different compartments of a SCI. RHOA, ras homolog family member 
+a; ATF3, activating transcription factor 3; SOX11, Sry-box 11; NTFs, 
+neurotrophic factors; PNN, peri-neuronal net; NgRs, NOGO receptors. 
+b, Many mechanisms can be targeted to improve functional recovery, 
+including modulation of axonal sprouting and synapse formation in spared 
+and reorganizing neural tissue, promoting axon regeneration into and 
+beyond non-neural lesion cores, placement of neural-stem-cell-derived 
+grafts providing new relay neurons or neuroglia that supports host axon 
+growth, and modulation of sensory input steering circuit reorganization.
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+900
+
+Review Article
+NAture MedICIne
+(Fig. 1). Biological approaches to restoring connectivity across 
+such lesions are currently focused on stimulating endogenous axon 
+regrowth through the lesions or grafting new neurons into lesions to 
+re-establish communication through new relay circuits.
+Multiple mechanisms regulate axon regrowth after SCI. After 
+development, CNS neurons downregulate their capacity for axon 
+growth. Although spontaneous re-activation of intrinsic growth 
+programs after injury is limited, a steadily growing amount of evi-
+dence shows that manipulating neuron-intrinsic signaling through 
+multiple transcriptional regulator pathways in animal models in vivo 
+can stimulate the capacity for axon regrowth of various neuron phe-
+notypes. These pathways notably include phosphatase and tensin 
+homolog (PTEN), mechanistic target of rapamycin (mTOR), sig-
+nal transducer and activator of transcription 3 (STAT3), suppres-
+sor of cytokine signaling 3 (SOCS3), Kruppel-like factors (Klfs), 
+c-Myc, cAMP, mitogen-activated protein kinase kinase kinase 13 
+(MAP3K13) and others52–58. Axon-regrowth capacity can be pow-
+erfully activated when tissue around mature neuronal cell bodies 
+is stimulated with inflammatory mediators, such as oncomodulin, 
+zymosan and agonists of toll-like receptor 2 (TLR2) and C-type lectin 
+domain family 7 member A (also known as Dectin-1) receptors59,60, 
+or by stimulation with growth factors such as insulin-like growth fac-
+tor 1 (IGF1), osteopontin and ciliary neurotrophic factor (CNTF)61,62.
+Axonal growth in the CNS is also regulated by the presence or 
+absence of chemoattractive or chemorepellent growth factors, or of 
+substrates that support or repel growth. For example, developmental 
+axon growth critically depends on the availability of chemoattrac-
+tive growth factors such as brain-derived neurotrophin (BDNF) and 
+neurotrophin-3 (NT3)63–65 and on supportive substrates such as lam-
+inins, syndecans and heparan sulfate proteoglycans65–69. Although 
+growth-repellent molecules, such as myelin-associated molecules 
+and CSPGs, can influence axon regrowth in vitro and may modu-
+late synapse remodeling after SCI46–49, there is at present no compel-
+ling evidence that they play major roles in regulating axon regrowth 
+across SCI lesions, as discussed in detail elsewhere5. The support 
+or repulsion of growing axons by specific molecular cues has been 
+studied in detail in vitro and is determined by relative proportions 
+of attractive and repellent molecules, such that increasing the con-
+centration of one type of cue can overcome the effects of another70.
+Multiple cell types influence axon regrowth in SCI lesions. 
+Activated macrophages cause axon retraction and dieback71. 
+Pericytes and fibroblast lineage cells in the non-neural lesion core6 
+do not spontaneously support axon regrowth, perhaps because they 
+do not secrete molecules that stimulate axon growth. Consistent 
+with this interpretation, fibroblast cell grafts support robust axon 
+regeneration after SCI only when they produce specific factors that 
+are chemoattractive to axons72. ‘Scars’ formed by astrocytes along 
+lesion borders have long been thought to be the primary cause for 
+axon regeneration failure in the CNS73,74. Recent genetic loss-of-
+function studies in mice challenge this notion. Neither preventing 
+the formation of, nor removing, the astrocyte scar borders in SCI 
+lesions resulted in regrowth of descending motor, ascending sen-
+sory or serotonin axons65. Furthermore, in both mice and rats, acti-
+vated and chemoattracted sensory axons regrew robustly despite 
+the presence of astrocyte scar borders65,75, and preventing or remov-
+ing these borders reduced stimulated regrowth, suggesting that 
+astrocyte borders can support, rather than prevent, axon growth65. 
+Intrinsically activated CNS axons also regenerate robustly despite 
+astrocyte scar border formation in the rodent optic nerve52,54,59,62. 
+Axons grow directly along astrocytes during development76–78 and 
+when appropriately stimulated after CNS damage in adult mam-
+mals65,75,79 and lower vertebrates80. These combined findings provide 
+strong evidence that astrocyte scar borders are not a primary cause 
+for the failure of axons to regrow across SCI lesions and that strate-
+gies other than simply manipulating these borders will be needed to 
+achieve this type of regrowth.
+Given the multiple time-dependent mechanisms that influence 
+axon regrowth across lesions, rational strategies for therapy after SCI 
+will likely require simultaneous targeting of multiple mechanisms 
+with distinct temporal windows. There is substantial evidence indi-
+cating that using a combination of multiple therapeutic strategies 
+increases axon growth. For example, the activation of sensory neu-
+rons in animal models of SCI has long been recognized to increase 
+growth into permissive cell grafts or across lesions63,81,82. Notably, 
+activated neurons do not grow well through non-neural lesion cores 
+but do grow well along supportive cues present in spared neural tis-
+sue62,79,83. Recent gain- and loss-of-function studies in mouse and rat 
+models of anatomically complete SCI showed that neuronal activa-
+tion, substrate support and chemoattraction were each required for 
+recovery, but only together were these strategies sufficient to pro-
+duce robust regrowth of sensory axons65 and propriospinal axons75 
+through non-neural lesion cores. Findings from these two neuronal 
+systems suggest that achieving robust regrowth of endogenous axons 
+across lesion cores will likely have three requirements: (1) activating 
+intrinsic neuronal growth programs, (2) availability of axon-sup-
+portive growth substrate and (3) providing growth factors that are 
+chemoattractive to axons75. It is important to note that the necessary 
+axon-chemoattractive factors were different for each of the two neu-
+ral systems studied, sensory and propriospinal neurons, indicating 
+that more work will be needed to identify specific molecular targets 
+that are able to stimulate and attract the growth of axons from the 
+heterogeneous populations of brain, brainstem and intraspinal pro-
+jection neurons that may be of functional interest after SCI.
+In various animal models, cell grafts that repopulate non-neural 
+cores with growth-supportive neuroglia, such as Schwann cells84,85 
+or astroglia86,87, facilitate the growth of host axons across non-neu-
+ral lesion cores and improve the functionality of residual fibers88. 
+Clinical trials are evaluating the safety and efficacy of autolo-
+gous Schwann cell grafts for SCI89. Another approach to promote 
+the formation of relay circuits consists of grafting sources of new 
+intraspinal neurons. In the presence of growth factors and support-
+ing matrices, caudalized neural progenitor grafts not only survive 
+in the hostile non-neural environment, but also differentiate into 
+a variety of neurons and glia that repopulate the lesion core and 
+send extensive axonal projections into host tissue both caudal and 
+rostral to the injury in rodents90. The cell adhesion molecule neu-
+ronal growth regulator 1 (NEGR1) is one of the factors enabling 
+permissive axon–myelin interactions, which allows myelin to stim-
+ulate axonal outgrowth from the grafted cells. Moreover, the grafted 
+neurons release various growth factors91 that attract an impressive 
+number of synapses from all of the host’s systems that innervate 
+the spinal cord, including robust regeneration of the recalcitrant 
+corticospinal tract92. Neural progenitor grafts form de novo relay 
+circuits that restored a partial communication across anatomically 
+complete SCI64,90,92,93. Interestingly, host axons exhibit function-
+ally appropriate preferences when forming contacts with grafted 
+neurons. Despite this striking reconstitution of spinal cord tissues 
+observed in rodents90 and nonhuman primates94, however, func-
+tional recovery has remained limited. These results thus provide 
+important proof-of-concept information, but additional studies 
+are necessary to understand how to guide, control and functionally 
+integrate the grafted neurons into the host motor-circuit communi-
+cation matrix95 to restore meaningful function.
+Biomaterials to improve biological repair. Biomaterials hold 
+considerable promise in augmentation of SCI repair. For example, 
+injectable and resorbable polypeptide hydrogels can provide tem-
+porary depots for the prolonged release of growth factors that 
+chemoattract regrowing axons65,75. Such depots, when temporally 
+and sequentially placed, can chemoattract axons to regrow across 
+complete SCI lesions and into spared neural tissue to contact neu-
+rons75. Hydrogel–collagen networks can be engineered to provide 
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+901
+
+Review Article
+NAture MedICIne
+oriented scaffolds that facilitate the alignment of grafted cells and 
+thereby direct axon regrowth96. Bioengineered scaffolds with linear 
+guidance channels might prevent regenerating axons from develop-
+ing tortuous trajectories12, instead directing their outgrowth along 
+linear paths across the lesion site97. Survival and differentiation of 
+grafted cells can be enhanced and directed by biomaterial vehicles 
+that provide substrate and growth factors90. Biomaterial approaches 
+to CNS repair are slowly but steadily advancing98,99.
+Technological approaches
+Major advances, but also failures, in the fields of neurosurgery, 
+robotics, computational neuroscience and neuroengineering have 
+populated SCI medicine with a flurry of wearable and implantable 
+neurotechnologies to enable and augment function. These treat-
+ments have historically been divided into restoration therapies, 
+replacement strategies and rehabilitation procedures. However, the 
+marriage of these engineering strategies is occurring at such a rapid 
+pace that these categories are progressively becoming obsolete, 
+if not misleading. Indeed, all current promising strategies share a 
+common theme: capitalize on the intrinsic capacity of spared cir-
+cuits to produce movement, and on the remarkable ability of these 
+circuits to reorganize with training to augment recovery. Early 
+achievements of these bourgeoning neuroprosthetic treatments are 
+providing a glimpse at the therapeutic potential of technological 
+approaches after SCI.
+Engineering strategies to enable motor control. Sensorimotor 
+circuits embedded in the spinal cord can translate task-specific 
+sensory feedback into organized patterns of muscle activity under-
+lying a broad repertoire of motor behaviors31,100,101 (Box 1). These 
+circuits are often intact after SCI but lack the supraspinal sources of 
+modulation and excitation essential for enabling their functionality. 
+This understanding has triggered the development of various neu-
+romodulation therapies that seek to compensate for these missing 
+supraspinal inputs to reactivate spinal circuits. For example, in rats 
+with partial SCI, deep brain stimulation of the midbrain locomo-
+tor region can engage reticulospinal neurons that retain connec-
+tions across the injury. The resulting descending drive leads to the 
+activation of spinal circuits, which improves paretic locomotion102. 
+However, this neurosurgical intervention is contingent on synaptic 
+inputs from reticulospinal neurons, which limits the spectrum of 
+SCI severities that might be addressed with this approach. Moreover, 
+the relevance of this ancestral brainstem locomotor system for voli-
+tional walking activities remains unclear in humans.
+To address more severe injuries, both pharmacological and elec-
+trical neuromodulation therapies have been delivered directly to 
+spinal cord regions containing sensorimotor circuits involved in 
+movement production (Fig. 3). Monoaminergic medications31,103,104 
+and electrical stimulation protocols applied transcutaneously104, 
+epidurally105–112, subdurally113 and intraspinally114–116 have enabled 
+unexpected levels of leg and hand motor control in animal models 
+and humans with paralysis106,116–118. Electrical stimulation protocols 
+may also improve cardiovascular and respiratory functions119,120. 
+The underlying mechanisms remain debated121,122, but evidence 
+suggests that these electrical stimulations converge on a common 
+target. Indeed, dorsally applied electrical fields spread toward dor-
+sal roots, where sensory afferents reside123. Due to their lower resis-
+tance to electrical currents, large-diameter proprioceptive fibers are 
+the first neural structures recruited by the stimulation121. Intraspinal 
+stimulation likely relies on the same mechanisms124. If similar out-
+comes are confirmed, this technology, which requires arrays of elec-
+trodes penetrating the spinal cord gray matter, would become less 
+attractive than other strategies.
+Due to their broad integration within sensorimotor networks, 
+recruitment of proprioceptive afferents increases excitability of spi-
+nal circuits, which augments their responsiveness to task-specific 
+sensory information and residual signals from the brain. During 
+spinal cord stimulation, individuals with motor complete paralysis 
+regained the ability to activate paralyzed muscles and initiate iso-
+lated movements of the leg106,117,125. In rats with severe contusions, 
+pharmacological and electrical neuromodulation therapies applied 
+to the lumbar spinal cord instantly enable the motor cortex to trig-
+ger and modulate robust locomotor movements of paralyzed legs27. 
+Because these injuries abolish all corticospinal tract projections, the 
+cortical command is transferred downstream through glutamater-
+gic projections originating from the ventral gigantocellular reticular 
+nucleus. Due to their distributed topology in the white matter, these 
+pathways systematically survive the injury, regardless of the inher-
+ently variable location of damage. The anatomy and function of 
+reticulospinal pathways are well-conserved across mammals126, and 
+reticulospinal systems likely contribute to improving recovery from 
+Mnα 
+Mnα 
+Motor cortex 
+Pyramidal
+cells
+Projection
+in the
+brainstem
+New
+relay
+circuit
+Spinal 
+sensorimotor
+circuits
+Spinal 
+sensorimotor
+circuits
+Intraspinal
+relay circuit
+Spinal 
+sensorimotor
+circuits
+Electrochemical
+neuromodulation
+After neuroprosthetic
+neurorehabilitation
+Spontaneous
+Ia 
+Spared
+but silent
+neural 
+connections
+Respond to
+task-specific
+sensory input
+ No functional 
+state
+Electrode
+array
+5HT
+Chemical
+stimulation
+Electrical
+stimulation
+Supraspinal
+control of movement
+during neuromodulation
+Cortex dependent
+recovery without
+neuromodulation
+Respond to
+residual 
+supraspinal
+input
+Silent 
+pathways
+becoming
+functional
+Proprioceptive
+circuits
+Spared but
+nonfunctional
+pathways and circuits 
+Axon growth
+and synapse
+formation
+Mnα 
+Mnα 
+Immediate
+Long-term
+Fig. 3 | Engineering strategies to enable immediate and long-term 
+recovery of motor functions. After a severe but incomplete SCI, the 
+sensorimotor circuits producing motor activity are spared, but they lack the 
+essential source of modulation and excitation to be functional. Descending 
+pathways are partly spared but fail to activate these circuits in order to 
+mediate muscle contractions. The delivery of chemical and/or electrical 
+neuromodulation therapies to the lumbar or cervical spinal cord below 
+the injury immediately enables spinal sensorimotor circuits to respond 
+to task-specific sensory input and residual supraspinal input in order to 
+produce functional movements. In conjunction with neurorehabilitation, 
+this intervention promotes an extensive reorganization of spared circuits 
+and residual connections in the brainstem and spinal cord that mediates 
+functional recovery. After training, motor control occurs without the need 
+of the electrochemical neuromodulation therapies.
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+902
+
+Review Article
+NAture MedICIne
+SCI in humans24. These results suggest that clinically complete inju-
+ries often spare descending projections, in particular reticulospinal 
+pathways, but these residual neural connections are insufficient to 
+voluntarily elicit detectable muscle contractions106,117,127,128.
+These clinical research results have triggered a surge of interest 
+in the development of spinal cord stimulation technologies105,129. 
+These new strategies aim to activate the proprioceptive fibers in the 
+posterior roots122,123. Consequently, targeting proprioceptive fibers 
+located in a given lumbosacral posterior root using a spatially selec-
+tive electrode configuration provides preferential access to the pre-
+motor neurons and motoneurons130,131 embedded in the segment 
+innervated by this root122,123. This translates into closed-loop stimu-
+lation protocols whereby short bursts of spatially selective electrical 
+stimulation are delivered with a timing that coincides with natural 
+activation of motoneurons132. These spatiotemporal neuromodula-
+tion therapies enable a refined control over the movements of para-
+lyzed legs in animal models and humans105,129. For example, if the 
+algorithms that control this neuromodulation are adjusted on the 
+basis of real-time movement feedback, this enables rats with com-
+plete SCI to climb staircases of various heights and lengths with pre-
+cision and fluidity133. Residual supraspinal inputs can also modify 
+the impact of the electrical stimulation on the spinal cord execu-
+tive centers, both positively and negatively, in order to modulate the 
+movements voluntarily27,109,111,117.
+Compared to continuous stimulation, spatiotemporal stimu-
+lation increases the amplitude and robustness of leg movements, 
+which enabled the sustained production of full weight-bearing loco-
+motion in animal models and humans105,129,133. These spatiotempo-
+ral stimulation protocols enabled graded control over the activity 
+of otherwise paralyzed muscles during walking, thus providing the 
+opportunity to engage activity-dependent mechanisms during reha-
+bilitation, as discussed below.
+Engineering strategies to bypass lesions. A brain–computer inter-
+faces (BCI) decodes motor or cognitive intentions from a neural 
+sensing interface and translates these predictions into executive 
+commands for actuators. Historically, BCI treatments have focused 
+on connecting people who have lost the ability to speak or move 
+with assistive devices. These neurotechnologies allow people with 
+paralysis to type words at a fast pace134,135 and to operate multi-
+articulated prosthetic arms to execute activities of daily living using 
+neural signals recorded directly from the brain136,137.
+BCI research is now undergoing a rapid transition from sub-
+stitution to restoration therapies. The new waves of BCIs aim at 
+re-establishing bidirectional communication between the brain 
+and denervated body parts129,138–142 (Fig. 4). For example, cortical 
+signals have been directly linked to neuromuscular stimulation 
+protocols to reanimate paralyzed muscles. These neural bypasses 
+enabled functional upper limb movements in two persons with tet-
+raplegia138,139. Conversely, encoding touch pressure information into 
+somatosensory cortex stimulation protocols allowed a paralyzed 
+person to recognize pressure-like sensations in individual fingers 
+of a robotic hand142. Leg motor cortex activity has been interfaced 
+wirelessly to spinal cord stimulation protocols to establish a brain–
+spine interface that restores natural locomotor movements of para-
+lyzed limbs in rodent143 and non-human primate129 models of SCI. 
+Similar approaches may improve upper limb functions115,118, but the 
+more sophisticated control of manual dexterity and the permanent 
+gray matter damage associated with cervical injuries add signifi-
+cant challenges. However, contrary to the high threshold required 
+to attain useful locomotor function recovery, even relatively mod-
+est improvements in hand function can translate into a meaningful 
+increase in quality of life3.
+The translation of these breakthroughs into common medical 
+treatments for people with paralysis is facing a series of practical, 
+financial and technological roadblocks144. Practically, the functional 
+benefit of BCI devices remains relatively modest in comparison 
+with their manifold technical challenges and financial burdens for 
+society144. Advanced BCI treatments employ Utah arrays that are 
+inserted into the cerebral cortex to record neural activity. Conceived 
+in the 1990s, this grid of silicone-based electrodes is the only intra-
+cortical neural probe approved for clinical use. However, the quality 
+of neural signals extinguishes rapidly. Cortical grids placed epidur-
+ally or subdurally allow more stable neural recordings (Fig. 4), but 
+their spatial resolution may be insufficient for advanced prosthetic 
+control144. Moreover, daily use of these neural prostheses will only 
+be possible with the support of wireless recording technologies 
+and brain-decoding algorithms that do not require constant reca-
+libration. Likewise, current technologies to modulate the human 
+CNS do not meet the requirements of prosthetic applications145. 
+Advanced therapies rely on implantable stimulation technologies 
+endowed with real-time wireless communication, and on next-
+generation interfaces targeting specific neural structures with elec-
+trical, chemical and even optical stimulation modalities. Multiple 
+academic institutions, foundations and companies are addressing 
+these challenges.
+Engineering rehabilitation to augment recovery. Activity-based 
+therapies are common in medical practice for enhancing recovery 
+from SCI. The underlying molecular mechanisms remain unclear, 
+but it is now accepted that the repeated activation of the sensorimo-
+tor system augments activity-dependent plasticity of spared circuits 
+and residual neural connections, which leads to functional improve-
+ments18,35,146,147. Consequently, a large number of neurotechnologies 
+have been developed to augment activity, and thus plasticity, after 
+SCI. For example, motor cortex electrical stimulation promotes 
+activity-dependent sprouting of spared corticospinal tract axons, 
+which improved skilled locomotion in rodent models of partial 
+SCI148,149. Despite conflicting results, transcranial magnetic stimula-
+tion applied over both the leg and arm regions of the human motor 
+cortex also enhance the transmission along residual neural path-
+ways, which has improved motor functions and reduced spasticity 
+Surface or deep 
+brain stimulation
+Epidural
+electrical
+stimulation
+Transcutaneous
+electrical
+stimulation
+T11
+T12
+L1
+L2
+EEG
+Interface
+Recording
+Neuromodulation
+S1 stimulation
+(restore sensation)
+Epidural
+ECoG
+Subdural
+ECoG
+Intracortical
+microelectrode array
+Kinematic
+Muscle
+activity
+Inertial
+measurement
+units
+Resolution
+Spatial coverage
+Functional
+electrical 
+muscle stimulation
+(FES)
+Peripheral nerve 
+stimulation
+(PNS)
+Brain activity
+Low
+High
+High
+Low
+Movement feedback 
+Fig. 4 | Engineering technologies to interface motor intentions with 
+denervated body parts. Current brain recording technologies impose a 
+trade-off between resolution, spatial coverage and invasiveness. Motor 
+intentions or motor states decoded from neural recordings or movement 
+feedback signals can be interfaced to neuromodulation therapies or 
+stimulation protocols to enable or induce movements and sensations. EEG, 
+electroencephalogram; ECoG, electrocorticogram.
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+903
+
+Review Article
+NAture MedICIne
+in paraplegic and tetraplegic patients150,151. Similarly, paired associa-
+tive stimulation of neural structures above and below SCI promote 
+lasting augmentation of cortical and spinal circuit outputs, both 
+in animal models and humans with SCI152,153. Electrical stimula-
+tion of the spinal cord by single corticospinal tract neurons also 
+triggers a durable modification of neural connectivity154–156. This 
+activity-dependent stimulation increases the strength of terminal 
+projections from single neurons through spike-timing-dependent 
+plasticity157. These approaches may increase recovery after partial 
+injuries that spare corticospinal tract projections, which is a key 
+predictor of spontaneous recovery after acute SCI158. For this rea-
+son, various groups are evaluating whether long-term use of the 
+neural bypasses described above during rehabilitation may augment 
+plasticity and recovery143,159.
+Experiments in animal models of SCI illustrate that the extent of 
+activity-based plasticity correlates with the volume and intensity of 
+that activity147. Due to the depressed excitability of spinal circuits, the 
+severely injured spinal cord does not respond robustly to task-spe-
+cific sensory information, thus limiting the benefit of activity-based 
+therapies147,160. However, neuromodulation therapies restore the abil-
+ity of motor execution centers located in the spinal cord to process 
+sensory information to produce movement111,112,117,156, which pro-
+vides the possibility to train with high levels of activity. Encouraging 
+contribution of supraspinal centers is essential to restore volitional 
+motor control. Step training on a treadmill, which does not require 
+supraspinal contribution in animal models31, mediates robust 
+activity-dependent plasticity of spinal circuits31,35 but fails to restore 
+functional interactions with supraspinal centers109. Instead, reha-
+bilitation in a robotic body weight support system that favors these 
+interactions restores volitional motor functions. After injuries lead-
+ing to permanent leg paralysis, both rats and humans trained with 
+such robotic support and neuromodulation therapies regained the 
+ability to transform contextual cues into task-specific motor com-
+mands to walk over ground over a range of speeds or adjust their 
+step height as needed to climb a staircase27,109,111. However, volitional 
+movements also returned without neuromodulation, both in ani-
+mal models27 and humans111,161. Unbiased anatomical experiments 
+of whole-brain and spinal cord in animal models showed that this 
+recovery relies on an extensive and ubiquitous plasticity of residual 
+connections whereby the cortical command is rerouted to lumbar 
+circuits through de novo brainstem pathways27 and/or intraspinal 
+relays109. The mechanisms responsible for this activity-dependent 
+plasticity remain enigmatic. Neural activity triggers growth factor 
+synthesis162, calcium-dependent myelin sheath formation163, chlo-
+ride homeostasis regulation164, synaptic plasticity and many other 
+molecular mechanisms that most likely contribute to neural repair.
+Accumulating evidence suggests that the interplay between top-
+down supraspinal signals and bottom-up proprioceptive informa-
+tion plays a critical role in mediating this recovery. The absence of 
+proprioceptive information prevents descending pathway reorgani-
+zation after injury16. In turn, electrical stimulation enables motor 
+control through the activation of proprioceptive pathways122,123. 
+Many descending systems that are engaged during rehabilitation 
+converge on these circuits27,109. This conceptual framework is steer-
+ing the development of new engineering strategies that forcefully 
+link top-down and bottom-up signaling pathways during rehabilita-
+tion. For example, paraplegic individuals were trained in an exoskel-
+eton that was actuated based on non-invasive brain recordings165. 
+Artificial sensory feedbacks were delivered to both arms in order to 
+feed proprioceptive information from both legs to the spinal cord 
+above the injury. Over time, this closed-loop system restored sen-
+sation in some of the originally denervated dermatomes. Likewise, 
+brain-controlled stimulation of the spinal cord below the injury 
+augmented the beneficial impact of rehabilitation on the recovery 
+of locomotion in rats with severe SCI143. These rehabilitation pro-
+grams closing the loop between circuits located above and below 
+the injury may further increase use-dependent plasticity of residual 
+connections155,159, but more work is needed to uncover the underly-
+ing mechanisms.
+While various engineering approaches have yielded impressive 
+outcomes in laboratory environments, it is important to realize that 
+patients still favor wheelchairs over other alternatives to ambulate166. 
+For example, various insurances reimburse the purchase of lower 
+limb exoskeletons to patients with SCI. However, current technolo-
+gies involve high energy requirements, unpractical setting proce-
+dures and complex operations to ambulate at relatively low speed 
+compared to wheelchairs. These limitations emphasize the need to 
+refine current technologies. For example, implanted devices that 
+can be operated with a voice controller open practical perspectives 
+for use in daily life. These technologies also offer the opportunity 
+to continue effective rehabilitative training at home or in special-
+ized gyms in order to take advantage of the continuing potential for 
+plasticity that expands beyond the transient rehabilitation programs 
+currently delivered to individuals with SCI.
+Future directions
+Current biological and engineering strategies have shown therapeu-
+tic potential in animal models, but their ability to mediate clinically 
+important improvements after severe SCI remains elusive. Since 
+these treatments target distinct mechanisms, their combinations 
+are expected to be synergistic. While logical, merging fundamen-
+tally different approaches has turned out to be more complex than 
+originally thought. For example, activity-based therapy in the pres-
+ence of plasticity-enhancing strategies uncovered complex inter-
+actions between both interventions47,167–169. These studies revealed 
+that the specific relationships between the practiced exercises and 
+the temporal windows for delivering each therapy determined the 
+balance between beneficial and detrimental plasticity. Moreover, 
+many failed combinatorial attempts still linger in laboratory note-
+books. Despite these unexpected outcomes, dubious combinations 
+of unproven cell treatments, immature engineering strategies and 
+intense exercise programs have unfortunately flourished in clinics 
+offering medical tourism.
+Thus far, combinatorial attempts were designed algebraically, 
+expecting simply additive results without considering the interac-
+tions between their respective mechanisms. Based on the knowl-
+edge summarized in this review, various combinatorial strategies 
+could be envisaged that activate intrinsic neuronal growth pro-
+grams, establish a permissive growth environment, deliver chemo-
+tropic gradients to encourage axonal regeneration into and beyond 
+the environment, graft neural stem cells that form new relay cir-
+cuits and deploy engineering solutions that foster the integration of 
+regenerating axons and de novo relay circuits into CNS operations 
+through rehabilitation. However, this vision may be simplistic and 
+deceptively incremental.
+With appropriately targeted approaches, however, biological 
+and engineering strategies may interact to catalyze each other. For 
+example, biological interventions that modulate axonal growth, 
+lesion environments and even learning and memory may increase 
+the anatomical and functional reorganization of the circuits that 
+underlies the recovery of voluntary motor functions in response 
+to neuroprosthetic rehabilitation. In turn, engineering strategies 
+involving brain-controlled modulation129,143 of genetically targeted 
+neurons29 may critically engage neurons with regrowing axons and 
+thus facilitate the integration of newly formed connections, which 
+have been stimulated to regrow by biological interventions, into the 
+operations of the CNS.
+The SCI research community must reflect on exploiting engi-
+neering solutions to target mechanisms that will amplify biologi-
+cal repair treatments, and inversely, envision mechanism-based 
+biological strategies able to augment the effects of technological 
+interventions. These combinatorial therapies will need to obey strict 
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+904
+
+Review Article
+NAture MedICIne
+temporal windows. This translational strategy requires a careful 
+selection of rodent SCI models and, in many instances, a necessary 
+work in nonhuman primate models (Box 2).
+We thus advocate tailoring combinations of biological and engi-
+neering strategies derived from the identified interactions between 
+their respective mechanisms over the course of recovery from SCI. 
+Only through these combinatorial, time-dependent interventions 
+will we appropriately target multiple facets of spinal cord repair and 
+mediate clinically meaningful functional improvements. These con-
+cepts may apply to other CNS disorders. While there are challenges 
+ahead, only through this partnership between biologists and engi-
+neers will treatments be conceived to advance and maybe win the 
+fight against paralysis.
+Received: 29 January 2018; Accepted: 1 May 2019;  
+Published online: 3 June 2019
+References
+	1.	
+National Spinal Cord Injury Statistical Center. Spinal cord injury (SCI) facts 
+and figures at a glance https://www.nscisc.uab.edu/Public/Facts%202016.pdf 
+(2016).
+	2.	
+Fehlings, M. G. et al. A clinical practice guideline for the management of 
+acute spinal cord injury: introduction, rationale, and scope. Global Spine J. 
+7 Suppl, 84S–94S (2017).
+	3.	
+Anderson, K. D. Targeting recovery: priorities of the spinal cord-injured 
+population. J. Neurotrauma 21, 1371–1383 (2004).
+	4.	
+Fawcett, J. W. et al. Guidelines for the conduct of clinical trials for spinal 
+cord injury as developed by the ICCP panel: spontaneous recovery after 
+spinal cord injury and statistical power needed for therapeutic clinical 
+trials. Spinal Cord 45, 190–205 (2007).
+	5.	
+Sofroniew, M. V. Dissecting spinal cord regeneration. Nature 557, 
+343–350 (2018).
+	6.	
+Göritz, C. et al. A pericyte origin of spinal cord scar tissue. Science 333, 
+238–242 (2011).
+	7.	
+Zhu, Y. et al. Hematogenous macrophage depletion reduces the fibrotic scar 
+and increases axonal growth after spinal cord injury. Neurobiol. Dis. 74, 
+114–125 (2015).
+	8.	
+Burda, J. E. & Sofroniew, M. V. Reactive gliosis and the multicellular 
+response to CNS damage and disease. Neuron 81, 229–248 (2014).
+	9.	
+Herrmann, J. E. et al. STAT3 is a critical regulator of astrogliosis and scar 
+formation after spinal cord injury. J. Neurosci. 28, 7231–7243 (2008).
+	10.	
+Sofroniew, M. V. Astrocyte barriers to neurotoxic inflammation. Nat. Rev. 
+Neurosci. 16, 249–263 (2015).
+	11.	
+O’Shea, T. M., Burda, J. E. & Sofroniew, M. V. Cell biology of spinal cord 
+injury and repair. J. Clin. Invest. 127, 3259–3270 (2017).
+	12.	
+Tuszynski, M. H. & Steward, O. Concepts and methods for the study of 
+axonal regeneration in the CNS. Neuron 74, 777–791 (2012).
+	13.	
+Murray, K. C. et al. Recovery of motoneuron and locomotor function after 
+spinal cord injury depends on constitutive activity in 5-HT2C receptors. 
+Nat. Med. 16, 694–700 (2010).
+	14.	
+Bareyre, F. M. et al. The injured spinal cord spontaneously forms a new 
+intraspinal circuit in adult rats. Nat. Neurosci. 7, 269–277 (2004).
+	15.	
+Courtine, G. et al. Recovery of supraspinal control of stepping via indirect 
+propriospinal relay connections after spinal cord injury. Nat. Med. 14, 
+69–74 (2008).
+	16.	
+Takeoka, A., Vollenweider, I., Courtine, G. & Arber, S. Muscle spindle 
+feedback directs locomotor recovery and circuit reorganization after spinal 
+cord injury. Cell 159, 1626–1639 (2014).
+	17.	
+Ballermann, M. & Fouad, K. Spontaneous locomotor recovery in spinal 
+cord injured rats is accompanied by anatomical plasticity of reticulospinal 
+fibers. Eur. J. Neurosci. 23, 1988–1996 (2006).
+	18.	
+Raineteau, O. & Schwab, M. E. Plasticity of motor systems after incomplete 
+spinal cord injury. Nat. Rev. Neurosci. 2, 263–273 (2001).
+	19.	 Rosenzweig, E. S. et al. Extensive spontaneous plasticity of corticospinal 
+projections after primate spinal cord injury. Nat. Neurosci. 13,  
+1505–1510 (2010).
+	20.	
+Friedli, L. et al. Pronounced species divergence in corticospinal tract 
+reorganization and functional recovery after lateralized spinal cord injury 
+favors primates. Sci. Transl. Med. 7, 302ra134 (2015).
+	21.	
+Belhaj-Saïf, A. & Cheney, P. D. Plasticity in the distribution of the red 
+nucleus output to forearm muscles after unilateral lesions of the pyramidal 
+tract. J. Neurophysiol. 83, 3147–3153 (2000).
+	22.	
+Müllner, A. et al. Lamina-specific restoration of serotonergic projections 
+after Nogo-A antibody treatment of spinal cord injury in rats. Eur. J. 
+Neurosci. 27, 326–333 (2008).
+	23.	
+Oudega, M. & Perez, M. A. Corticospinal reorganization after spinal cord 
+injury. J. Physiol. (Lond.) 590, 3647–3663 (2012).
+	24.	
+Baker, S. N. & Perez, M. A. Reticulospinal contributions to gross hand 
+function after human spinal cord injury. J. Neurosci. 37, 9778–9784 (2017).
+	25.	
+Hilton, B. J. et al. Re-establishment of cortical motor output maps and 
+spontaneous functional recovery via spared dorsolaterally projecting 
+corticospinal neurons after dorsal column spinal cord injury in adult mice. 
+J. Neurosci. 36, 4080–4092 (2016).
+	26.	
+Hollis, E. R. II et al. Ryk controls remapping of motor cortex during 
+functional recovery after spinal cord injury. Nat. Neurosci. 19, 697–705 (2016).
+	27.	
+Asboth, L. et al. Cortico-reticulo-spinal circuit reorganization enables 
+functional recovery after severe spinal cord contusion. Nat. Neurosci. 21, 
+576–588 (2018).
+	28.	
+Ruder, L., Takeoka, A. & Arber, S. Long-distance descending spinal neurons 
+ensure quadrupedal locomotor stability. Neuron 92, 1063–1078 (2016).
+	29.	
+Chen, B. et al. Reactivation of dormant relay pathways in injured spinal 
+cord by KCC2 manipulations. Cell 174, 521–535 e513 (2018).
+	30.	
+Kinoshita, M. et al. Genetic dissection of the circuit for hand dexterity in 
+primates. Nature 487, 235–238 (2012).
+	31.	
+Courtine, G. et al. Transformation of nonfunctional spinal circuits into 
+functional states after the loss of brain input. Nat. Neurosci. 12, 
+1333–1342 (2009).
+	32.	
+Beauparlant, J. et al. Undirected compensatory plasticity contributes to 
+neuronal dysfunction after severe spinal cord injury. Brain 136, 
+3347–3361 (2013).
+	33.	
+Jiang, Y. Q., Zaaimi, B. & Martin, J. H. Competition with primary sensory 
+afferents drives remodeling of corticospinal axons in mature spinal motor 
+circuits. J. Neurosci. 36, 193–203 (2016).
+	34.	
+Dietz, V. Behavior of spinal neurons deprived of supraspinal input.  
+Nat. Rev. Neurol. 6, 167–174 (2010).
+Box 2 | Relevant animal models of SCI
+Effective therapeutic developments require selecting experimen-
+tal models that are appropriate for evaluating the impact of the 
+tested intervention on the targeted repair mechanisms and are 
+still relevant for clinical perspectives. The majority of current 
+interventions are conducted in rodent models that undergo a 
+partial cut of the spinal cord. These precise injuries are useful 
+to decipher the mechanisms of recovery since the interrupted 
+tracts are well characterized. Moreover, they lead to spontaneous 
+functional recovery, which allows monitoring therapy-mediated 
+improvements. However, this type of lesion fails to reproduce 
+many of the features that characterize the majority of spinal cord 
+damage in humans. After partial cut injuries, humans exhibit ex-
+tensive spontaneous functional recovery.
+Instead, severe contusion or crush SCI in rodent models 
+presents all the key hallmarks of the more frequently observed 
+injuries in humans, including permanent paralysis. Moreover, 
+recovery from contusion SCI appears to rely on mechanisms that 
+are distinct from those involved in movement restoration after 
+cut injuries27. Due to variable outcomes and severity of deficits, 
+however, contusion injuries are not always used in animal 
+models for preclinical tests of potential interventions. We believe 
+that spinal cord repair interventions should therefore be tested in 
+both cut and contusion or crush models, with severities that are 
+relevant clinically.
+Another key consideration is the importance of nonhuman 
+primate models of SCI. The technical difficulties, complex 
+logistics, exuberant costs and intimidating ethical issues are 
+refraining translational scientists from testing and optimizing 
+their therapies in this model. However, we argue that there is 
+much to gain in solidifying preclinical results in primate models, 
+and adapting procedures and technologies to the size and 
+specificities of primate species. Considering the staggering cost 
+of clinical trials, we feel that a tremendous amount of information 
+may derive from small, well-structured studies in nonhuman 
+primate models of SCI before contemplating applications 
+in humans.
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+905
+
+Review Article
+NAture MedICIne
+	35.	
+Edgerton, V. R., Tillakaratne, N. J., Bigbee, A. J., de Leon, R. D. & Roy, R. 
+R. Plasticity of the spinal neural circuitry after injury. Annu. Rev. Neurosci. 
+27, 145–167 (2004).
+	36.	
+Lovett-Barr, M. R. et al. Repetitive intermittent hypoxia induces respiratory 
+and somatic motor recovery after chronic cervical spinal injury. J. Neurosci. 
+32, 3591–3600 (2012).
+	37.	
+Navarrete-Opazo, A., Alcayaga, J., Sepúlveda, O., Rojas, E. & Astudillo, C. 
+Repetitive intermittent hypoxia and locomotor training enhances walking 
+function in incomplete spinal cord injury subjects: a randomized, triple-
+blind, placebo-controlled clinical trial. J. Neurotrauma 34, 1803–1812 (2017).
+	38.	
+Stevens, B. et al. The classical complement cascade mediates CNS synapse 
+elimination. Cell 131, 1164–1178 (2007).
+	39.	
+Schafer, D. P. et al. Microglia sculpt postnatal neural circuits in an activity 
+and complement-dependent manner. Neuron 74, 691–705 (2012).
+	40.	
+Kucukdereli, H. et al. Control of excitatory CNS synaptogenesis by 
+astrocyte-secreted proteins Hevin and SPARC. Proc. Natl Acad. Sci. USA 
+108, E440–E449 (2011).
+	41.	
+Christopherson, K. S. et al. Thrombospondins are astrocyte-secreted 
+proteins that promote CNS synaptogenesis. Cell 120, 421–433 (2005).
+	42.	
+Allen, N. J. et al. Astrocyte glypicans 4 and 6 promote formation of 
+excitatory synapses via GluA1 AMPA receptors. Nature 486, 410–414 (2012).
+	43.	
+Tyzack, G. E. et al. Astrocyte response to motor neuron injury promotes 
+structural synaptic plasticity via STAT3-regulated TSP-1 expression. Nat. 
+Commun. 5, 4294 (2014).
+	44.	
+Wang, D. & Fawcett, J. The perineuronal net and the control of CNS 
+plasticity. Cell Tissue Res. 349, 147–160 (2012).
+	45.	
+Schwab, M. E. & Strittmatter, S. M. Nogo limits neural plasticity and 
+recovery from injury. Curr. Opin. Neurobiol. 27, 53–60 (2014).
+	46.	
+Bradbury, E. J. & McMahon, S. B. Spinal cord repair strategies: why do they 
+work? Nat. Rev. Neurosci. 7, 644–653 (2006).
+	47.	
+García-Alías, G., Barkhuysen, S., Buckle, M. & Fawcett, J. W. 
+Chondroitinase ABC treatment opens a window of opportunity for 
+task-specific rehabilitation. Nat. Neurosci. 12, 1145–1151 (2009).
+	48.	
+Mironova, Y. A. & Giger, R. J. Where no synapses go: gatekeepers of circuit 
+remodeling and synaptic strength. Trends Neurosci. 36, 363–373 (2013).
+	49.	
+Onishi, K., Hollis, E. & Zou, Y. Axon guidance and injury-lessons from 
+Wnts and Wnt signaling. Curr. Opin. Neurobiol. 27, 232–240 (2014).
+	50.	
+Norenberg, M. D., Smith, J. & Marcillo, A. The pathology of human spinal 
+cord injury: defining the problems. J. Neurotrauma 21, 429–440 (2004).
+	51.	
+Fleming, J. C. et al. The cellular inflammatory response in human spinal 
+cords after injury. Brain 129, 3249–3269 (2006).
+	52.	
+Park, K. K. et al. Promoting axon regeneration in the adult CNS by 
+modulation of the PTEN/mTOR pathway. Science 322, 963–966 (2008).
+	53.	
+Liu, K. et al. PTEN deletion enhances the regenerative ability of adult 
+corticospinal neurons. Nat. Neurosci. 13, 1075–1081 (2010).
+	54.	
+Sun, F. et al. Sustained axon regeneration induced by co-deletion of PTEN 
+and SOCS3. Nature 480, 372–375 (2011).
+	55.	
+He, Z. & Jin, Y. Intrinsic control of axon regeneration. Neuron 90, 
+437–451 (2016).
+	56.	
+Chen, Q. et al. Carcinoma-astrocyte gap junctions promote brain metastasis 
+by cGAMP transfer. Nature 533, 493–498 (2016).
+	57.	
+Chandran, V. et al. A systems-level analysis of the peripheral nerve intrinsic 
+axonal growth program. Neuron 89, 956–970 (2016).
+	58.	
+Yoon, C. & Giger, R. J. Inside out: core network of transcription factors 
+drives axon regeneration. Neuron 89, 881–884 (2016).
+	59.	
+de Lima, S. et al. Full-length axon regeneration in the adult mouse optic 
+nerve and partial recovery of simple visual behaviors. Proc. Natl Acad. Sci. 
+USA 109, 9149–9154 (2012).
+	60.	
+Baldwin, K. T., Carbajal, K. S., Segal, B. M. & Giger, R. J. 
+Neuroinflammation triggered by β-glucan/dectin-1 signaling enables CNS 
+axon regeneration. Proc. Natl Acad. Sci. USA 112, 2581–2586 (2015).
+	61.	
+Ozdinler, P. H. & Macklis, J. D. IGF-I specifically enhances axon outgrowth 
+of corticospinal motor neurons. Nat. Neurosci. 9, 1371–1381 (2006).
+	62.	
+Bei, F. et al. Restoration of visual function by enhancing conduction in 
+regenerated axons. Cell 164, 219–232 (2016).
+	63.	 Alto, L. T. et al. Chemotropic guidance facilitates axonal regeneration 
+and synapse formation after spinal cord injury. Nat. Neurosci. 12, 
+1106–1113 (2009).
+	64.	
+Bonner, J. F. et al. Grafted neural progenitors integrate and restore synaptic 
+connectivity across the injured spinal cord. J. Neurosci. 31, 4675–4686 (2011).
+	65.	
+Anderson, M. A. et al. Astrocyte scar formation aids central nervous system 
+axon regeneration. Nature 532, 195–200 (2016).
+	66.	
+Plantman, S. et al. Integrin-laminin interactions controlling neurite outgrowth 
+from adult DRG neurons in vitro. Mol. Cell. Neurosci. 39, 50–62 (2008).
+	67.	
+Edwards, T. J. & Hammarlund, M. Syndecan promotes axon regeneration by 
+stabilizing growth cone migration. Cell Reports 8, 272–283 (2014).
+	68.	
+Farhy Tselnicker, I., Boisvert, M. M. & Allen, N. J. The role of neuronal 
+versus astrocyte-derived heparan sulfate proteoglycans in brain 
+development and injury. Biochem. Soc. Trans. 42, 1263–1269 (2014).
+	69.	
+Masu, M. Proteoglycans and axon guidance: a new relationship between old 
+partners. J. Neurochem. 139 Suppl 2, 58–75 (2016).
+	70.	
+Baier, H. & Bonhoeffer, F. Axon guidance by gradients of a target-derived 
+component. Science 255, 472–475 (1992).
+	71.	
+Horn, K. P., Busch, S. A., Hawthorne, A. L., van Rooijen, N. & Silver, J. 
+Another barrier to regeneration in the CNS: activated macrophages induce 
+extensive retraction of dystrophic axons through direct physical 
+interactions. J. Neurosci. 28, 9330–9341 (2008).
+	72.	 Blesch, A. & Tuszynski, M. H. Transient growth factor delivery  
+sustains regenerated axons after spinal cord injury. J. Neurosci. 27, 
+10535–10545 (2007).
+	73.	
+Adams, K. L. & Gallo, V. The diversity and disparity of the glial scar.  
+Nat. Neurosci. 21, 9–15 (2018).
+	74.	
+Windle, W. F., Clemente, C. D. & Chambers, W. W. Inhibition of formation 
+of a glial barrier as a means of permitting a peripheral nerve to grow into 
+the brain. J. Comp. Neurol. 96, 359–369 (1952).
+	75.	
+Anderson, M. A. et al. Required growth facilitators propel axon 
+regeneration across complete spinal cord injury. Nature 561,  
+396–400 (2018).
+	76.	
+Brosius Lutz, A. & Barres, B. A. Contrasting the glial response to  
+axon injury in the central and peripheral nervous systems. Dev. Cell 28, 
+7–17 (2014).
+	77.	
+Mason, C. A., Edmondson, J. C. & Hatten, M. E. The extending astroglial 
+process: development of glial cell shape, the growing tip, and interactions 
+with neurons. J. Neurosci. 8, 3124–3134 (1988).
+	78.	
+Raper, J. & Mason, C. Cellular strategies of axonal pathfinding. Cold Spring 
+Harb. Perspect. Biol. 2, a001933 (2010).
+	79.	
+Zukor, K. et al. Short hairpin RNA against PTEN enhances regenerative 
+growth of corticospinal tract axons after spinal cord injury. J. Neurosci. 33, 
+15350–15361 (2013).
+	80.	
+Mokalled, M. H. et al. Injury-induced ctgfa directs glial bridging and spinal 
+cord regeneration in zebrafish. Science 354, 630–634 (2016).
+	81.	
+Richardson, P. M. & Issa, V. M. Peripheral injury enhances central 
+regeneration of primary sensory neurones. Nature 309, 791–793 (1984).
+	82.	
+Hutson, T. H. et al. Cbp-dependent histone acetylation mediates axon 
+regeneration induced by environmental enrichment in rodent spinal cord 
+injury models. Sci. Transl. Med. 11, eaaw2064 (2019).
+	83.	
+Neumann, S. & Woolf, C. J. Regeneration of dorsal column fibers into 
+and beyond the lesion site following adult spinal cord injury. Neuron 23, 
+83–91 (1999).
+	84.	
+Pearse, D. D. et al. cAMP and Schwann cells promote axonal growth and 
+functional recovery after spinal cord injury. Nat. Med. 10, 610–616 (2004).
+	85.	
+Williams, R. R., Henao, M., Pearse, D. D. & Bunge, M. B. Permissive 
+Schwann cell graft/spinal cord interfaces for axon regeneration. Cell 
+Transplant. 24, 115–131 (2015).
+	86.	
+Shih, C. H., Lacagnina, M., Leuer-Bisciotti, K. & Pröschel, C. Astroglial-
+derived periostin promotes axonal regeneration after spinal cord injury.  
+J. Neurosci. 34, 2438–2443 (2014).
+	87.	
+Zhang, S., Alvarez, D. J., Sofroniew, M. V. & Deming, T. J. Design and 
+synthesis of nonionic copolypeptide hydrogels with reversible 
+thermoresponsive and tunable physical properties. Biomacromolecules 16, 
+1331–1340 (2015).
+	88.	
+Assinck, P., Duncan, G. J., Hilton, B. J., Plemel, J. R. & Tetzlaff, W.  
+Cell transplantation therapy for spinal cord injury. Nat. Neurosci. 20, 
+637–647 (2017).
+	89.	
+Anderson, K. D. et al. Safety of autologous human schwann cell 
+transplantation in subacute thoracic spinal cord injury. J. Neurotrauma 34, 
+2950–2963 (2017).
+	90.	
+Lu, P. et al. Long-distance growth and connectivity of neural stem cells after 
+severe spinal cord injury. Cell 150, 1264–1273 (2012).
+	91.	
+Lu, P., Jones, L. L., Snyder, E. Y. & Tuszynski, M. H. Neural stem cells 
+constitutively secrete neurotrophic factors and promote extensive host 
+axonal growth after spinal cord injury. Exp. Neurol. 181, 115–129 (2003).
+	92.	
+Kadoya, K. et al. Spinal cord reconstitution with homologous neural grafts 
+enables robust corticospinal regeneration. Nat. Med. 22, 479–487 (2016).
+	93.	
+Abematsu, M. et al. Neurons derived from transplanted neural stem cells 
+restore disrupted neuronal circuitry in a mouse model of spinal cord injury. 
+J. Clin. Invest. 120, 3255–3266 (2010).
+	94.	
+Rosenzweig, E. S. et al. Restorative effects of human neural stem cell grafts 
+on the primate spinal cord. Nat. Med. 24, 484–490 (2018).
+	95.	
+Pivetta, C., Esposito, M. S., Sigrist, M. & Arber, S. Motor-circuit 
+communication matrix from spinal cord to brainstem neurons revealed by 
+developmental origin. Cell 156, 537–548 (2014).
+	96.	
+Winter, C. C. et al. Transplantable living scaffolds comprised of micro-tissue 
+engineered aligned astrocyte networks to facilitate central nervous system 
+regeneration. Acta Biomater. 38, 44–58 (2016).
+	97.	
+Gao, M. et al. Templated agarose scaffolds for the support of motor axon 
+regeneration into sites of complete spinal cord transection. Biomaterials 34, 
+1529–1536 (2013).
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+906
+
+Review Article
+NAture MedICIne
+	98.	
+Elliott Donaghue, I., Tam, R., Sefton, M. V. & Shoichet, M. S. Cell and 
+biomolecule delivery for tissue repair and regeneration in the central 
+nervous system. J. Control. Release 190, 219–227 (2014).
+	99.	
+O’Shea, T. M. et al. In Smart Materials for Tissue Engineering Applications 
+(ed. Wang, Q.) 529–557 (Royal Society of Chemistry, 2017).
+	100.	 Grillner, S. Biological pattern generation: the cellular and computational 
+logic of networks in motion. Neuron 52, 751–766 (2006).
+	101.	 Kiehn, O. Locomotor circuits in the mammalian spinal cord. Annu. Rev. 
+Neurosci. 29, 279–306 (2006).
+	102.	 Bachmann, L. C. et al. Deep brain stimulation of the midbrain locomotor 
+region improves paretic hindlimb function after spinal cord injury in rats. 
+Sci. Transl. Med. 5, 208ra146 (2013).
+	103.	 Radhakrishna, M. et al. Double-blind, placebo-controlled, randomized 
+phase I/IIa study (safety and efficacy) with buspirone/levodopa/carbidopa 
+(SpinalonTM) in subjects with complete AIS A or motor-complete AIS B 
+spinal cord injury. Curr. Pharm. Des. 23, 1789–1804 (2017).
+	104.	 Gerasimenko, Y. P. et al. Noninvasive reactivation of motor descending 
+control after paralysis. J. Neurotrauma 32, 1968–1980 (2015).
+	105.	 Wenger, N. et al. Spatiotemporal neuromodulation therapies engaging 
+muscle synergies improve motor control after spinal cord injury. Nat. Med. 
+22, 138–145 (2016).
+	106.	 Grahn, P. J. et al. Enabling task-specific volitional motor functions via 
+spinal cord neuromodulation in a human with paraplegia. Mayo Clin. Proc. 
+92, 544–554 (2017).
+	107.	 Angeli, C., Edgerton, V. R., Gerasimenko, Y. & Harkema, S. Reply: No dawn 
+yet of a new age in spinal cord rehabilitation. Brain 138, e363 (2015).
+	108.	 Herman, R., He, J., D’Luzansky, S., Willis, W. & Dilli, S. Spinal cord 
+stimulation facilitates functional walking in a chronic, incomplete spinal 
+cord injured. Spinal Cord 40, 65–68 (2002).
+	109.	 van den Brand, R. et al. Restoring voluntary control of locomotion after 
+paralyzing spinal cord injury. Science 336, 1182–1185 (2012).
+	110.	 Danner, S. M. et al. Human spinal locomotor control is based on flexibly 
+organized burst generators. Brain 138, 577–588 (2015).
+	111.	 Wagner, F. B. et al. Targeted neurotechnology restores walking in humans 
+with spinal cord injury. Nature 563, 65–71 (2018).
+	112.	 Gill, M. L. et al. Neuromodulation of lumbosacral spinal networks  
+enables independent stepping after complete paraplegia. Nat. Med. 24, 
+1677–1682 (2018).
+	113.	 Minev, I. R. et al. Biomaterials. Electronic dura mater for long-term 
+multimodal neural interfaces. Science 347, 159–163 (2015).
+	114.	 Holinski, B. J. et al. Intraspinal microstimulation produces over-ground 
+walking in anesthetized cats. J. Neural Eng. 13, 056016 (2016).
+	115.	 Zimmermann, J. B., Seki, K. & Jackson, A. Reanimating the arm and hand 
+with intraspinal microstimulation. J. Neural Eng. 8, 054001 (2011).
+	116.	 Kasten, M. R., Sunshine, M. D., Secrist, E. S., Horner, P. J. & Moritz, C. T. 
+Therapeutic intraspinal microstimulation improves forelimb function after 
+cervical contusion injury. J. Neural Eng. 10, 044001 (2013).
+	117.	 Angeli, C. A., Edgerton, V. R., Gerasimenko, Y. P. & Harkema, S. J. Altering 
+spinal cord excitability enables voluntary movements after chronic complete 
+paralysis in humans. Brain 137, 1394–1409 (2014).
+	118.	 Lu, D. C. et al. Engaging cervical spinal cord networks to reenable volitional 
+control of hand function in tetraplegic patients. Neurorehabil. Neural Repair 
+30, 951–962 (2016).
+	119.	 Phillips, A. A. et al. An autonomic neuroprosthesis: noninvasive electrical 
+spinal cord stimulation restores autonomic cardiovascular function in 
+individuals with spinal cord injury. J. Neurotrauma 35, 446–451 (2017).
+	120.	 Hachmann, J. T. et al. Electrical neuromodulation of the respiratory system 
+after spinal cord injury. Mayo Clin. Proc. 92, 1401–1414 (2017).
+	121.	 Minassian, K., McKay, W. B., Binder, H. & Hofstoetter, U. S. Targeting 
+lumbar spinal neural circuitry by epidural stimulation to restore motor 
+function after spinal cord injury. Neurotherapeutics 13, 284–294 (2016).
+	122.	 Moraud, E. M. et al. Mechanisms underlying the neuromodulation of spinal 
+circuits for correcting gait and balance deficits after spinal cord injury. 
+Neuron 89, 814–828 (2016).
+	123.	 Capogrosso, M. et al. A computational model for epidural electrical 
+stimulation of spinal sensorimotor circuits. J. Neurosci. 33,  
+19326–19340 (2013).
+	124.	 Gaunt, R. A., Prochazka, A., Mushahwar, V. K., Guevremont, L. & Ellaway, 
+P. H. Intraspinal microstimulation excites multisegmental sensory afferents 
+at lower stimulus levels than local alpha-motoneuron responses.  
+J. Neurophysiol. 96, 2995–3005 (2006).
+	125.	 Barolat, G., Myklebust, J. B. & Wenninger, W. Enhancement of voluntary 
+motor function following spinal cord stimulation—case study. Appl. 
+Neurophysiol. 49, 307–314 (1986).
+	126.	 Nudo, R. J. & Masterton, R. B. Descending pathways to the spinal cord: a 
+comparative study of 22 mammals. J. Comp. Neurol. 277, 53–79 (1988).
+	127.	 Minassian, K. et al. Stepping-like movements in humans with complete 
+spinal cord injury induced by epidural stimulation of the lumbar cord: 
+electromyographic study of compound muscle action potentials. Spinal 
+Cord 42, 401–416 (2004).
+	128.	 Carhart, M. R., He, J., Herman, R., D’Luzansky, S. & Willis, W. T. Epidural 
+spinal-cord stimulation facilitates recovery of functional walking following 
+incomplete spinal-cord injury. IEEE Trans. Neural Syst. Rehabil. Eng. 12, 
+32–42 (2004).
+	129.	 Capogrosso, M. et al. A brain–spine interface alleviating gait deficits after 
+spinal cord injury in primates. Nature 539, 284–288 (2016).
+	130.	 Tripodi, M., Stepien, A. E. & Arber, S. Motor antagonism exposed by spatial 
+segregation and timing of neurogenesis. Nature 479, 61–66 (2011).
+	131.	 Levine, A. J. et al. Identification of a cellular node for motor control 
+pathways. Nat. Neurosci. 17, 586–593 (2014).
+	132.	 Formento, E. et al. Electrical spinal cord stimulation must preserve 
+proprioception to enable locomotion in humans with spinal cord injury. 
+Nat. Neurosci. 21, 1728–1741 (2018).
+	133.	 Wenger, N. et al. Closed-loop neuromodulation of spinal sensorimotor 
+circuits controls refined locomotion after complete spinal cord injury.  
+Sci. Transl. Med. 6, 255ra133 (2014).
+	134.	 Gilja, V. et al. Clinical translation of a high-performance neural prosthesis. 
+Nat. Med. 21, 1142–1145 (2015).
+	135.	 Jarosiewicz, B. et al. Virtual typing by people with tetraplegia using a 
+self-calibrating intracortical brain-computer interface. Sci. Transl. Med. 7, 
+313ra179 (2015).
+	136.	 Hochberg, L. R. et al. Reach and grasp by people with tetraplegia using a 
+neurally controlled robotic arm. Nature 485, 372–375 (2012).
+	137.	 Collinger, J. L. et al. High-performance neuroprosthetic control by an 
+individual with tetraplegia. Lancet 381, 557–564 (2013).
+	138.	 Bouton, C. E. et al. Restoring cortical control of functional movement in a 
+human with quadriplegia. Nature 533, 247–250 (2016).
+	139.	 Ajiboye, A. B. et al. Restoration of reaching and grasping movements 
+through brain-controlled muscle stimulation in a person with tetraplegia: a 
+proof-of-concept demonstration. Lancet 389, 1821–1830 (2017).
+	140.	 Ethier, C., Oby, E. R., Bauman, M. J. & Miller, L. E. Restoration of grasp 
+following paralysis through brain-controlled stimulation of muscles. Nature 
+485, 368–371 (2012).
+	141.	 Moritz, C. T., Perlmutter, S. I. & Fetz, E. E. Direct control of paralysed 
+muscles by cortical neurons. Nature 456, 639–642 (2008).
+	142.	 Flesher, S. N. et al. Intracortical microstimulation of human somatosensory 
+cortex. Sci. Transl. Med. 8, 361ra141 (2016).
+	143.	 Bonizzato, M. et al. Brain-controlled modulation of spinal circuits improves 
+recovery from spinal cord injury. Nat. Commun. 9, 3015 (2018).
+	144.	 Borton, D., Micera, S., Millán, JdelR. & Courtine, G. Personalized 
+neuroprosthetics. Sci. Transl. Med. 5, 210rv2 (2013).
+	145.	 Lacour, S. P., Courtine, G. & Guck, J. Materials and technologies for soft 
+implantable neuroprostheses. Nat. Rev. Mater. 1, 16063 (2016).
+	146.	 Côté, M. P., Murray, M. & Lemay, M. A. Rehabilitation strategies after 
+spinal cord injury: inquiry into the mechanisms of success and failure.  
+J. Neurotrauma 34, 1841–1857 (2017).
+	147.	 Torres-Espín, A., Beaudry, E., Fenrich, K. & Fouad, K. Rehabilitative 
+training in animal models of spinal cord injury. J. Neurotrauma 35, 
+1970–1985 (2018).
+	148.	 Carmel, J. B. & Martin, J. H. Motor cortex electrical stimulation augments 
+sprouting of the corticospinal tract and promotes recovery of motor 
+function. Front. Integr. Neurosci. 8, 51 (2014).
+	149.	 Zareen, N. et al. Motor cortex and spinal cord neuromodulation promote 
+corticospinal tract axonal outgrowth and motor recovery after cervical 
+contusion spinal cord injury. Exp. Neurol. 297, 179–189 (2017).
+	150.	 Tazoe, T. & Perez, M. A. Effects of repetitive transcranial magnetic 
+stimulation on recovery of function after spinal cord injury. Arch. Phys. 
+Med. Rehabil. 96, S145–S155 (2015).
+	151.	 Long, J., Federico, P. & Perez, M. A. A novel cortical target to enhance 
+hand motor output in humans with spinal cord injury. Brain 140, 
+1619–1632 (2017).
+	152.	 Mishra, A. M., Pal, A., Gupta, D. & Carmel, J. B. Paired motor cortex and 
+cervical epidural electrical stimulation timed to converge in the spinal cord 
+promotes lasting increases in motor responses. J. Physiol. (Lond.) 595, 
+6953–6968 (2017).
+	153.	 Dixon, L., Ibrahim, M. M., Santora, D. & Knikou, M. Paired associative 
+transspinal and transcortical stimulation produces plasticity in human 
+cortical and spinal neuronal circuits. J. Neurophysiol. 116, 904–916 (2016).
+	154.	 Jackson, A., Mavoori, J. & Fetz, E. E. Long-term motor cortex plasticity 
+induced by an electronic neural implant. Nature 444, 56–60 (2006).
+	155.	 Nishimura, Y., Perlmutter, S. I., Eaton, R. W. & Fetz, E. E. Spike-timing-
+dependent plasticity in primate corticospinal connections induced during 
+free behavior. Neuron 80, 1301–1309 (2013).
+	156.	 Nishimura, Y., Perlmutter, S. I. & Fetz, E. E. Restoration of upper limb 
+movement via artificial corticospinal and musculospinal connections in a 
+monkey with spinal cord injury. Front. Neural Circuits 7, 57 (2013).
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+907
+
+Review Article
+NAture MedICIne
+	157.	 Holtmaat, A. & Svoboda, K. Experience-dependent structural synaptic 
+plasticity in the mammalian brain. Nat. Rev. Neurosci. 10, 647–658 (2009).
+	158.	 Freund, P. et al. MRI investigation of the sensorimotor cortex and the 
+corticospinal tract after acute spinal cord injury: a prospective longitudinal 
+study. Lancet Neurol. 12, 873–881 (2013).
+	159.	 McPherson, J. G., Miller, R. R. & Perlmutter, S. I. Targeted, activity-
+dependent spinal stimulation produces long-lasting motor recovery in 
+chronic cervical spinal cord injury. Proc. Natl Acad. Sci. USA 112, 
+12193–12198 (2015).
+	160.	 Harkema, S. J. Plasticity of interneuronal networks of the functionally 
+isolated human spinal cord. Brain Res. Rev. 57, 255–264 (2008).
+	161.	 Rejc, E., Angeli, C. A., Atkinson, D. & Harkema, S. J. Motor recovery after 
+activity-based training with spinal cord epidural stimulation in a chronic 
+motor complete paraplegic. Sci. Rep. 7, 13476 (2017).
+	162.	 Gómez-Pinilla, F., Ying, Z., Roy, R. R., Hodgson, J. & Edgerton, V. R. 
+Afferent input modulates neurotrophins and synaptic plasticity in the spinal 
+cord. J. Neurophysiol. 92, 3423–3432 (2004).
+	163.	 Baraban, M., Koudelka, S. & Lyons, D. A. Ca2+ activity signatures of myelin 
+sheath formation and growth in vivo. Nat. Neurosci. 21, 19–23 (2018).
+	164.	 López-Álvarez, V. M., Modol, L., Navarro, X. & Cobianchi, S. Early 
+increasing-intensity treadmill exercise reduces neuropathic pain by 
+preventing nociceptor collateral sprouting and disruption of chloride 
+cotransporters homeostasis after peripheral nerve injury. Pain 156, 
+1812–1825 (2015).
+	165.	 Donati, A. R. et al. Long-term training with a brain-machine interface-
+based gait protocol induces partial neurological recovery in paraplegic 
+patients. Sci. Rep. 6, 30383 (2016).
+	166.	 Gorgey, A. S. Robotic exoskeletons: the current pros and cons. World J. 
+Orthop. 9, 112–119 (2018).
+	167.	 Maier, I. C. et al. Differential effects of anti-Nogo-A antibody treatment and 
+treadmill training in rats with incomplete spinal cord injury. Brain 132, 
+1426–1440 (2009).
+	168.	 Fouad, K., Bennett, D. J., Vavrek, R. & Blesch, A. Long-term viral 
+brain-derived neurotrophic factor delivery promotes spasticity in rats with a 
+cervical spinal cord hemisection. Front. Neurol. 4, 187 (2013).
+	169.	 Chen, K. et al. Sequential therapy of anti-Nogo-A antibody treatment and 
+treadmill training leads to cumulative improvements after spinal cord injury 
+in rats. Exp. Neurol. 292, 135–144 (2017).
+	170.	 Overman, J. J. & Carmichael, S. T. Plasticity in the injured brain: more than 
+molecules matter. Neuroscientist 20, 15–28 (2014).
+	171.	 Arber, S. & Costa, R. M. Connecting neuronal circuits for movement. 
+Science 360, 1403–1404 (2018).
+	172.	 Rossignol, S., Dubuc, R. & Gossard, J. P. Dynamic sensorimotor interactions 
+in locomotion. Physiol. Rev. 86, 89–154 (2006).
+	173.	 Dominici, N. et al. Versatile robotic interface to evaluate, enable and train 
+locomotion and balance after neuromotor disorders. Nat. Med. 18, 
+1142–1147 (2012).
+	174.	 World Health Organisation (WHO). International perspectives on  
+spinal cord injury http://apps.who.int/iris/bitstream/handle/10665/94190/ 
+9789241564663_eng.pdf (2013).
+Acknowledgements
+The authors kindly thank J. B. Mignardot for drafting the figures. This work was 
+supported by a Consolidator Grant from the European Research Council (ERC-2015-
+CoG HOW2WALKAGAIN 682999 to G.G.), the Swiss National Science Foundation 
+including a bonus of Excellence (310030B_166674) and the National Center of 
+Competence in Research (NCCR) Robotics (to G.C.), the US National Institutes of 
+Health R01NS084030 (to M.S.), the Dr Miriam and Sheldon G. Adelson Medical 
+Foundation (to M.S.) and Wings for Life (to G.C. and M.S.).
+Competing interests
+G.C. holds various patents in relation to the reviewed work, and is a founder and 
+shareholder of GTX medical, a company developing a therapy for spinal cord injury.
+Additional information
+Reprints and permissions information is available at www.nature.com/reprints.
+Correspondence should be addressed to G.C.
+Peer review information: Hannah Stower was the primary editor(s) on this article 
+and managed its editorial process and peer review in collaboration with the rest of the 
+editorial team.
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+© Springer Nature America, Inc. 2019
+Nature Medicine | VOL 25 | JUNE 2019 | 898–908 | www.nature.com/naturemedicine
+908
+
