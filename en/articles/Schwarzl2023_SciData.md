@@ -1,0 +1,62 @@
+---
+tags: [2026-06, Chondrocyte]
+extract: 2026-06-06
+---
+
+# Transcriptional profiling of early differentiation of primary human mesenchymal stem cells into chondrocytes
+
+## Citation (NLM)
+Schwarzl T, Keogh A, Shaw G, Krstic A, Clayton E, Higgins DG, Kolch W, Barry F. Transcriptional profiling of early differentiation of primary human mesenchymal stem cells into chondrocytes. Sci Data. 2023;10:758. doi:10.1038/s41597-023-02686-y
+
+**DOI:** [https://doi.org/10.1038/s41597-023-02686-y](https://doi.org/10.1038/s41597-023-02686-y)
+
+---
+
+## Background
+
+Articular cartilage has very limited regenerative capacity, and effective regenerative therapies are needed for damage caused by trauma or degenerative diseases. Mesenchymal stem cells (MSCs) are a promising cell source for cartilage regeneration, and understanding MSC chondrogenesis is critical for improving therapeutic efficacy. In particular, the early response to differentiation signals and the commitment stage represent key windows where therapeutic intervention could enhance differentiation efficiency. However, the transcriptomic changes during the earliest stages of MSC chondrogenic differentiation (15 min to 16 h) have not been systematically studied. This study performed the first transcriptomic profiling of the early time points following induction of chondrogenic differentiation in human bone marrow-derived MSC clones.
+
+---
+
+## Key Experiment Methods
+
+- **MSC clone isolation**: Single colony isolation by limiting dilution from human bone marrow aspirate (healthy 23-year-old male). Selection of the 1F3 clone with trilineage differentiation capacity among 21 clones. Surface marker verification (CD73+/CD90+/CD105+, CD45−/CD34−/CD19−/CD14−/CD3−/HLA-DR−).
+- **Chondrogenic differentiation**: Pellet culture method. Medium containing TGF-β3 (10 ng/ml). Time points: monolayer, 3D pellet (0 h), 15 min, 30 min, 1 h, 2 h, 4 h, 8 h, 16 h, and 21 days (fully differentiated chondrocytes).
+- **RNA-seq**: Illumina GAIIx, 35 nt single-read, 3 technical replicates. STAR alignment, featureCounts quantification. Total of 30 samples (3 replicates × 10 conditions).
+- **Analysis**: PCA, hierarchical clustering, t-SNE, DESeq2 differential expression, edgeR, Mfuzz time-series clustering, Ingenuity Pathway Analysis, Cluster Profiler. BioStudies: E-MTAB-10476.
+
+---
+
+## Results
+
+### MSC clone validation
+- Among 21 clones, 11 possessed trilineage differentiation capacity.
+- The selected 1F3 clone showed full trilineage (chondrogenic, adipogenic, osteogenic) differentiation capacity and confirmed MSC surface marker expression.
+
+### Sequencing quality
+- Median library size: 21.52M reads.
+- High reproducibility among 3 technical replicates (confirmed by PCA, t-SNE, hierarchical clustering).
+
+### Transcriptome analysis
+- First detailed profiling of gene expression changes during early time points (15 min to 16 h).
+- Rapid changes in genes related to TGF-β signaling, cell adhesion, and ECM remodeling during early differentiation.
+- 21-day differentiated chondrocytes showed a distinctly different transcriptomic profile from early time points.
+
+### Data utility
+- Time-course clustering, functional annotation, and upstream regulator prediction workflows made publicly available on Zenodo.
+- Researchers can perform GRN (gene regulatory network) analysis and additional data mining.
+
+---
+
+## Perspective
+
+- This study provides the first dataset characterizing transcriptomic changes during the earliest stages (15 min to 16 h) of MSC chondrogenic differentiation.
+- These data capture gene expression changes that begin within minutes of MSC exposure to differentiation signals (TGF-β3), providing an important foundation for understanding commitment mechanisms in chondrogenic differentiation.
+- The use of clonal MSCs minimized heterogeneity, facilitating interpretation of early differentiation signals.
+- The publicly available data and analysis workflows will be a valuable resource for researchers studying MSC chondrogenic differentiation.
+- Limitations: single donor, single clone used, requiring caution in generalization. Technical replicates only, limiting reflection of biological diversity.
+- Future directions: validation with multiple donors and MSC clones, analysis of early differentiation responses at single-cell resolution.
+
+---
+
+*Processed by **DeepSeek V4 Flash** (OpenCode Go) on 2026-06-06*

@@ -1,0 +1,41 @@
+---
+tags: [2026-06, Chondrocyte]
+extract: 2026-06-07
+---
+
+# Distinct skeletal stem cell types orchestrate long bone skeletogenesis
+
+## Citation (NLM)
+Ambrosi TH, Sinha R, Steininger HM, Hoover MY, Murphy MP, Koepke LS, Wang Y, Lu WJ, Morri M, Neff NF, Weissman IL, Longaker MT, Chan CKF. Distinct skeletal stem cell types orchestrate long bone skeletogenesis. eLife. 2021;10:e66063. doi:10.7554/eLife.66063
+
+**DOI:** [https://doi.org/10.7554/eLife.66063](https://doi.org/10.7554/eLife.66063)
+
+---
+
+## Background
+Skeletal stem and progenitor cell populations are essential for bone physiology, but their characterization has been limited to heterogeneous bulk populations. It remained unclear whether distinct skeletal stem cell (SSC) types exist or whether previously characterized populations overlap. The study aimed to resolve SSC heterogeneity and establish whether multiple functionally distinct SSC populations exist in postnatal long bones.
+
+## Key Experiment Methods
+1. Fluorescence-activated cell sorting (FACS) to prospectively isolate ocSSCs (CD45-Ter119-Tie2-CD51+Thy1-6C3-CD105-) and pvSSCs (CD45-CD31-Pdgfra+Sca1+CD24+) from mouse long bones
+2. Renal capsule transplantation of purified SSC populations into immunodeficient NSG mice to assess in vivo differentiation potential
+3. Single-cell RNA sequencing (SmartSeq2 scRNAseq) of 143 ocSSCs and 169 pvSSCs to resolve molecular differences
+4. Leiden clustering and ligand-receptor expression analysis to identify SSC subclusters and crosstalk mechanisms
+5. In situ RNAscope hybridization to validate spatial localization of SSC-specific markers (Wif1, Cdh13)
+6. Flow cytometric analysis of SSC frequencies during skeletal development, irradiation, fracture regeneration, and aging
+
+## Results
+1. Postnatal mouse long bones contain at least two distinct SSC types: osteochondral SSCs (ocSSCs) and perivascular SSCs (pvSSCs), each with bona fide stem cell properties
+2. ocSSCs facilitate long bone growth and repair but never give rise to bone marrow adipose tissue (BMAT), even under strong adipogenic stimuli
+3. pvSSCs co-emerge with bone marrow, contribute to the hematopoietic stem cell niche, and are the exclusive origin of BMAT
+4. scRNAseq revealed molecular distinction: ocSSCs express osteochondrogenic genes (Acan, Col2a1, Pthr1, Spp1), while pvSSCs express fibroblast markers (Pdgfra, Postn) and hematopoietic interaction factors (Cxcl12, Igf1)
+5. ocSSCs accumulate during fracture repair and decline with aging, whereas pvSSCs/APCs increase with age, correlating with BMAT accumulation
+6. Commonly used reporter genes (LepR, Pthrp, Ctsk, Osx) do not faithfully mark pure SSC populations, as they show variable expression across both SSC types
+7. Ligand-receptor analysis revealed crosstalk between SSC types: pvSSCs express Tgfb/Wnt ligands supporting ocSSC fate commitment, while ocSSCs express Bmp/Egf ligands signaling back to pvSSCs
+8. Wif1 and Cdh13 were identified as new markers for ocSSC and pvSSC populations, respectively, confirmed by in situ hybridization
+
+## Perspective
+This study comprehensively addresses previously unrecognized SSC heterogeneity by establishing two molecularly and functionally distinct SSC lineages in postnatal long bones. The findings challenge the traditional bifurcation model of mesenchymal stem cells and demonstrate that osteogenesis and adipogenesis arise from separate stem cell pools. The identification of SSC-specific markers (Wif1, Cdh13) provides a foundation for developing more precise reporter models. Future work should address the developmental origin of pvSSCs and explore functional interconnections between pvSSC and hematopoietic stem cell lineages, particularly in age-related myeloid skewing.
+
+---
+
+*Processed by **qwen3.6-plus** (OpenCode Go) on 2026-06-07*
