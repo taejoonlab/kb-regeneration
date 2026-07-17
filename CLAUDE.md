@@ -106,9 +106,11 @@ pipeline is:
 - `ko/pdf/notes/` holds per-file working artifacts (`*_extracted.txt`, `00_triage.md`,
   `0N_*_log.txt`) — gitignored; the committed `extract/` parts supersede the per-file extracts.
 - **Google Drive** (`taejoon.kwon@gmail.com`, `pdf.kb/kb-regeneration/`): the master PDF
-  archive, organized into per-subject folders — `SpinalCord/` and `chondro/`. Processed PDFs
-  from the former kb-SpinalCord are under `pdf.kb/kb-regeneration/` and are being sorted into
-  `SpinalCord/`; chondrocyte PDFs are under `chondro/`.
+  archive, organized into per-subject folders that mirror the note subjects — `SpinalCord/`
+  (spinal-cord papers, from the former kb-SpinalCord) and `chondro/` (chondrocyte papers), each
+  with a `review/` subfolder for review-article PDFs. Article PDFs are named exactly as their
+  note stem. The archive root holds no loose PDFs. `Development-review/` is a curated collection,
+  not a to-sort folder.
 
 ## Git Conventions
 
