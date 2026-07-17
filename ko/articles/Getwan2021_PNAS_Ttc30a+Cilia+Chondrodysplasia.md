@@ -3,6 +3,7 @@ tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
 log:
   - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · removed duplicate footer"
 ---
 
 # Ttc30a affects tubulin modifications in a model for ciliary chondrodysplasia with polycystic kidney disease
@@ -52,10 +53,6 @@ Getwan M, Hoppmann A, Schlosser P, Grand K, Song W, Diehl R, Schroda S, Heeg F, 
 - Tubulin PTM(특히 glycylation, acetylation)과 섬모 tip 구획화의 결함이 골격 및 신장 섬모질환의 표현형 다발성(pleiotropy)에 기여함을 시사.
 - 인간 TTC30A/B가 tetrapod 계통에서 유전자 중복을 통해 보존된 핵심 유전자좌이며, Chlamydomonas부터 인간까지 고도로 보존되어 있음.
 - 향후 TTC30A/B의 Hh 및 Wnt 신호전달 조절 기전, 그리고 낭성 신장 형성에서의 역할 규명이 필요함. in vitro에서 특성화된 섬모 단백질의 조직 특이적 기능을 in vivo에서 할당하는 접근법이 중요한 과제.
-
----
-
-*Processed by **DeepSeek V4 Flash** (OpenCode Go) on 2026-06-08*
 
 ---
 

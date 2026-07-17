@@ -3,6 +3,7 @@ tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
 log:
   - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · removed duplicate footer"
 ---
 
 # Translational regulation contributes to the secretory response of chondrocytic cells following exposure to interleukin-1β
@@ -53,10 +54,6 @@ McDermott BT, Peffers MJ, McDonagh B, Tew SR. Translational regulation contribut
 - SW1353 세포주는 일차 연골세포와 유사한 IL-1β 반응성을 보이나, 기질 성분 발현이 낮고 저농도 사이토카인에 대한 민감도가 낮은 한계 존재.
 - 향후 연구 과제: 3'-UTR 리보솜 점유의 기능적 의미, mTOR/4E-BP1 경로를 통한 번역 조절 기전, in vivo 조직에서의 번역 조절 확인.
 - 사이토카인 신호에 대한 연골세포의 급속 번역 반응이 건강한 조직 항상성 유지에 어떤 역할을 하는지가 핵심 미해결 질문.
-
----
-
-*Processed by **DeepSeek V4 Flash** (OpenCode Go) on 2026-06-08*
 
 ---
 

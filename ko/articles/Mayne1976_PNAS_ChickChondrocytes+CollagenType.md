@@ -3,6 +3,7 @@ tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
 log:
   - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · removed duplicate footer"
 ---
 
 # Changes in type of collagen synthesized as clones of chick chondrocytes grow and eventually lose division capacity
@@ -52,10 +53,6 @@ Mayne R, Vail MS, Mayne PM, Miller EJ. Changes in type of collagen synthesized a
 - in vivo 노화 과정에서 유리질 연골이 Type I 콜라겐을 합성할 수 있음을 예측. 골관절염 연골에서 Type I 콜라겐 검출 보고는 이와 일치.
 - "Collagen switching"은 세포 노화 이외의 요인(배아 추출물 배양에서도 관찰됨)에 의해서도 유도될 수 있어, BrdUrd 삽입에 의한 무작위 오류 축적(error accumulation) 기전 제안.
 - 연골세포의 제한적 수명(약 30 population doublings)은 Hayflick 한계와 일치하며, 세포 노화 연구에 중요한 모델을 제공.
-
----
-
-*Processed by **DeepSeek V4 Flash** (OpenCode Go) on 2026-06-08*
 
 ---
 

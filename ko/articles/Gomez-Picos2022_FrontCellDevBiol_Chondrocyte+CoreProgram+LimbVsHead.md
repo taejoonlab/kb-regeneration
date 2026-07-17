@@ -3,6 +3,7 @@ tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
 log:
   - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · removed duplicate footer"
 ---
 
 # Limb Mesoderm and Head Ectomesenchyme Both Express a Core Transcriptional Program During Chondrocyte Differentiation
@@ -48,10 +49,6 @@ Gomez-Picos P, Ovens K, Eames BF. Limb mesoderm and head ectomesenchyme both exp
 - 많은 유전자(예: HOX 유전자, PAX7, TBX5, SHOX2)가 현재 연관 연골 유전자로 분류되지만, 실제로는 지역 특이적 형태형성 인자(competency factor)에 불과할 수 있음. 핵심 연골 GRN의 정의는 SOX9, COL2A1, COL10A1 등 전신 연골에 공통으로 필요한 유전자로 제한되어야 함.
 - 새로 발굴된 예비 연골 유전자(POU3F3, CSF1, PTN, TNC, FAM20C, TCF7L2 등)는 척추동물 전반에 보존되어 있으며, 골관절염(OA) 진행과도 관련됨. 향후 이들 유전자의 기능 상실 실험을 통한 검증 필요.
 - 이 연구의 한계: HH36 단일 시점 분석으로 사지와 두부 간 성숙 시기 차이(timing difference)를 반영하지 못함. 추후 상세 시간 경과 연구가 필요.
-
----
-
-*Processed by **DeepSeek V4 Flash** (OpenCode Go) on 2026-06-08*
 
 ---
 
