@@ -31,9 +31,11 @@ The `Chondrocyte`-tagged notes were merged in from the former `kb-chondro` repo
 YAML frontmatter (all notes):
 ```
 ---
-tags: [YYYY-MM, <SubjectTag>]
+tags: [YYYY-MM, <SubjectTag>]           # add RawDataAvailable when the paper deposited its own raw data
 extract: YYYY-MM-DD
 extract_file: extract/YYYY-MM-DD_pNN.txt
+raw_data:                                # optional; self-deposited accessions only (omit if none)
+  - "GEO: GSE######"
 log:
   - "YYYY-MM-DD · create · <Model> (<Tool>)"
   - "YYYY-MM-DD · edit · <Model> (<Tool>) · <what changed>"
@@ -43,6 +45,11 @@ log:
   `Chondrocyte` — that identifies which regeneration subject the note belongs to.
 - `extract_file` points to the split extract part that holds this paper's source text;
   find the block inside that file by the anchor `===== <note-stem> =====`.
+- `raw_data` (optional) lists the paper's **own deposited** raw-data accessions
+  (GEO/SRA/ENA/DDBJ/PRIDE-ProteomeXchange/ArrayExpress/MassIVE), one line per repository.
+  When it is present the note also carries the `RawDataAvailable` **attribute tag** (alongside the
+  subject tag). Accessions only *cited/reused* from other papers do **not** go here or trigger the
+  tag — they belong in the body `## Data Availability` section. Convention: `tools/SKILL_RAWDATA.md`.
 - `log` is the **agent change log**: an append-only YAML list, one entry per agent that
   creates or modifies the note, oldest first. Each entry is a quoted string
   `"<YYYY-MM-DD> · <action> · <Model> (<Tool>)[ · <note>]"` where `action` is `create`,
@@ -60,9 +67,12 @@ log:
 4. `## Key Experiment Methods` — numbered methods
 5. `## Results` — key findings
 6. `## Perspective` — significance & future directions
+7. `## Data Availability` — *optional*; only when raw-data accessions appear in the source text.
+   Lists self-deposited and cited/reused accessions separately (see `tools/SKILL_RAWDATA.md`).
 
 **Review** notes (ko only) use a different section set — Overview / Key Topics /
-Key Findings / Perspective / Key References (see `tools/SKILL_REVIEW.md`).
+Key Findings / Perspective / Key References (see `tools/SKILL_REVIEW.md`); a `## 데이터 이용 가능성`
+section may precede Key References when the review reports accessions.
 
 Every note ends with a provenance footer: `*Processed by **{LLM}** ({tool}) on {date}*`.
 
@@ -135,7 +145,8 @@ pipeline is:
 3b. Whenever an agent creates or modifies a note, append one entry to the `log` frontmatter list: `"<YYYY-MM-DD> · <action> · <Model> (<Tool>)[ · <what changed>]"` (append at the end, never rewrite prior entries). This applies to content edits, renames, retags, and frontmatter changes — not to no-op reads.
 4. Do not modify files under `tools/` — that is a separate submodule repository
 5. Do not modify `.obsidian/workspace.json` (per-machine state, gitignored)
-6. Keep section order consistent (original research): Title → Citation → Background → Key Experiment Methods → Results → Perspective
+6. Keep section order consistent (original research): Title → Citation → Background → Key Experiment Methods → Results → Perspective → (optional) Data Availability
+6a. When the source text contains raw-data accessions, record them per `tools/SKILL_RAWDATA.md`: add self-deposited accessions to `raw_data:` frontmatter + the `RawDataAvailable` tag, list all (self + cited) in a `## Data Availability` / `## 데이터 이용 가능성` body section (self and cited separated), mirror across en/ko, and append a `log` entry. Run `tools/scan_accessions.py` to detect candidates first.
 7. Set `extract_file` in frontmatter to the split extract part containing the paper, and make sure that part has a `===== <note-stem> =====` block for it
 7a. Author notes from extracted text, not the PDF directly: run `tools/process_pdf.py` (or import its `extract_text()`) to produce the text FIRST, then use that text to verify the filename/DOI and write the note. Do not re-implement PDF extraction (PyMuPDF/`fitz` is the extractor; there is no local `pdftotext`)
 8. After a note is written, move its PDF into `ko/pdf/done/` (reviews → `ko/pdf/done/review/`) renamed to the note stem
