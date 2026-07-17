@@ -57,6 +57,35 @@ Key Findings / Perspective / Key References (see `tools/SKILL_REVIEW.md`).
 
 Every note ends with a provenance footer: `*Processed by **{LLM}** ({tool}) on {date}*`.
 
+## PDF → Note Workflow (`tools/`)
+
+Notes are authored from **extracted PDF text, not from the PDF directly**. Always run the
+extraction script first, then work off the produced text. Full detail lives in
+`tools/SKILL.md` (original research) and `tools/SKILL_REVIEW.md` (reviews); the canonical
+pipeline is:
+
+1. **Extract text first (script step).** Run the project's own extractor on the PDF —
+   do not hand-roll PDF reading:
+   ```bash
+   pip install pymupdf            # one-time; provides the `fitz` module used by the script
+   python3 tools/process_pdf.py <pdf_path> [--dry-run]
+   ```
+   `process_pdf.py` (a) extracts the text via `extract_text()` (PyMuPDF/`fitz`, capped at
+   ~30 pages), (b) auto-detects DOI / first author / journal, (c) proposes a target filename,
+   (d) flags name collisions, and (e) saves the extracted text and an MD skeleton under the
+   PDF's `notes/` dir. Reuse `extract_text()` by importing it rather than re-implementing
+   extraction. There is no local `pdftotext`/`poppler`; PyMuPDF (`fitz`) is the extractor.
+2. **Verify filename & DOI from the extracted text (human/LLM step).** The auto-detected
+   author/journal are unreliable — confirm the DOI and metadata in the extracted text and set
+   the final `{FirstAuthor}{Year}_{Journal}_{Keyword}` stem yourself. Filenames can be
+   mislabeled, so trust the extracted content over the existing name. Use `--dry-run` and never
+   batch-rename (identical proposed names silently overwrite).
+3. **Write the note from the extracted text.** Read the extracted text and fill the section
+   template (original research vs review), add the subject tag, and end with the provenance footer.
+4. **Consolidate & link.** Merge the per-paper extracted text into a date-stamped, ~2 MB-split
+   `extract/YYYY-MM-DD_pNN.txt` with a `===== <note-stem> =====` anchor per paper, then point each
+   note's `extract_file` frontmatter at the part that holds it (see below).
+
 ## Extracted text & PDF organization
 
 - **`extract/`** (git-tracked): source PDF text consolidated per extraction date, split into
@@ -96,6 +125,7 @@ Every note ends with a provenance footer: `*Processed by **{LLM}** ({tool}) on {
 5. Do not modify `.obsidian/workspace.json` (per-machine state, gitignored)
 6. Keep section order consistent (original research): Title → Citation → Background → Key Experiment Methods → Results → Perspective
 7. Set `extract_file` in frontmatter to the split extract part containing the paper, and make sure that part has a `===== <note-stem> =====` block for it
+7a. Author notes from extracted text, not the PDF directly: run `tools/process_pdf.py` (or import its `extract_text()`) to produce the text FIRST, then use that text to verify the filename/DOI and write the note. Do not re-implement PDF extraction (PyMuPDF/`fitz` is the extractor; there is no local `pdftotext`)
 8. After a note is written, move its PDF into `ko/pdf/done/` (reviews → `ko/pdf/done/review/`) renamed to the note stem
 9. Papers outside the spinal-cord/regeneration scope (e.g. unrelated cancer/fibrosis, ion-channel biophysics, ossification, method-only tools) are left un-noted; their PDFs stay under `ko/pdf/` for separate review
 10. Commit messages should follow the pattern: `{action}: {lang} {description}` (e.g., `add: en Wu2021_NatComm`, `edit: ko Haseeb2021_PNAS`)
