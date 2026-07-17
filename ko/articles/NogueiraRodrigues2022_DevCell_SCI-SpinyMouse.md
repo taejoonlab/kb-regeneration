@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p06.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Rewired glycosylation activity promotes scarless regeneration and functional recovery in spiny mice after complete spinal cord transection (재배선된 당화 활성이 완전 척수 절단 후 spiny mouse에서 무반흔 재생과 기능 회복을 촉진한다)

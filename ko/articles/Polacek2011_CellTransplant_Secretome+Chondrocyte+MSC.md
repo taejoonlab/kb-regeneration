@@ -1,6 +1,8 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
+log:
+  - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # The Secretory Profiles of Cultured Human Articular Chondrocytes and Mesenchymal Stem Cells: Implications for Autologous Cell Transplantation Strategies

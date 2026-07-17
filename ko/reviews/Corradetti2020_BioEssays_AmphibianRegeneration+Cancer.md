@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Amphibian regeneration and mammalian cancer: Similarities and contrasts from an evolutionary biology perspective (양서류 재생과 포유류 암: 진화생물학적 관점의 유사성과 대조)

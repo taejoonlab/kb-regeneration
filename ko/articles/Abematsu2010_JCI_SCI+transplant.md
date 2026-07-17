@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 이식된 신경줄기세포에서 유래한 뉴런이 척수손상 마우스 모델에서 손상된 신경 회로를 복원한다

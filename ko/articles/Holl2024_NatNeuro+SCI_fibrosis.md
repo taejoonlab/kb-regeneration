@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 생쥐 외상성 손상 후 섬유증에 대한 기질 섬유아세포의 구별되는 기원과 영역 의존적 기여

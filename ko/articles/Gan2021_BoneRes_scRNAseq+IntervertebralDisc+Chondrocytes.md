@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+log:
+  - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # Spatially defined single-cell transcriptional profiling characterizes diverse chondrocyte subtypes and nucleus pulposus progenitors in human intervertebral discs

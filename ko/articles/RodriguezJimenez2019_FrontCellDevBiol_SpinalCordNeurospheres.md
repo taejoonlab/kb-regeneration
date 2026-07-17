@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Organized Neurogenic-Niche-Like Pinwheel Structures Discovered in Spinal Cord Tissue-Derived Neurospheres

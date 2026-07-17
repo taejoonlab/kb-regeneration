@@ -1,6 +1,8 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
+log:
+  - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # Limb Mesoderm and Head Ectomesenchyme Both Express a Core Transcriptional Program During Chondrocyte Differentiation

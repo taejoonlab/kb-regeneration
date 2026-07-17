@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # Tenogenic Induction From Induced Pluripotent Stem Cells Unveils the Trajectory Towards Tenocyte Differentiation

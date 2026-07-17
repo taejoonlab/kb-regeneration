@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p06.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 척수 손상 모델에서 iPSC 기반 세포 치료의 장기 안전성 문제: 상피-중간엽 전환을 동반한 종양 형성

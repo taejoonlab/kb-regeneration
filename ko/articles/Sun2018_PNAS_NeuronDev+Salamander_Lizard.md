@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Differences in neural stem cell identity and differentiation capacity drive divergent regenerative outcomes in lizards and salamanders (신경줄기세포의 정체성과 분화능 차이가 도마뱀과 도롱뇽의 상이한 재생 결과를 유도한다)

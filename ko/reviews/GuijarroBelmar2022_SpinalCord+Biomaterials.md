@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 척수 복구를 위한 생체재료 기반 병용 전략의 효과: 전임상 문헌의 체계적 검토 및 메타분석

@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # Transcriptomic and Proteomic Analyses Reveal the Potential Mode of Action of Chondrocyte Sheets in Hyaline Cartilage Regeneration

@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Spinal Cord Injury Induces Permanent Reprogramming of Microglia into a Disease-Associated State Which Contributes to Functional Recovery

@@ -34,12 +34,21 @@ YAML frontmatter (all notes):
 tags: [YYYY-MM, <SubjectTag>]
 extract: YYYY-MM-DD
 extract_file: extract/YYYY-MM-DD_pNN.txt
+log:
+  - "YYYY-MM-DD · create · <Model> (<Tool>)"
+  - "YYYY-MM-DD · edit · <Model> (<Tool>) · <what changed>"
 ---
 ```
 - `tags` carries the extraction month (`YYYY-MM`) plus a **subject tag** — `SpinalCord` or
   `Chondrocyte` — that identifies which regeneration subject the note belongs to.
 - `extract_file` points to the split extract part that holds this paper's source text;
   find the block inside that file by the anchor `===== <note-stem> =====`.
+- `log` is the **agent change log**: an append-only YAML list, one entry per agent that
+  creates or modifies the note, oldest first. Each entry is a quoted string
+  `"<YYYY-MM-DD> · <action> · <Model> (<Tool>)[ · <note>]"` where `action` is `create`,
+  `edit`, `rename`, `retag`, etc. Use `·` as the separator (avoid `:` so YAML stays a plain
+  string list). The `log` is the machine-readable history; the human-facing provenance footer
+  `*Processed by …*` still records the original authoring pass.
 - Notes merged from `kb-chondro` (`Chondrocyte`, extraction month `2026-06`) do **not** yet
   have consolidated `extract/` text in this repo, so they carry no `extract_file`; their
   source PDFs live under `pdf.kb/kb-regeneration/chondro` on Google Drive.
@@ -121,6 +130,7 @@ pipeline is:
 2. Filename convention: `{FirstAuthor}{Year}_{Journal}_{Keyword}.md` (e.g., `Anderson2016_Nature_SCI+Mouse+Astrocytes.md`). The `_{Keyword}` topic suffix is expected; join multiple terms with `+`. Journal uses a standard abbreviation (`NatComm`, `CellRep`, `eLife`, …)
 3. When adding a new article, create both `en/articles/{stem}.md` and `ko/articles/{stem}.md` with the same structure; reviews go to `ko/reviews/{stem}.md` (ko only)
 3a. Tag every note with its regeneration subject (`SpinalCord` or `Chondrocyte`) alongside the `YYYY-MM` extraction month, e.g. `tags: [2026-07, SpinalCord]`
+3b. Whenever an agent creates or modifies a note, append one entry to the `log` frontmatter list: `"<YYYY-MM-DD> · <action> · <Model> (<Tool>)[ · <what changed>]"` (append at the end, never rewrite prior entries). This applies to content edits, renames, retags, and frontmatter changes — not to no-op reads.
 4. Do not modify files under `tools/` — that is a separate submodule repository
 5. Do not modify `.obsidian/workspace.json` (per-machine state, gitignored)
 6. Keep section order consistent (original research): Title → Citation → Background → Key Experiment Methods → Results → Perspective

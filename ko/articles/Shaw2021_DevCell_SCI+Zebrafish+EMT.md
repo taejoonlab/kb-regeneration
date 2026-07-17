@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Localized EMT reprograms glial progenitors to promote spinal cord repair (국소적 EMT가 아교 전구세포를 재프로그래밍하여 척수 재생을 촉진한다)

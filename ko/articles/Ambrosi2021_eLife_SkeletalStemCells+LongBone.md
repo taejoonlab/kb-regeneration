@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # 서로 다른 골격줄기세포 유형이 장골 골형성을 조율한다

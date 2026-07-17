@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+log:
+  - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # Calcification as an indicator of osteoinductive capacity of biomaterials in osteoblastic cell cultures

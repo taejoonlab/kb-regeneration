@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Foxj1a는 상의세포 전구세포에서 발현되며 중심관 위치를 조절하고 제브라피시 재생 시 새로운 상의세포에서 활성화된다

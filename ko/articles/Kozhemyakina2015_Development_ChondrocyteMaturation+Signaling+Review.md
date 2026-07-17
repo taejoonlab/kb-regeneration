@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+log:
+  - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # A pathway to bone: signaling molecules and transcription factors involved in chondrocyte development and maturation

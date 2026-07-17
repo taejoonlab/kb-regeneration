@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 척수 재생의 해부: 척수 손상 후 신경 재생의 다양한 형태와 실패 원인 (Dissecting spinal cord regeneration)

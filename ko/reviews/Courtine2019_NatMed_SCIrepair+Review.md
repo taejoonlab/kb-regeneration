@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-17
 extract_file: extract/2026-07-17_p01.txt
+log:
+  - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Spinal cord repair: advances in biology and technology

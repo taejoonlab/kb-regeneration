@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p06.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Foxj1 expressing ependymal cells do not contribute new cells to sites of injury or stroke in the mouse forebrain (Foxj1 발현 뇌실막세포는 마우스 전뇌의 손상 또는 뇌졸중 부위에 새로운 세포를 공급하지 않는다)

@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 단일세포 전사체 프로파일링으로 밝힌 발달 중인 인간 척수의 보존된 유전 프로그램과 인간 특이적 특징

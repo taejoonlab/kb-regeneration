@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-17
 extract_file: extract/2026-07-17_p01.txt
+log:
+  - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 척수의 중간엽 유사 ZEB1+ 니치에 존재하는 등쪽 방사교세포성 GFAP 양성 줄기세포

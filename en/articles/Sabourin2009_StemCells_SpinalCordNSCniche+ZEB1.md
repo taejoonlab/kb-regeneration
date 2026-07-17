@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-17
 extract_file: extract/2026-07-17_p01.txt
+log:
+  - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # A mesenchymal-like ZEB1+ niche harbors dorsal radial glial fibrillary acidic protein-positive stem cells in the spinal cord

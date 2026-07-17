@@ -1,6 +1,8 @@
 ---
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-08
+log:
+  - "2026-06-08 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # Long Intergenic Noncoding RNAs Mediate the Human Chondrocyte Inflammatory Response and Are Differentially Expressed in Osteoarthritis Cartilage

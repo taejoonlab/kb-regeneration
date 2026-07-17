@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # 균일한 변형률 분포와 세포 배향 제어를 통한 줄기세포-건세포 분화의 최적 기계적 조건 규명

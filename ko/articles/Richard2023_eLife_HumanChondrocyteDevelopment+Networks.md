@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # 인간 연골세포 발달을 조절하는 계통 특이적 차이 및 조절 네트워크

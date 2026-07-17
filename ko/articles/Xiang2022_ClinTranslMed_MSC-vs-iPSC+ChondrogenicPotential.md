@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # Differences in the Intrinsic Chondrogenic Potential of Human Mesenchymal Stromal Cells and iPSC-Derived Multipotent Cells

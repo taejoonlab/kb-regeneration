@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # In vivo conversion of astrocytes to neurons in the injured adult spinal cord (손상된 성체 척수에서 별아교세포의 신경세포로의 생체 내 전환)

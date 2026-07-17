@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # SOX2는 신경전구세포의 후성유전적 지형을 준비시켜 해마 신경발생 중 적절한 유전자 활성화를 가능하게 한다

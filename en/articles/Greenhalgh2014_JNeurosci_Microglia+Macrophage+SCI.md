@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # Differences in the Phagocytic Response of Microglia and Peripheral Macrophages after Spinal Cord Injury and Its Effects on Cell Death

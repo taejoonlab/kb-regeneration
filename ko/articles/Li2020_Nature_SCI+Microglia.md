@@ -2,6 +2,8 @@
 tags: [2026-07, SpinalCord]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+log:
+  - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
 ---
 
 # 신생 마우스에서 미세아교세포가 조직하는 흉터 없는 척수 재생 (Microglia-organized scar-free spinal cord repair in neonatal mice)

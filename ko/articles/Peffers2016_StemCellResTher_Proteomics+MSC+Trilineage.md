@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+log:
+  - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
 ---
 
 # A proteomic analysis of chondrogenic, osteogenic and tenogenic constructs from ageing mesenchymal stem cells

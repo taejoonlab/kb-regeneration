@@ -2,6 +2,8 @@
 tags: [2026-06, Chondrocyte]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+log:
+  - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
 ---
 
 # Architecture and evolutionary conservation of Xenopus tropicalis osteoblast-specific regulatory regions shed light on bone diseases and early skeletal evolution
