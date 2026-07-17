@@ -1,8 +1,15 @@
-# kb-SpinalCord — LLM Wiki Obsidian Vault
+# kb-regeneration — LLM Wiki Obsidian Vault
 
 ## Project Overview
 
-Bilingual (en/ko) Obsidian vault for **spinal cord** research literature. Each article has structured notes in both languages under `en/articles/` and `ko/articles/`.
+Bilingual (en/ko) Obsidian vault for **regeneration** research literature. The vault
+started as spinal-cord-only and now spans multiple regeneration subjects. Each subject is
+tracked by a **note tag** (currently `SpinalCord` and `Chondrocyte`; the source PDFs are
+organized by matching **folders** on Google Drive — see *Extracted text & PDF organization*).
+Each article has structured notes in both languages under `en/articles/` and `ko/articles/`.
+
+The `Chondrocyte`-tagged notes were merged in from the former `kb-chondro` repo
+(git@github.com:taejoonlab/kb-chondro.git, since retired) in 2026-07.
 
 ## Repository Structure
 
@@ -24,13 +31,18 @@ Bilingual (en/ko) Obsidian vault for **spinal cord** research literature. Each a
 YAML frontmatter (all notes):
 ```
 ---
-tags: [YYYY-MM]
+tags: [YYYY-MM, <SubjectTag>]
 extract: YYYY-MM-DD
 extract_file: extract/YYYY-MM-DD_pNN.txt
 ---
 ```
+- `tags` carries the extraction month (`YYYY-MM`) plus a **subject tag** — `SpinalCord` or
+  `Chondrocyte` — that identifies which regeneration subject the note belongs to.
 - `extract_file` points to the split extract part that holds this paper's source text;
   find the block inside that file by the anchor `===== <note-stem> =====`.
+- Notes merged from `kb-chondro` (`Chondrocyte`, extraction month `2026-06`) do **not** yet
+  have consolidated `extract/` text in this repo, so they carry no `extract_file`; their
+  source PDFs live under `pdf.kb/kb-regeneration/chondro` on Google Drive.
 
 **Original-research** note sections (en + ko):
 1. `# Title` — full article title
@@ -55,10 +67,14 @@ Every note ends with a provenance footer: `*Processed by **{LLM}** ({tool}) on {
   PDFs left directly under `ko/pdf/` are not yet noted (off-topic or to-review).
 - `ko/pdf/notes/` holds per-file working artifacts (`*_extracted.txt`, `00_triage.md`,
   `0N_*_log.txt`) — gitignored; the committed `extract/` parts supersede the per-file extracts.
+- **Google Drive** (`taejoon.kwon@gmail.com`, `pdf.kb/kb-regeneration/`): the master PDF
+  archive, organized into per-subject folders — `SpinalCord/` and `chondro/`. Processed PDFs
+  from the former kb-SpinalCord are under `pdf.kb/kb-regeneration/` and are being sorted into
+  `SpinalCord/`; chondrocyte PDFs are under `chondro/`.
 
 ## Git Conventions
 
-- Clone with submodules: `git clone --recurse-submodules git@github.com:taejoonlab/kb-SpinalCord.git`
+- Clone with submodules: `git clone --recurse-submodules git@github.com:taejoonlab/kb-regeneration.git`
 - If already cloned without submodules: `git submodule update --init --recursive`
 - Submodule URL uses **SSH** (`git@github.com:taejoonlab/kb-tools.git`) — ensure SSH key is configured
 - `.gitignore` ignores: `.obsidian/workspace.json`, `.obsidian/cache/`, `.obsidian/plugins/obsidian-git/obsidian_askpass.sh`, `*.pdf`, `ko/pdf/`. Note: `extract/` is **tracked** (not ignored) — the consolidated `.txt` parts are committed as provenance
@@ -75,6 +91,7 @@ Every note ends with a provenance footer: `*Processed by **{LLM}** ({tool}) on {
 1. Always maintain the bilingual mirror — when adding/editing an article in one language, update the corresponding file in the other language
 2. Filename convention: `{FirstAuthor}{Year}_{Journal}_{Keyword}.md` (e.g., `Anderson2016_Nature_SCI+Mouse+Astrocytes.md`). The `_{Keyword}` topic suffix is expected; join multiple terms with `+`. Journal uses a standard abbreviation (`NatComm`, `CellRep`, `eLife`, …)
 3. When adding a new article, create both `en/articles/{stem}.md` and `ko/articles/{stem}.md` with the same structure; reviews go to `ko/reviews/{stem}.md` (ko only)
+3a. Tag every note with its regeneration subject (`SpinalCord` or `Chondrocyte`) alongside the `YYYY-MM` extraction month, e.g. `tags: [2026-07, SpinalCord]`
 4. Do not modify files under `tools/` — that is a separate submodule repository
 5. Do not modify `.obsidian/workspace.json` (per-machine state, gitignored)
 6. Keep section order consistent (original research): Title → Citation → Background → Key Experiment Methods → Results → Perspective

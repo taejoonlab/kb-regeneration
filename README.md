@@ -1,6 +1,6 @@
-# kb-SpinalCord
+# kb-regeneration
 
-An LLM Wiki Obsidian vault for **spinal cord** research literature.
+An LLM Wiki Obsidian vault for **regeneration** research literature (spinal cord, chondrocyte, and more). Each note is tagged by subject (`SpinalCord`, `Chondrocyte`).
 
 ## Structure
 
@@ -17,7 +17,7 @@ An LLM Wiki Obsidian vault for **spinal cord** research literature.
 ## Languages
 
 The vault operates in two languages:
-- **ko/** — Korean notes for the spinal cord project
+- **ko/** — Korean notes for the regeneration project
 - **en/** — English translations mirroring the same structure
 
 Each article note follows a consistent format: Citation, Background, Key Experiment Methods, Results, Perspective.
@@ -26,7 +26,7 @@ Each article note follows a consistent format: Citation, Background, Key Experim
 
 1. Clone with submodules:
    ```bash
-   git clone --recurse-submodules git@github.com:taejoonlab/kb-SpinalCord.git
+   git clone --recurse-submodules git@github.com:taejoonlab/kb-regeneration.git
    ```
 
 2. Open the folder as an Obsidian vault.
