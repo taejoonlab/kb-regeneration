@@ -1,0 +1,48 @@
+---
+tags: [2026-07]
+extract: 2026-07-16
+---
+
+# Hyaline cartilage differentiation of fibroblasts in regeneration and regenerative medicine
+
+## Citation (NLM)
+Yu L, Lin YL, Yan M, Li T, Wu EY, Zimmel K, Qureshi O, Falck A, Sherman KM, Huggins SS, Osorio Hurtado D, Suva LJ, Gaddy D, Cai J, Brunauer R, Dawson LA, Muneoka K. Hyaline cartilage differentiation of fibroblasts in regeneration and regenerative medicine. Development. 2022;149(2):dev200249. doi:10.1242/dev.200249
+
+**DOI:** [https://doi.org/10.1242/dev.200249](https://doi.org/10.1242/dev.200249)
+
+---
+
+## Background
+Limb amputation injuries in mammals are typically non-regenerative, but growth factor treatment can stimulate patterned skeletal regeneration during wound healing. BMP9 in particular stimulates regeneration of synovial joint tissues that begin with formation of hyaline cartilage and can progress to articular cartilage (AC) regeneration, implying that non-regenerative amputation wounds harbor latent articular chondrocyte progenitor cells. This fits a model of "evolved regenerative failure," in which the fibrotic mammalian healing response retains cells with unrealized regenerative potential. Because immune cells do not contribute to regenerated tissues, amputation wound fibroblasts are a likely progenitor source.
+
+Articular cartilage does not turn over after maturation and regenerates poorly, so cartilage damage is a major cause of disability. Existing cell therapies (chondrocyte expansion, MSCs, iPSCs) are limited by unstable AC phenotypes and drift toward fibrous/hypertrophic cartilage. This study investigates BMP9-induced hyaline cartilage regeneration in vivo and in vitro, aiming to bridge regeneration biology and regenerative medicine of cartilage.
+
+---
+
+## Key Experiment Methods
+1. In vivo BMP9 treatment of mouse digit amputation wounds; microarray analysis of upregulated chondrogenic genes.
+2. Culture of amputation wound cells to test the parallel chondrogenic response to BMP9.
+3. Single-cell RNA-seq (scRNAseq) of cultured amputation wound cells to identify the BMP9-responsive cell type.
+4. Identification and use of an adult digit fibroblast cell line (P3 fibroblasts) as a candidate chondroprogenitor source.
+5. Culture strategy to engineer hyaline cartilage from P3-BMP9 cells; characterization of the engineered tissue.
+6. In vivo evaluation by implantation/engraftment of engineered hyaline cartilage into an acute joint injury site; histological assessment of survival, phenotype stability, and maturation.
+
+---
+
+## Results
+- BMP9 induced amputation-derived wound cells to differentiate into chondrocytes, and extended BMP9 culture produced hyaline cartilage.
+- Microarray of BMP9-treated amputation wounds identified upregulated genes linked to both hyaline cartilage and articular cartilage differentiation.
+- scRNAseq identified wound fibroblasts as the BMP9-responsive population, establishing fibroblasts as a chondroprogenitor cell source.
+- An adult digit fibroblast cell line (P3 fibroblasts) was identified as BMP9-responsive and used to engineer hyaline cartilage in vitro.
+- Transplanted P3-BMP9 engineered hyaline cartilage survived engraftment and maintained a hyaline cartilage phenotype, but did not mature into articular cartilage.
+- Individual hypertrophic chondrocytes (of both host and graft origin) were observed in some samples, indicating that the acute joint injury site can promote osteogenic progression of engrafted hyaline cartilage, compromising graft stability.
+- The distinction between BMP2 (endochondral ossification / hypertrophic differentiation) and BMP9 (AC regeneration initiating with hyaline cartilage) was reinforced.
+
+---
+
+## Perspective
+This work identifies fibroblasts as a novel cell source for hyaline cartilage regeneration and establishes an experimental strategy bridging regeneration biology and regenerative medicine. It demonstrates that latent chondroprogenitor potential in the mammalian amputation wound can be mobilized by BMP9, and that engineered hyaline cartilage can engraft into an injured joint. Key limitations: engrafted hyaline cartilage did not mature to articular cartilage, indicating a need to differentiate AC prior to transplantation, and the joint injury environment promoted hypertrophic/osteogenic drift that threatens graft stability. Future work should define conditions to drive stable AC maturation and control hypertrophic progression, advancing fibroblast-derived cartilage toward therapeutic use. (Note: this is a mammalian limb/digit amputation regeneration model; its relevance here is as a comparative regeneration paradigm rather than CNS-specific.)
+
+---
+
+*Processed by **Claude Fable 5** (Claude Code) on 2026-07-16*
