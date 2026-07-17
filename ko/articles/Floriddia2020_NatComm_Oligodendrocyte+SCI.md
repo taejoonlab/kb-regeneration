@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "GEO: GSE128525"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Distinct oligodendrocyte populations have spatial preference and different responses to spinal cord injury
@@ -44,6 +47,12 @@ Floriddia EM, Lourenço T, Zhang S, van Bruggen D, Hilscher MM, Kukanja P, et al
 
 ## Perspective
 본 연구는 전사체가 구분되는 성숙 희소돌기아교세포 집단이 특정 CNS 영역과 기능적 신경로를 점유하며, 이 공간적 선호가 내재적 발생 기전이 아니라 외재적 기전에 의해 결정되고, MOL 아형이 만성 SCI에서 서로 다른 취약성을 보인다는 것을 입증한다. 이는 희소돌기아교세포 이질성에 대한 이해를 정교화하며, 특정 MOL 아형을 표적화하면 재수초화 및 회복을 개선할 수 있음을 시사한다. 한계로는 아형 판별에 마커 유전자 대용 의존, 경증 절단 손상 모델 사용, 성체 계통 추적의 불완전 표지가 있다. 향후 과제는 MOL 정체성을 결정하는 외재적 신호(예: 신경 활동)의 규명과 아형 특이 개입의 CNS 재생 효과 검증이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE128525
+
 
 ---
 

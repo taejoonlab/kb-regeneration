@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE205945"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Identification of the metaphyseal skeletal stem cell building trabecular bone
@@ -85,6 +88,12 @@ Yang G, He Q, Guo X, Li RY, Lin J, Lang Y, Tao W, Liu W, Lin H, Xing S, Qi Y, Xi
 - Hgs/endosomal transport 경로가 HC→mpSSC 전환에 필수적임을 발견하였으며, 이 경로 손상이 해면골 형성 장애를 초래함을 보였다.
 - 기존에 보고된 다양한 골수 기질세포(BMSC) 집단 (Gli1+, Lepr+, Grem1+, Osterix+ 등)이 mpSSC의 하위 자손임을 제안하여 SSC 계층을 통합적으로 이해할 수 있는 틀을 제공한다.
 - 골다공증, 골형성 부전증 등 해면골 질환의 병리 기전 이해와 치료 전략 개발에 새로운 표적(mpSSC, Hgs 경로)을 제시한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE205945
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE112294"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-cell mapping of gene expression landscapes and lineage in the zebrafish embryo
@@ -54,6 +57,12 @@ Wagner DE, Weinreb C, Collins ZM, Briggs JA, Megason SG, Klein AM. Single-cell m
 본 연구는 scRNA-seq으로부터 시간에 따른 전체 배아 발생 지형을 재구성하는 최소 가정 기반 그래프 프레임워크를 확립하고, 이를 독립적인 클론 계통 판독(TracerSeq)과 결합한다. 핵심 개념적 기여는 세포 계통(트리)과 유전자 발현 지형(루프·연속체를 갖는 위상적으로 복잡한 그래프) 사이의 실제 관계가 일대일이 아니라는 점이다—수렴적·발산적 클론 행동이 모두 발생하므로 세포 상태와 계통은 독립적으로 측정되어야 한다. 신경계 및 재생 연구 측면에서 이 아틀라스는 신경판·척수·신경능선 프로그램에 대한 시간적·조직적 연관을 제공하며, 신호 교란이 새로운 상태를 만들지 않고도 세포 상태 존재비를 극적으로 재편할 수 있음을 보여준다.
 
 한계로는 TracerSeq 통합의 타이밍(만능성에서 최초 운명 제한으로의 전이만 포착), 커뮤니티 정제가 필요할 수 있는 추론/주석 기반 세포 상태 라벨 의존성, 그리고 단일 종의 첫 24시간에 국한된 분석이 있다. 향후 방향으로는 배아의 전체 신호 논리를 밝히기 위한 신호 교란의 체계적 매핑, 그리고 추가 발생 단계·조직·종으로의 확장이 제시된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE112294
+
 
 ---
 

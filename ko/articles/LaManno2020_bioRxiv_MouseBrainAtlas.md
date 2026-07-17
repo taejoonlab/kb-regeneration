@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "SRA: PRJNA637987"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Molecular architecture of the developing mouse brain
@@ -43,6 +46,12 @@ La Manno G, Siletti K, Furlan A, Gyllborg D, Vinsland E, Langseth CM, Khven I, J
 
 ## Perspective
 본 아틀라스는 포유류 신경계 발생 해부의 주요 자원으로, 전 태생기 범위에 걸친 시간·계보·영역 특이적 유전자 발현을 제공한다. 유전적 표적화와 신경발달 장애 및 뇌암 이해를 위한 도구를 제공하며, 교모세포종이 배아 발생 세포 상태로의 회귀를 반영한다는 가설을 직접 검증(지지)하였다. 척수/재생 지식베이스 관점에서는 신경 전구세포, 방사교세포, 상의세포, 성상교세포, OPC의 발생 기원 지도화와 신경관을 패터닝하는 모르포겐 분비 조직자의 목록화에 그 가치가 있다. 관련 자원은 mousebrain.org에서 제공된다. 프리프린트로서 동료심사를 거치지 않았다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA637987
+
 
 ---
 

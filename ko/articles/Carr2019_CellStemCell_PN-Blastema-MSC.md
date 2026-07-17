@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "GEO: GSE120678"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Mesenchymal Precursor Cells in Adult Nerves Contribute to Mammalian Tissue Repair and Regeneration
@@ -48,6 +51,12 @@ Carr MJ, Toma JS, Johnston APW, Steadman PE, Yuzwa SA, Mahmud N, Frankland PW, K
 ## Perspective
 
 본 연구는 말초 신경이 신경능선 유래 중간엽 전구 세포를 공급하며, 이 세포들이 손상 조직으로 이동해 뼈(손발가락 끝 재생, 대퇴골 복구)와 진피 복구에 직접 기여함을 확립하여, 오래 관찰되어 온 포유류 조직 재생의 신경 의존성에 대한 세포 수준의 설명을 제시한다. 신경이 거의 모든 조직을 지배하므로, 이 저장고는 재생의학에 폭넓은 함의를 가질 수 있다. 한계로는 계통 추적 마우스 모델 의존성과 초기 scRNA-seq의 상대적으로 얕은 깊이가 있으며, 손발가락 끝/뼈 맥락이므로 중추신경/척수 재생과의 직접적 관련성은 간접적이다. 향후 방향으로는 이 전구 세포를 동원·유도하는 신호의 규명과, 신경 유래 중간엽 세포를 재생이 저조한 조직의 복구 향상에 활용할 수 있는지 검증이 포함된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE120678
+
 
 ---
 

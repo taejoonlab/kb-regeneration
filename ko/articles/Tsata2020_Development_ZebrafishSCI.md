@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "GEO: GSE161687"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Reactive oligodendrocyte progenitor cells (re-)myelinate the regenerating zebrafish spinal cord
@@ -55,6 +58,12 @@ Tsata V, Kroehne V, Wehner D, Rost F, Lange C, Hoppe C, Kurth T, Reinhardt S, Pe
 본 연구는 재생 능력을 가진 척추동물 척수에서 희소돌기아교 생물학을 상세히 규명하고 반응성 OPC의 전사체를 처음으로 제시하였다. 성체 제브라피시 OPC는 SCI에서 생존하는 견고한 집단으로, 반응성으로 전환·증식하여 2주 내에 희소돌기아교세포 풀을 재확립하고, 축삭 수와 수초화가 완전히 회복되지 않더라도 기능 회복에 충분한 수초화를 복원한다. 특히 희소돌기아교세포 재확립은 증식뿐 아니라 반응성 OPC의 직접 분화를 통해서도 일어나는 것으로 보이며, 염증이 OPC 활성화와 연관되어 있어 제브라피시 CNS 재생에 염증이 필요하다는 보고와 부합한다.
 
 저자들이 언급한 한계로는 Cre 기반 계통추적의 부재(재생 축삭의 신생 수초화, 살아남은 축삭의 재수초화, 기존 희소돌기아교세포의 탈분화 가능성 간 명확한 구분 불가), GFP 리포터 신호 손실로 인한 사멸세포 누락 가능성, EdU 보유 희소돌기아교세포 수가 적은 점 등이 있다. 향후 희소돌기아교세포당 수초 수·길이와 장기 회복에서 완전 재수초화 정도를 규명할 필요가 있다. 이 결과들은 기능 회복이 완전 재수초화가 아니라 일정 수준의 축삭 수초 지지만으로 가능할 수 있음을 시사하며, 포유류 CNS 손상 후 수초 복구 촉진을 위한 모델로서 제브라피시 OPC 반응의 가치를 부각한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE161687
+
 
 ---
 

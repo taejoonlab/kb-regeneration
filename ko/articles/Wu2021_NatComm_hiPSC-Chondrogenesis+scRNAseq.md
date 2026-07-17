@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE160787"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single cell transcriptomic analysis of human pluripotent stem cell chondrogenesis
@@ -95,6 +98,15 @@ Wu CL, Dicks A, Steward N, Tang R, Katz DB, Choi YR, Guilak F. Single cell trans
 넷째, 이 연구에서 개발된 단일세포 전사체 기반 GRN 분석 접근법은 연골 외 다른 세포 분화 과정의 최적화에도 광범위하게 적용 가능한 로드맵을 제시한다.
 
 향후 과제로는 CD146/CD166+ 전구세포의 다능성 여부 확인, C59 처리와 BMP/GDF 신호의 상호작용 기전 심층 연구, 그리고 장기 이식 후 연골 표현형 유지 및 안전성 검증이 필요하다.
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE160787
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE106292, GSE109503
+
+
 ---
 
 *Processed by **DeepSeek V4 Flash** (OpenCode Go) on 2026-06-06*

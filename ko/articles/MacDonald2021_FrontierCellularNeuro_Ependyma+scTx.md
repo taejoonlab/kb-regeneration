@@ -4,6 +4,7 @@ extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Single Cell Transcriptomics of Ependymal Cells Across Age, Region and Species Reveals Cilia-Related and Metal Ion Regulatory Roles as Major Conserved Ependymal Cell Functions
@@ -50,6 +51,12 @@ MacDonald A, Lu B, Caron M, Caporicci-Dinucci N, Hatrock D, Petrecca K, Bourque 
 ## Perspective
 
 본 리소스형 연구는 뇌실막세포 전사체가 연령·종·아형에 걸쳐 현저히 균질하고 보존되어 있으며, 예상된 섬모 기능뿐 아니라 이전에 과소평가되었던 금속이온 항상성(metallothionein 매개) 역할이 보존되어 산화 스트레스 및 신경퇴행성 질환과 관련됨을 확립한다. 척수/재생 연구 측면에서 가장 두드러진 발견은 척수 중심관 E2 뇌실막세포가 뇌 E1 세포와 전사체적으로 뚜렷이 구별되며, 희소돌기아교세포 분화 및 증식 음성조절 프로그램을 고유하게 발현하여, 척수손상 후 기록된 잠재적 재생 능력과 부합한다는 점이다. 한계로는 데이터셋당 뇌실막세포 수가 적은 점(33-344개), 이질적 공개 데이터셋 의존, 인간 척수 데이터 부재(인간은 뇌에 한정), 소수 유전자에 대해서만 검증된 GO 기반 상관적 기능 추론 등이 있다. 향후 과제로는 질환에서 뇌실막 금속이온 조절을 기능적으로 검증하고, 척수에서 E1 대 E2 재생 차이의 기전적 기반을 규명하는 것이 있다.
+
+## 데이터 이용 가능성
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE123335, GSE100320
+
 
 ---
 

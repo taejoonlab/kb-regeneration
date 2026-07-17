@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, Tenocyte]
+tags: [2026-07, Tenocyte, RawDataAvailable]
 extract: 2026-07-17
 extract_file: extract/2026-07-17_p02.txt
+raw_data:
+  - "GEO: GSE188758, GSE188760, GSE188759"
 log:
   - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # RSPO2 defines a distinct undifferentiated progenitor in the tendon/ligament and suppresses ectopic ossification
@@ -87,6 +90,15 @@ SCENIC은 Rspo2+ 클러스터의 조절자 중 Rela(NF-κB)를 확인하였다. 
 셋째, 염증(IL-1β)과 기계적 부하가 Rac1–NF-κB를 통해 RSPO2를 유도함을 보임으로써, RSPO2를 이소성 골화를 유발하는 손상/기계적 과부하 신호 안에 위치시킨다. RSPO2가 연골분화를 지배하는 동일한 초기 연골 프로그램(Sox9, Col2a1)을 억제하므로, 이 발견은 연골 재생 및 결합조직 전구세포의 연골성/비연골성 운명 균형과도 직접 관련된다.
 
 한계로는 인간 인대에 대한 scRNA-seq 부재(수술 검체가 드묾), 세포 수 부족으로 인한 마우스 인대 프로파일링 불가, RSPO2+ 집단의 기원과 최종 운명 미규명이 있으며, 기여 인자로서의 노화도 검토되지 않았다. 그럼에도 본 연구는 건/인대 항상성 이해를 진전시키고 RSPO2/WNT 신호를 이소성 골화의 치료 축으로 제안한다.
+
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE188758, GSE188760, GSE188759
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE126060
 
 
 ---

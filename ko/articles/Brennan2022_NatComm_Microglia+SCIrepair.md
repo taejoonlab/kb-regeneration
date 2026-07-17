@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "GEO: GSE196928"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Microglia coordinate cellular interactions during spinal cord repair in mice
@@ -53,6 +56,12 @@ Brennan FH, Li Y, Wang C, Ma A, Guo Q, Li Y, Pukos N, Campbell WA, Witcher KG, G
 본 연구는 다중 오믹스 접근을 통해 미세아교세포가 SCI 후 회복 반응의 필수 조율자로서 MDM 모집·표현형, 성상교세포 경계 형성, 지질 처리, 혈관 복구를 통합적으로 지휘함을 종합적으로 입증하였다. 기전적으로는 미세아교세포 고갈 척수의 회복을 구제하는 데 활용할 수 있는 CCL2/TLR2 "핵심" 신호 signature를 규명하였으나, 미세아교세포가 존재할 때는 동일 처치가 해로워 신호 네트워크가 정교하게 균형 잡힌 맥락 의존적 시스템임을 강조한다.
 
 한계로는 약리학적 고갈 의존(대조 실험으로 주요 교란은 배제되나 표적 외/전신 효과 가능성), scRNA-seq의 포획 편향으로 미세아교세포·MDM 과대표집, 마우스 한정 실험이 있다. 향후 방향으로는 선택된 리간드-수용체 축을 시기·세포 특이적 치료로 전환하는 것과, 미세아교세포 의존 신호 복원이 다른 CNS 손상 및 신경질환에 일반화되는지 검증하는 것이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE196928
+
 
 ---
 

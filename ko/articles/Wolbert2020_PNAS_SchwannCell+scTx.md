@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE142541"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Redefining the heterogeneity of peripheral nerve cells in health and autoimmunity
@@ -53,6 +56,12 @@ Wolbert J, Li X, Heming M, Mausberg AK, Akkermann D, Frydrychowicz C, Fledrich R
 이 연구는 건강한 PNS의 최초의 비편향적 단일세포 census를 제공하여, 그동안 저평가되었던 nmSC와 신경 관련 섬유아세포의 마커 유전자를 제시하고, CNS 미세아교세포와 구별되는 예상외로 복잡하고 이질적인 상주 면역 레퍼토리를 드러냈다. 자가면역성 신경염이 단일 세포 유형이 아니라 세포 간 "면역 네트워크"를 재편성한다는 발견은 염증성 신경병증에 대한 관점을 재정립하며, 부분적으로 보존된 신경교 자가면역 모듈은 신경계 구획 간 공통 반응 기전을 시사한다.
 
 한계로는 신경세포체가 데이터셋에서 제외되어(신경병증 유전자의 비-신경교 세포 역할이 과장될 수 있음), 백혈구 수가 적어 쥐 농축·종간 혼합이 필요했고, scRNA-seq의 본질적 dropout(클러스터 내 일부 세포에서만 마커 검출)이 있다. 향후 방향으로는 nmSC/섬유아세포 마커의 축삭 지지 및 재생에서의 기능적 해부, 그리고 보존된 PNS-CNS 신경교 모듈을 활용한 구획 간 치료 전략이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE142541
+
 
 ---
 

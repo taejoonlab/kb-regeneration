@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "SRA: SRP082501"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Gene Expression Profiling in the Injured Spinal Cord of Trachemys scripta elegans: An Amniote with Self-Repair Capabilities
@@ -54,6 +57,12 @@ Valentin-Kahan A, García-Tejedor GB, Robello C, Trujillo-Cenóz O, Russo RE, Al
 본 연구는 자가복구가 가능한 양막류에서 SCI 반응을 유전체 규모로 처음 규명하고 이를 비교진화적 틀 안에 위치시켰다. 핵심적이면서 다소 의외인 결론은, 거북의 재생 능력이 보존된 조상 척추동물 형질의 잔존이 아니라 계통 특이적 혁신이라는 점이다. 즉 모든 양막류가 공유하는 유전자들의 발현을 본질적으로 비재생성인 유전적 배경 위에서 재조직하여 획득한 것으로 보인다(거북의 반응은 재생성 올챙이 Xenopus보다 비재생성 포유류·변태 후 Xenopus와 더 유사). 현대 파충류 계통(거북이 조룡류의 자매군)에 비추어, 거북의 복구를 조상 형질로 보려면 세 차례의 독립적 소실이 필요하므로 혁신 해석이 더 타당하다.
 
 저자들은 무산소 내성, ECM 재편, 축삭 재성장 경로를 기능 회복의 유력 후보로 지목한다. 한계로는 단일 급성 시점(4일), 소수의 풀링 생물학적 반복, ~8% 분기 서열을 갖는 근연종 유전체(C. picta) 의존, 종간 비교에서 손상 시점·진행 속도의 차이 등이 있다. 거북과 제브라피시가 배타적 "재생 유전자"를 공유하지 않는다는 발견은 재생 계통들 간에 척수 복구의 분자 전략이 서로 다름을 시사하며, 단일 보존 재생 프로그램 가정에 주의를 요하고, 보다 시간분해적이며 기능 검증된 후속 연구의 필요성을 부각한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: SRP082501
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE154381, GSE162033"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # SOX9 keeps growth plates and articular cartilage healthy by inhibiting chondrocyte dedifferentiation/osteoblastic redifferentiation
@@ -85,6 +88,15 @@ Haseeb A, Kc R, Angelozzi M, de Charleroy C, Rux D, Tower RJ, Yao L, Pellegrino 
 - 이 세포 가소성 기전은 골관절염 병리 이해에 새로운 시각을 제공하며, 특히 하중 부위에서 SOX9 감소가 골모세포 전환 및 연골 손상을 초래하는 것은 OA 진행의 메커니즘으로 주목할 만하다.
 - BMP 신호 증가와 기계적 자극의 조합이 이소성 골화(heterotopic ossification; fibrodysplasia ossificans progressiva와 유사)를 유발할 수 있다는 가설을 제시한다.
 - SOX9 발현 유지 또는 골모세포 전환 경로 차단이 OA 치료 전략이 될 수 있음을 시사한다. 또한, 성장판 폐쇄 조절 인자(에스트로겐 등)와 SOX9 발현의 관계 규명이 향후 중요한 과제이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE154381, GSE162033
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE145477
+
 
 ---
 

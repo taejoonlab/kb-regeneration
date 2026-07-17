@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+raw_data:
+  - "GEO: GSE197172"
 log:
   - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Differences in the Intrinsic Chondrogenic Potential of Human Mesenchymal Stromal Cells and iPSC-Derived Multipotent Cells
@@ -39,6 +42,12 @@ Xiang S, Lin Z, Makarcyzk MJ, Riewruja K, Zhang Y, Zhang X, Li Z, Clark KL, Li E
 
 ## Perspective
 본 연구는 Smad2/3와 Smad1/5의 이중 활성화가 다능성 전구세포에서 연골형성 시작에 중요함을 입증하였다. iMPCs에서 BMP6 보충이 필요한 이유(hMSCs와 달리)는 TGF-β 단독으로 Smad1/5를 활성화할 수 없기 때문이다. TGF-β3+BMP6 조합은 내연골성 골화를 겪는 MSC 유래 연골보다 우수한, 최소 비후의 투명 연골을 iMPCs에서 생성한다. 이러한 결과는 iMPCs가 투명 연골 수복을 위해 MSC보다 잠재적으로 더 나은 세포원임을 지지한다. 주요 제한점으로는 iMPCs의 연골 형성 능력이 계대 수에 따라 급격히 감소하여 초기 계대 세포 사용이 필요하다는 점과, 생체 내 장기 안정성 연구가 추가로 필요하다는 점이다. Smad 신호 전달 차이에 대한 기전적 통찰은 다양한 전구세포 유형에 대한 연골형성 프로토콜 최적화의 기반을 제공한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE197172
+
 
 ---
 

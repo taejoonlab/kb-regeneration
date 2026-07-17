@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p06.txt
+raw_data:
+  - "GEO: GSE77025"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Injury-induced ctgfa directs glial bridging and spinal cord regeneration in zebrafish
@@ -51,6 +54,12 @@ Mokalled MH, Patra C, Dickson AL, Endo T, Stainier DYR, Poss KD. Injury-induced 
 본 연구는 CTGF/ctgfa가 제브라피시의 자연적 척수 재생과 교세포 다리 형성에 필요충분한 인자임을 확립했으며, 그 작용은 적어도 부분적으로는 ctgfa를 스스로 발현하는 pioneer 교세포의 증식과 다리 형성을 촉진함으로써 이루어진다. 재생 촉진 활성은 C말단 도메인에 위치하며, 외인성 인간 CTGF 단백질이 그 효과를 재현하여 중개연구(translational) 잠재력을 시사한다.
 
 저자들이 제기한 핵심 미해결 과제는 포유류에 CTGF를 생산하거나 이에 반응할 수 있는 교세포 아형 — 즉 제브라피시 다리형성 교세포의 재생 촉진적 대응체 — 이 존재하는가이다. 포유류의 반응성 신경교증은 성장 억제 인자와 성장 허용 인자를 모두 분비하는 이질적 교세포 집단을 포함하므로, 그러한 아형을 규명하면 포유류의 손상 반응을 제브라피시와 유사한 다리 형성 결과로 전환하는 전략을 제시할 수 있다. 한계로는 제브라피시 모델 의존성과 Ctgfa-CT 활성을 매개하는 하류 신호경로 및 수용체가 완전히 규명되지 않은 점을 들 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE77025
+
 
 ---
 

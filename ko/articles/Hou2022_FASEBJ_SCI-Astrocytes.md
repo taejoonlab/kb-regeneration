@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE189070"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Heterogeneity analysis of astrocytes following spinal cord injury at single-cell resolution
@@ -50,6 +53,12 @@ Hou J, Bi H, Ge Q, Teng H, Wan G, Yu B, Jiang Q, Gu X. Heterogeneity analysis of
 본 연구는 SCI 전 과정에 걸친 성상세포 이질성의 단일세포·시간분해 아틀라스를 최초로 제시한 연구 중 하나로, 6개의 전사체적으로 구별되는 성상세포 상태를 정의하고 이들의 동적 진화와 A1/A2 유사 기능의 변화를 추적했다. 동일한 나이브 집단(클러스터 4)이 신경보호적(급성/아급성) 또는 신경독성(만성) 운명으로 진화할 수 있고, 성상세포-미세아교세포 중간 상태(Gpr84+ 클러스터 1)가 흉터 및 잔해 제거에 참여한다는 발견은 반응성 성상세포증을 균일한 억제 반응이 아닌 이질적·단계 의존적 과정으로 재정의한다. 이러한 시그니처는 척수 회복 촉진을 위한 후보 표적(특정 아형/마커)을 제공한다.
 
 본문에 언급된 한계로는 효소 분해 과정에서의 취약성으로 인해 성체 뉴런을 포착하지 못한 점, 조직 관류를 하지 않아 혈액 유래 대식세포가 포함된 점, 그리고 아형들의 기능이 기능적 교란이 아닌 GO 농축과 마커 공발현으로 추론된 서술적·상관적 성격이 있다. 향후 특정 성상세포 아형의 조작이 재생과 회복을 개선하는지 기능적으로 검증할 필요가 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE189070
+
 
 ---
 

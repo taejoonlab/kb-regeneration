@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "SRA: SRP119900"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # SOX2 regulates common and specific stem cell features in the CNS and endoderm derived organs
@@ -50,6 +53,12 @@ Hagey DW, Klum S, Kurtsdotter I, Zaouter C, Topcic D, Andersson O, Bergsland M, 
 ## Perspective
 
 본 연구는 단일 전사인자 SOX2가 (각 조직에서 발현되는 조합적 협력 인자를 통해) 세포유형 특이적 유전자 프로그램과, Ccnd1/Wnt-β-catenin 축을 통한 증식 억제를 중심으로 하는 보존된 핵심 줄기세포 프로그램을 동시에 구동함을 보여준다. CNS/척수 생물학 측면에서, SOX2가 비신경 줄기세포와 공유되는 기전을 통해 신경 전구세포를 느린 증식 상태로 유지하는 방식을 명확히 한다. 한계로는 FACS 분리 집단의 비표적 세포 오염 가능성, 과발현 단백질을 이용한 체외 공동면역침전(교량 인자 개입 여지), 종간(제브라피시) 리포터 검증 의존이 있다. 향후 조직 특이적 SOX2 활성을 규정하는 조합적 협력 인자 코드의 완전한 규명이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: SRP119900
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE171892"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 단일세포 전사체 프로파일링으로 밝힌 발달 중인 인간 척수의 보존된 유전 프로그램과 인간 특이적 특징
@@ -52,6 +55,12 @@ Rayon T, Maizels RJ, Barrington C, Briscoe J. Single-cell transcriptome profilin
 본 연구는 임신 초기 4개 단계를 아우르는 발달 인간 척수 및 후근신경절의 최초의 체계적 단일세포 지도를 제공하여, 포유류 신경관 발달이 대체로 보존되어 있음을 입증하는 동시에 구체적인 인간 특이적·이시성 차이(FP의 PAX7, 넓은 NKX6-2, 조기·풍부한 OLIG2+NKX2-2+ OLP, 지연된 배측 신경생성)를 짚어냈다. 함께 제공되는 인터랙티브 리소스는 특정 뉴런 아형 생성 프로토콜을 정교화하려는 발생·줄기세포 생물학자에게 유용하다.
 
 저자들이 지적한 한계로는 제한적인 시간 해상도(약 2주간 4개 단계, 단계별 단일 배아), CS17의 낮은 유전자 카운트(velocity 분석에서 제외), 후기 단계 in vitro 분화의 비동기성 증가가 있다. 인간 신경생성이 실제로 지연되는지 여부, 그리고 이중양성 전구세포의 계통 관계 및 신경/교세포 생성 잠재력은 더 많은 배아, 후기 시점, 기능적 실험을 통해 규명되어야 한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE171892
+
 
 ---
 

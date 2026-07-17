@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE206238"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Cellular senescence promotes progenitor cell expansion during axolotl limb regeneration
@@ -53,6 +56,12 @@ Yu Q, Walters HE, Pasquini G, Singh SP, Lachnit M, Oliveira CR, León-Periñán 
 이 연구는 세포 노화가 아홀로틀 사지 재생에 필수적이며, bSC가 Wnt 신호를 통해 단거리·비세포자율적 방식으로 전구세포 증식과 블라스테마 성장을 지탱하는 친재생 niche를 형성함을 확립했다. 노화 생물학의 드문 in vivo 관점을 제공하여, 재생성 성장 정지의 기반으로 (p53이 아닌) 리보솜 생합성 교란을 규명하고 이를 DNA 손상 유도 노화와 구별했다. Wnt 매개 paracrine 노화 전파 억제는 도롱뇽과 포유류의 손상 반응 차이를 나타낼 수 있으며, 재생의학에 근본적·치료적 함의를 지닌다.
 
 한계: 노화세포에서만 Wnt 리간드 생성을 선택적으로 차단하는 것이 기술적으로 아직 불가능하여 인과 사슬이 부분적으로 추론에 의존하고, 나노입자 기반 분리가 식세포성 대식세포를 비특이적으로 표지할 수 있으며(식작용과 무관한 senolytics가 일치하는 결과를 주었으나), GalNP-dox의 정확한 사멸 기전이 미규명 상태이다. 향후 방향으로는 노화세포 특이적 유전자 조작과 블라스테마 성장에서의 Wnt-Fgf, Wnt-Notch crosstalk 해부가 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE206238
+
 
 ---
 

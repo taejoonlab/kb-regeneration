@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE161477"
 log:
   - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 서로 다른 골격줄기세포 유형이 장골 골형성을 조율한다
@@ -38,6 +41,12 @@ Ambrosi TH, Sinha R, Steininger HM, Hoover MY, Murphy MP, Koepke LS, Wang Y, Lu 
 
 ## Perspective
 본 연구는 이전에 인식되지 않았던 SSC 이질성을 포괄적으로 규명하여, 생후 장골에 분자적·기능적으로 구별되는 두 가지 SSC 계통이 존재함을 입증했다. 이 발견은 중간엽줄기세포의 전통적인 이분법 모델을 도전하며, 골형성과 지방형성이 서로 다른 줄기세포 풀에서 기원함을 보여준다. SSC 특이적 마커(Wif1, Cdh13)의 규명은 더 정밀한 reporter 모델 개발의 기반을 제공한다. 향후 연구는 pvSSC의 발생학적 기원과 노화 관련 골수 편향에서 pvSSC와 조혈줄기세포 계통 간의 기능적 연결을 규명해야 할 것이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE161477
+
 
 ---
 

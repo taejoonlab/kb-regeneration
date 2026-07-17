@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "SRA: PRJNA817177, PRJNA938813"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # The temporal transcriptomic signature of cartilage formation
@@ -72,6 +75,15 @@ Takács R, Vágó J, Póliska S, Pushparaj PN, Ducza L, Kovács P, Jin EJ, Barre
 - ATOH8과 EBF1을 새로운 연골형성 조절 전사인자로 처음 보고하였으며, 이들의 일시적 침묵이 연골형성을 손상시킴을 확인하였다.
 - 성체 연골세포와 micromass 유래 연골세포의 전사체 차이는 in vitro 모델의 한계를 보여주며, 특히 day 15 이후의 역행 현상은 추가 최적화가 필요함을 시사한다.
 - 본 데이터셋은 연골 조직공학 및 재생의학 연구를 위한 분자 플랫폼으로 활용될 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA817177, PRJNA938813
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE109503
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "GEO: GSE137525"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 방사아교세포 후손의 단일세포 시퀀싱이 성체 제브라피시 뇌에서 신생 신경세포의 다양성을 밝히다 (Single cell sequencing of radial glia progeny reveals the diversity of newborn neurons in the adult zebrafish brain)
@@ -49,6 +52,15 @@ Lange C, Rost F, Machate A, Reinhardt S, Lesche M, Weber A, Kuscha V, Dahl A, Ru
 본 연구는 제브라피시 전뇌에서 성체 신생 신경세포를 최초로 전향적으로 분리하고 단일세포 전사체적으로 특성화하여, 새로운 마커를 확립하고 RG 후손 간의 내재적 이질성을 밝힌다. 제브라피시와 포유류의 성체 신경발생 세포 유형 간에 입증된 상동성은, 손상이나 신경퇴행 후 포유류 뇌 복구의 핵심 장애물인 신경세포 생성과 통합을 이해하기 위한 모델로서 제브라피시를 뒷받침한다. 성체 종뇌에서 glutamatergic 투사 신경세포가 생성되며, 별개의 NBN 집단이 간뇌 vENT에 추가된다는 발견은 성체 신경발생의 지도를 확장한다.
 
 한계로는 시퀀싱된 세포 수가 비교적 적다는 점(QC 통과 264개, 특히 MN이 적음), 클론 추적이 아닌 단기 집단 수준 계통 추적에 대한 의존, 항상성(비손상) 전뇌에 국한된 분석 — 따라서 이 NBN 집단들이 재생 중 어떻게 행동하는지는 아직 검증되지 않았다 — 이 있다. 놀랍게도 큰 NBN 집단의 생물학적 역할과 그 통합 기전은 여전히 알려지지 않았다. 향후 방향으로는 이 프레임워크를 손상/재생 중인 뇌에 적용하고 식별된 마커를 조작하여 NBN 기능을 탐구하는 것이 포함된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE137525
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE104323
+
 
 ---
 

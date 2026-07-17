@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE106292, GSE107592, GSE11849, GSE11850"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Mapping molecular landmarks of human skeletal ontogeny and pluripotent stem cell-derived articular chondrocytes
@@ -113,6 +116,12 @@ ChromHMM으로 12개 chromatin state를 정의한 결과, 태아 연골세포에
 ## Perspective
 
 본 연구는 인간 근골격계 발생의 포괄적 전사체·후성유전체 자원을 최초로 제공하여, 연골 지정과 성숙 과정의 분자 랜드마크를 체계적으로 규명하였다. 배아 전연골세포가 근육, 신경, 골 계통 유전자를 점진적으로 침묵시키는 "progressive silencing" 과정을 거치며 연골 정체성을 확립함이 밝혀졌다. 인간과 마우스의 핵심 연골형성 유전자는 높게 보존되나, 증식 및 신호전달 차이가 재생 잠재력 차이의 기반이 될 수 있다. PSC 유래 연골세포의 전사체 가소성은 in vivo 연골 지정의 자연적 과정을 반영하며, d60 세포는 태아와 성인 사이의 발달 단계를 대표한다. ITGA4는 성인 관절 연골 내 기능적으로 다른 연골세포 아집단을 정의하는 핵심 마커로, ITGA4+BMPR1B+ 세포는 골연골 전구세포 특성과 증식 잠재력을 가져 연골 재생 및 조직 공학에 중요한 표적이 될 수 있다. Chromatin state 분석은 연골 유전자의 활성 히스톤 변형 축적과 타 계통 유전자의 억제 상태 획득이 연골 성숙과 동기화됨을 보여주어, 후성유전체 조절이 연골 세포 정체성 유지에 필수적임을 강조한다. 본 연구에서 생성된 유전자 모듈, chromatin state 맵, ITGA4 기반 연골세포 아집단 정보는 질환 모델링, 재생 의학, 조직 공학에 필수적인 비교 자원으로 활용될 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE106292, GSE107592, GSE11849, GSE11850
+
 
 ---
 

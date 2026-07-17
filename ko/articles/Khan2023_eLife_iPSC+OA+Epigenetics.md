@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE214987"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Differential chondrogenic differentiation between iPSC derived from healthy and OA cartilage is associated with changes in epigenetic regulation and metabolic transcriptomic signatures
@@ -67,6 +70,15 @@ Khan NM, Diaz-Hernandez ME, Chihab S, Priyadarshani P, Bhattaram P, Mortensen LJ
 - OA-iPSC는 OA 연골세포의 분자적 특성을 유지하여 OA 모델링에 유용하나, 연골 재생 치료에는 AC-iPSC가 더 적합함을 시사한다.
 - 후성유전적 조절자 및 에너지 대사 경로를 표적으로 하는 전략이 iPSC의 연골형성 분화 능력 향상에 효과적일 수 있다.
 - 향후 과제: (1) iPSC의 후성유전적 기억을 제거하는 방법 개발, (2) AC-iPSC의 연골 재생 치료 적용을 위한 대규모 전임상 연구, (3) OA-iPSC를 활용한 OA 질환 모델링 및 약물 스크리닝 플랫폼 구축.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE214987
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE114007
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE142849"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Spinal Cord Injury Induces Permanent Reprogramming of Microglia into a Disease-Associated State Which Contributes to Functional Recovery
@@ -49,6 +52,15 @@ Hakim R, Zachariadis V, Sankavaram SR, Han J, Harris RA, Brundin L, Enge M, Sven
 ## Perspective
 
 본 연구는 외상성 손상에서 DAM의 기원과 기능을 직접 규명하여, 항상성 미세아교세포가 SCI 이후 운동 회복을 촉진하는 이로운 DAM 유사 상태로 영구적으로 리프로그래밍됨을 보여준다. 이는 주로 만성 신경퇴행에서 연구되던 DAM을 급성 CNS 외상의 중요한 적응 반응으로 재조명하며, 인간 조직에서의 확인은 임상적 타당성을 뒷받침한다. 포괄적인 시간경과 데이터셋(0.5시간~90일)은 해당 분야의 자원이 된다. 한계로는 시점당 동물 풀링, 플레이트 기반 scRNA-seq의 깊이, 암컷 마우스만 사용, 제한된 인간 표본 수가 있다. 향후 DAM 프로그램을 치료적으로 표적하거나 증강하여 SCI 예후를 개선할 수 있을 것이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE142849
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE123022, GSE123024, GSE120744, GSE120745, GSE103334
+
 
 ---
 

@@ -4,6 +4,7 @@ extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Single-cell transcriptomic analysis identifies a highly replicating Cd168+ skeletal stem/progenitor cell population in mouse long bones
@@ -73,6 +74,12 @@ This study performed the first integrative scRNA-seq analysis encompassing the e
 The discovery of Cd168+ SSPCs presents a new SSPC population distinct from previously known bone marrow (Lepr+), sub-growth plate (Grem1+/PTHrP+), and periosteal (aSMA+/Ctsk+) SSPC populations. Their localization in the superficial zone of articular cartilage and the growth plate proliferative zone suggests potential roles in articular cartilage homeostasis and long bone growth regulation.
 
 Future challenges include (1) cell fate mapping and self-renewal capacity validation using Cd168-CreERT2 lineage tracing mouse models, (2) transplantation and differentiation functional analysis of FACS-sorted Cd168+ cells, (3) elucidation of Cd168+ SSPC roles in various pathological models (osteoarthritis, osteoporosis), and (4) characterization of the LBM2 limb bud mesenchymal population. This study suggests the potential of Cd168+ SSPCs as a novel cell therapy target for skeletal system diseases.
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE154247
+
 
 ---
 

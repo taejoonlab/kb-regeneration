@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p06.txt
+raw_data:
+  - "GEO: GSE74636"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # ChIP-seq analysis of genomic binding regions of five major transcription factors highlights a central role for ZIC2 in the mouse epiblast stem cell gene regulatory network
@@ -44,6 +47,12 @@ SOX2–POU5F1 쌍은 배아 줄기세포(ESC)의 핵심 조절 모듈로 잘 확
 
 ## Perspective
 본 연구는 효율적인 in vivo 비오틴화 ChIP-seq 절차를 제시하고 마우스 EpiSC의 다섯 핵심 TF에 대한 새로운 유전체 자원(GEO GSE74636)을 제공한다. 개념적으로는 primed 다능성 네트워크를 재정립한다: 주요 작용 TF 쌍이 SOX2/POU5F1(ESC)에서 ZIC2/OTX2(EpiSC)로 이동하면서도 유사한 유전자 집합을 조절하며, ZIC2는 ESC에서 위치를 미리 표지하여 이후 활성화에 대비시키는 인핸서 priming("pioneer"/"seed-enhancer") 인자로 작용한다. 신경 계통과의 관련성이 주목된다: SOX2, nestin(Nes30) 인핸서, ANP 표지자 Pax6가 두드러지게 등장하여 이 조절 논리를 신경판 특정화 및 신경 줄기/전구세포 priming과 연결한다. 한계로는 (거의 생리적이지만) 일시적 과발현에 의존한 점, anti-ZIC2 항체의 ZIC1/ZIC3 교차반응성, 그리고 대부분 결론이 기능적 교란이 아닌 상관적(ChIP/히스톤/발현) 성격이라는 점이 있다. 제기된 미해결 질문으로는 Mb 규모 교번 도메인 구성이 EpiSC 특이적인지, 그것이 고차 유전체 구조와 어떻게 연관되는지, 그리고 중간 상태인 EpiLC에서의 ZIC2/SOX2 결합 동역학이 포함된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE74636
+
 
 ---
 

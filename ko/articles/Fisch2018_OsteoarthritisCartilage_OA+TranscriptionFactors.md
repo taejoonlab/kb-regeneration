@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE114007"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Identification of transcription factors responsible for dysregulated networks in human osteoarthritis cartilage by global gene expression analysis
@@ -72,6 +75,12 @@ Fisch KM, Gamini R, Alvarez-Garcia O, Akagi R, Saito M, Muramatsu Y, Sasho T, Ko
 - PI3K-Akt, FoxO, HIF-1, circadian rhythm 경로의 교란은 연골 항상성 유지에 필수적인 기전의 붕괴를 의미하며, OA 진행의 분자적 기반을 제공한다.
 - 한계점: (1) 전장 유전체 프로모터 영역 분석으로 인핸서 및 기타 조절 영역 미포함, (2) 상대적으로 작은 샘플 크기, (3) TF와 표적 유전자의 인과관계는 추가 검증 필요.
 - 향후 과제: (1) 확인된 TF의 OA 연골세포에서 기능적 검증, (2) TF 네트워크를 표적으로 하는 약물 개발, (3) 더 큰 코호트를 통한 검증 연구.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE114007
+
 
 ---
 

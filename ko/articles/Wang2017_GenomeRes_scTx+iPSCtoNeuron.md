@@ -1,9 +1,13 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE102066"
+  - "SRA: SRP097299, PRJNA360884"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 단일세포 유전자 발현 분석이 발생 중인 인간 신경세포에서 구별되는 세포 하위집단의 조절자를 밝히다 (Single-cell gene expression analysis reveals regulators of distinct cell subpopulations among developing human neurons)
@@ -45,6 +49,13 @@ Wang J, Jenjaroenpun P, Bhinge A, Espinosa Angarica V, Del Sol A, Nookaew I, Kuz
 
 ## Perspective
 본 연구는 매끄러운 궤적 방법이 가리는 드물고 일과성인 하위집단(1일 "c" 계통)을 포착하면서 연속적·불연속적 발생 과정을 모두 분해하는, scRNA-seq 시간 경과 분석을 위한 실험적·계산적 프레임워크를 제공한다. 하위집단 특이 동역학을 기능적 검증과 결합함으로써, POU3F2, PBX1, MIAT를 후뇌/척수 신경세포 분화의 중요한 초기 조절자로 식별한다. 척수 생물학과의 관련성은 인간 후뇌/척수 신경발생의 in vitro 모델(HOX+ 신경세포)을 사용한 데 있으며, 발생 중인 척수 신경세포에 대한 후보 조절자와 마커를 제공한다. 저자들이 언급한 한계로는 보수적인 하위집단 판정(실제로는 두 개 이상의 하위집단이 존재할 가능성), 시점당 제한된 세포 수, 녹다운 시 관찰된 계통 이동의 부재 — 계통 분기 예측을 검증하려면 엄격하게 통제되고 시간적으로 분해된 교란이 필요함을 나타냄 — 이 있다. 이 접근은 다른 발생 또는 자극 반응 과정에도 일반화할 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE102066
+- SRA: SRP097299, PRJNA360884
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "GEO: GSE134707"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Cross-Species Single-Cell Analysis Reveals Divergence of the Primate Microglia Program
@@ -43,6 +46,15 @@ Geirsdottir L, David E, Keren-Shaul H, Weiner A, Bohlen SC, Neuber J, Balic A, G
 
 ## Perspective
 본 연구는 보존·발산 microglia 경로에 대한 필수적 범진화 자원을 제공하며, 인간 microglia가 고유하게 이질적이고 주요 신경퇴행 연관 유전자가 설치류와 영장류 사이에서 발산함을 강조한다. 이는 신경퇴행 연구에서 설치류 모델의 한계와 향후 인간 microglia 기반 면역치료 개발에 중요한 함의를 가진다. 데이터는 인터랙티브 웹 도구로 접근 가능하다. 한계로는 종간 유전자 매칭에 ortholog conjecture 의존, 유전체 품질 제약으로 심층 전사체 분석이 8개 종에 국한, 그리고 발산 경로들이 기능적 검증을 기다리는 서술적(자원) 성격이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE134707
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE63341
+
 
 ---
 

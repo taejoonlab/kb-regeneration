@@ -4,6 +4,7 @@ extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Probing the communication patterns of different chondrocyte subtypes in osteoarthritis at the single cell level using pattern recognition and manifold learning
@@ -90,6 +91,12 @@ Third, COLLAGEN and LAMININ pathways were identified as core pathways in chondro
 Fourth, the pattern recognition and manifold learning-based approach presents a new research paradigm for single-cell communication analysis. This method can be applied to rapidly target dominant cell populations (ProCs, preHTCs) for selection as cell therapy替代 cells or to develop related inhibitors for blocking OA-related communication as a therapeutic strategy.
 
 Future directions include validation in larger OA patient cohorts (including disease grading information), integrated analysis of chondrocyte spatial distribution and communication patterns using single-cell spatial transcriptomics and spatial proteomics technologies, and actual isolation of identified subpopulations by FACS/sorting and optimization for cell therapy application.
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE104782, GSE160625
+
 
 ---
 

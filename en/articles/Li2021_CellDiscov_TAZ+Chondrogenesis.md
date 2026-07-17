@@ -4,6 +4,7 @@ extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # TAZ is required for chondrogenesis and skeletal development
@@ -107,6 +108,12 @@ Callus formation was severely impaired 2 weeks post-fracture in Col2-Cre;TAZf/f 
 ## Perspective
 
 This study is the first to demonstrate that TAZ is essential for chondrocyte proliferation, differentiation, maturation, and skeletal development. TAZ promotes chondroprogenitor cell proliferation by regulating Sox5 expression and stability in cooperation with TEAD1, and promotes chondrocyte maturation by binding to Runx2 to induce Col10a1 expression. TAZ deficiency leads to impaired growth plate development, articular cartilage damage, reduced bone mass, and impaired fracture healing, progressing to a spontaneous OA-like phenotype. Although both YAP and TAZ are Hippo pathway effectors, they exhibit opposite expression patterns during chondrocyte differentiation: YAP decreases while TAZ increases. Furthermore, TAZ deficiency downregulates Col10a1 and Mmp13, whereas YAP deficiency upregulates them. The different expression patterns of Col10a1 and Mmp13 at 1 month versus 4 months suggest a complex relationship between cartilage development and OA pathology. TAZ holds potential as a therapeutic target for bone and cartilage diseases such as fracture healing, heterotopic ossification, and OA, and further research is needed to understand how the Hippo-YAP/TAZ pathway precisely regulates chondrocyte, osteoblast, and adipocyte lineages.
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE3013832, GSE30318
+
 
 ---
 

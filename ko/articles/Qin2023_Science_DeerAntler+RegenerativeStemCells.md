@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "SRA: PRJNA831044"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A population of stem cells with strong regenerative potential discovered in deer antlers
@@ -84,6 +87,12 @@ CX43+FGFR2+ 세포의 신장 피막하 이식 8주 후 BMSC 대비 유의하게 
 넷째, 인간 중간엽세포를 ABPC 유사 세포로 전환하는 기술은 향후 사지 재생이나 골격 손상 재생의학에 혁신적 가능성을 열어줄 수 있다.
 
 향후 과제로는 ABPC의 분자 조절 기전 심층 규명, 이종이식에 따른 면역 거부 및 안전성 문제 해결, 윤리적·법적 고려사항 검토가 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA831044
+
 
 ---
 

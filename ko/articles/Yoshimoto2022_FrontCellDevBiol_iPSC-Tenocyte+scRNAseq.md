@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+raw_data:
+  - "GEO: GSE168451"
 log:
   - "2026-06-07 · create · qwen3.6-plus (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Tenogenic Induction From Induced Pluripotent Stem Cells Unveils the Trajectory Towards Tenocyte Differentiation
@@ -40,6 +43,12 @@ Yoshimoto Y, Uezumi A, Ikemoto-Uezumi M, Tanaka K, Yu X, Kurosawa T, Yambe S, Ma
 
 ## Perspective
 본 연구는 높은 건 마커 발현을 보이는 성숙 건세포를 생성하는 간소화된 TGF-β2 기반 iPSC 유래 건형성 분화 시스템을 확립하여, 이전 방법보다 간단성과 효율성에서 우수함을 입증하였다. TGF-β 신호 전달에 의해 조절되는 건형성과 연골형성 간의 역상관계는 TGF-β가 건형성 분화를 촉진하면서 연골형성 전환을 억제하는 운명 결정 기전을 밝힌다. scRNA-seq 아틀라스는 건형성 분화 궤적에 대한 포괄적인 시각을 제공하며, 주요 과도기 집단을 동정한다. RA 신호 전달이 건형성 분화를 억제한다는 발견은 새로운 조절 경로를 밝혀, RA 조절이 건세포 생산 향상에 사용될 수 있음을 시사한다. 이러한 결과는 건/인대 조직 공학의 기반을 제공하고 건형성 계통 지정의 발달 생물학에 대한 통찰을 제공한다. 향후 연구에서는 유도된 건세포의 이질성을 해결하고 치료 응용을 위한 균일한 성숙 건세포 집단 생성 조건을 최적화해야 한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE168451
+
 
 ---
 

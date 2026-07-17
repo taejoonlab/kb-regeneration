@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE100320"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-Cell Transcriptomics and Fate Mapping of Ependymal Cells Reveals an Absence of Neural Stem Cell Function
@@ -46,6 +49,12 @@ Shah PT, Stratton JA, Stykel MG, Abbasi S, Sharma S, Mayr KA, Koblinger K, Whela
 ## Perspective
 
 NSC 계통을 엄격히 배제하는 표지 전략을 이용해, 본 연구는 성체 V-SVZ 상의세포가 잠재적 NSC가 아니라 매우 안정적이고 비신경생성적인 세포임을 강력히 뒷받침하며, 상의세포 오염 표지로 혼란되었을 가능성이 큰 이전 주장들(예: Luo et al., 2015; Carlén et al., 2009)에 정면으로 반박한다. 니치의 신경생성 잠재력은 GFAP+ type B 세포에 있음을 명확히 하고 상의구획의 깨끗한 분자 시그니처를 정의했다. 한계로는 상의세포의 약 71%만 표지하는 단일(aSMA) 드라이버에 의존한 점(표지를 피한 희소 집단 가능성 잔존)과, 재생/신경생성 양상이 다를 수 있는 척수 상의세포가 아닌 뇌 V-SVZ에 초점을 둔 점이 있다. 이 결과는 뇌 상의세포를 줄기세포로 각성시키려는 치료 전략에 신중을 기할 것을 시사한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE100320
+
 
 ---
 

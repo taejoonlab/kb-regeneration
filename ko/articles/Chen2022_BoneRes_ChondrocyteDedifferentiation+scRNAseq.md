@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE193742, GSE193743, GSE193744"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A high-resolution route map reveals distinct stages of chondrocyte dedifferentiation for cartilage regeneration
@@ -81,6 +84,15 @@ Chen Y, Yu Y, Wen Y, et al. A high-resolution route map reveals distinct stages 
 특히 BTB06584를 이용한 화학적 조작이 초기 탈분화 연골세포의 표현형을 효과적으로 회복시킨 반면 후기 탈분화 세포에는 효과가 미미했으며, 이는 임상에서 적절한 시기의 연골세포 품질 평가와 중재 전략 수립이 중요함을 시사한다. 또한 이미지 기반 바이오마커 예측 시스템은 임상 적용을 위한 실용적 도구로서, ACI에 사용될 연골세포 품질을 사전에 평가할 수 있는 가능성을 제시했다.
 
 향후 과제로는 초기 탈분화 단계에서 당분해 대사 리프로그래밍의 상세 조절 기전 규명, 후기 탈분화의 비가역성을 결정하는 염색질 리모델링의 후성유전학적 메커니즘 심층 연구, 그리고 이미지 기반 예측 시스템의 대규모 임상 검증이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE193742, GSE193743, GSE193744
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE118236
+
 
 ---
 

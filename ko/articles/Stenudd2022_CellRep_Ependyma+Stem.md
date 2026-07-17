@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "GEO: GSE192824"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Identification of a discrete subpopulation of spinal cord ependymal cells with neural stem cell properties
@@ -48,6 +51,12 @@ Stenudd M, Sabelström H, Llorens-Bobadilla E, Zamboni M, Blom H, Brismar H, Zha
 ## Perspective
 
 본 연구는 EpA 세포를 성체 척수의 별개의 잠재적 줄기세포 집단으로 규명한다. 이는 고도로 분화된 상의세포로서, 손상 후 역분화(상의 프로그램 상실, signaling entropy 획득)를 거쳐 성상세포와 희소돌기아교세포를 생성하는 자가재생·다능성 줄기세포 유사 상태가 된다. 이는 뇌졸중 후 실질 성상세포의 손상 유도 신경생성 재프로그래밍 및 하등 척추동물에서 관찰되는 교세포 주도 CNS 재생과 유사하여, 포유류 교세포에 진화적으로 보존되었으나 제한된 잠재력이 있음을 시사한다. 희소한(약 0.1%) 표적 가능 세포 집단의 정의는 척수 복구를 위한 재생 치료의 합리적 표적을 제공한다. 저자들이 인정한 한계: 생체 내 단일세포 수준의 다능성은 입증되지 않았으며(희소하고 느린 희소돌기아교세포 생성을 고려할 때 더 큰 클론 분석과 더 긴 손상 후 기간 필요), EpA 세포에 줄기세포 잠재력을 부여하며 다른 상의세포와 구별하는 분자적 기반은 여전히 불명확하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE192824
+
 
 ---
 

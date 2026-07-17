@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE144637"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A new neutrophil subset promotes CNS neuron survival and axon regeneration
@@ -49,6 +52,12 @@ Sas AR, Carbajal KS, Jerome AD, Menon R, Yoon C, Kalinski AL, Giger RJ, Segal BM
 ## Perspective
 
 본 연구는 이전에 규명되지 않았던 미성숙, 대안적 활성화 호중구 아집단을 CNS 신경보호 및 축삭 재생의 구동인자로 정의하고, 그 작용이 부분적으로 NGF와 IGF-1 분비를 통하며 CNS 여러 구획(시신경과 척수)에 일반화됨을 보였다. 인간 미성숙 호중구 유사 세포주도 유사한 능력을 보인 것으로 보고되어 신경복구 면역치료로의 임상 전환 가능성을 시사한다. 한계로는 zymosan/ONC 패러다임과 약리학적 CXCR2 차단에 의존해 아집단을 확장한 점, 분비 인자 전체 목록의 불완전한 규명, 치료용 세포를 충분히 확보하기 어려운 점 등이 있다. 향후 이 세포의 발생 경로 규명, 임상적으로 관련된 SCI 상황에서의 검증, 인간 세포 공급원 탐색이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE144637
+
 
 ---
 

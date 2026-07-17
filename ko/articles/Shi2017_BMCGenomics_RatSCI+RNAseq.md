@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "SRA: PRJNA318311"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Transcriptome profile of rat genes in injured spinal cord at different stages by RNA-sequencing (RNA 시퀀싱을 통한 손상 시기별 쥐 척수 유전자 전사체 프로파일)
@@ -51,6 +54,12 @@ Shi LL, Zhang N, Xie XM, Chen YJ, Wang R, Shen L, Zhou JS, Hu JG, Lü HZ. Transc
 - **의의**: 급성·아급성·만성 단계에 걸친 쥐 SCI의 체계적·시간분해 전장 RNA-Seq 특성화를 제공하여, 알려진 병리 유전자를 확인하고 다수의 신규 후보 유전자·경로(예: 리보솜 생합성, 역행성 엔도카나비노이드, 옥시토신, Rap1 신호)를 향후 기전·치료 연구의 기반으로 제안.
 - **한계**: 신규 후보에 대한 기능적 검증이 없는 서술적·상관적 생물정보학 연구이며, 표본 크기가 작고(그룹당 n = 3) 초기 사망률이 높음; 종·방법 차이로 기존 마우스/마이크로어레이 데이터와의 직접 비교가 제한됨.
 - **향후 방향**: 새롭게 지목된 유전자·경로의 SCI 진행 및 재생에서의 기능적 규명; 인간과 유사한 병리를 지닌 쥐 모델을 활용한 기전·치료 개발.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA318311
+
 
 ---
 

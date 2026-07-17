@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "SRA: SRP104620"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Sex-Specific Features of Microglia from Adult Mice
@@ -50,6 +53,12 @@ Villa A, Gelosa P, Castiglioni L, Cimino M, Rizzi N, Pepe G, Lolli F, Marcello E
 ## Perspective
 
 본 연구는 마우스 미세아교세포가 세포 자율적으로 성적으로 분화되어 있으며, 그 차이가 배양과 교차 성 이식 후에도 유지되고 성체의 순환 호르몬 환경과 대체로 무관함을 밝혔다. 이는 지속적 활성화(activational) 호르몬 효과가 아니라 주산기 조직화(organizational) 프로그래밍(뉴런 뇌 남성화와 유사)이 미세아교세포 성을 결정함을 시사한다. 기능적으로 암컷 미세아교세포는 수컷 뇌 안에서도 허혈 손상을 제한하여, 뇌졸중의 감수성과 예후에서 잘 알려진 성별 편향, 나아가 신경염증성 질환에 대한 성별 취약성의 기전적 근거를 제공한다. 이는 신경염증을 표적으로 하는 치료를 설계할 때 미세아교세포의 성을 고려해야 함을 시사한다. 한계로는 마우스 모델 의존, 소규모 풀링 RNA-seq 설계, 성적 분화의 정확한 (유전체/후성유전적) 기전 미해결, 국소 아로마테이스 유래 에스트로겐 효과를 완전히 배제하지 못한 점, 그리고 상주 암컷 미세아교세포의 완충 가능성으로 수컷→암컷 이식 결과가 덜 명확했던 점 등이 있다. 향후 미세아교세포 성의 후성유전적 기반과 인간 질환에서의 관련성 연구가 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: SRP104620
+
 
 ---
 

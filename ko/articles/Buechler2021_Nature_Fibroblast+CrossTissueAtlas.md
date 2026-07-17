@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, Fibroblast]
+tags: [2026-07, Fibroblast, RawDataAvailable]
 extract: 2026-07-17
 extract_file: extract/2026-07-17_p02.txt
+raw_data:
+  - "ArrayExpress: E-MTAB-10324, E-MTAB-10316, E-MTAB-10315"
 log:
   - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Cross-tissue organization of the fibroblast lineage
@@ -78,6 +81,15 @@ Buechler MB, Pradhan RN, Krishnamurty AT, Cox C, Karabacak Calviello A, Wang AW,
 셋째, 마우스-인간 보존성과 인간 질환 상동체 패널은 마우스 교란 상태 지도를 인간 섬유아세포 아형 해석의 참조로 만들며, 고유한 COVID-19 COL3A1+ myofibroblast는 적응증 특이적 또는 신호 지속시간 차이가 여전히 종·질환 특이적 상태를 생성할 수 있음을 부각한다.
 
 저자들이 제기하는 미해결 과제로는 아형 간 공간적 동태, 왜 2개의 universal 아형이 존재하는가(노동 분업 가능성), 그리고 어떤 니치나 면역 신호가 특수화 및 활성화를 유도하는가가 있으며, 각각 병원성 섬유아세포 상태의 치료적 표적화를 위한 발판이 된다.
+
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ArrayExpress: E-MTAB-10324, E-MTAB-10316, E-MTAB-10315
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE93326
 
 
 ---

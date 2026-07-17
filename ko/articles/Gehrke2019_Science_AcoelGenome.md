@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "SRA: PRJNA512373, PRJNA515075"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Acoel genome reveals the regulatory landscape of whole-body regeneration
@@ -44,6 +47,12 @@ Gehrke AR, Neverett E, Luo YJ, Brandt A, Ricci L, Hulett RE, Gompers A, Ruby JG,
 
 ## Perspective
 본 연구는 몸 전체 재생을 개시하는 최초의 크로마틴 수준 유전자 조절 네트워크를 확립하고, Egr를 마스터 조절 유전자로 작동하는 pioneer factor 후보로 규명한다. 재생을 에피게놈 관점에서 봄으로써, 전장 크로마틴 접근성 + 기능적 RNAi 접근법은 원연관 동물 간 재생 경로 비교의 틀을 제공하며 다른 모델 및 신흥 시스템으로 확장 가능하다. 편형동물·불가사리·척추동물에서의 EGR 제어 네트워크 보존성은 이 재생 네트워크가 조상 수준에서 보존된 것인지 수렴 진화한 것인지의 미해결 질문을 제기한다. 지식베이스 관련성: Egr/neuregulin 상동유전자는 척추동물 신경 재생 및 axolotl 사지 재생에 관여하여, 이 무척추동물 조절 논리를 CNS/부속지 재생과 연결한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA512373, PRJNA515075
+
 
 ---
 

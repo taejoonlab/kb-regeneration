@@ -4,6 +4,7 @@ extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Mapping single-cell atlases throughout Metazoa unravels cell type evolution
@@ -47,6 +48,12 @@ Tarashansky AJ, Musser JM, Khariton M, Li P, Arendt D, Quake SR, Wang B. Mapping
 SAMap은 유전자와 세포를 상호 강화 방식으로 함께 매핑하여 유전자 진화의 복잡성을 반영하면서 세포유형 진화사를 추적하는 로드맵을 제공한다. 결과는 세포유형이 조상의 조절 프로그램을 공유하는 패밀리로 계층적으로 분화하며, 종분화 이후 추가 분화가 없을 때만 일대일 상동성이 유지된다는 견해를 뒷받침한다. 파라로그 치환의 체계적 검출은 세포유형의 분자진화에 대한 새로운 관점을 제시한다. 실용적으로는 비모델 생물 아틀라스의 주석을 가속할 수 있어 플라나리아·히드라·해면 등 재생 연구에 크게 관련된다.
 
 한계: 가장 메모리 집약적인 단계(이웃 조대화, 종간 발현 대치)는 수백만 세포 데이터셋에서는 비현실적일 수 있어, 현재는 청킹(runtime 증가 감수)이나 다운샘플링으로 완화한다. 분석은 대체로 쌍별이며, 명시적 계통을 포함한 다종 통합은 향후 방향으로 조밀한 분지군 표본을 요한다. 소스 코드는 GitHub(atarashansky/SAMap)에 공개.
+
+## 데이터 이용 가능성
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE134912, GSE121617, GSE111764, GSE107873
+
 
 ---
 

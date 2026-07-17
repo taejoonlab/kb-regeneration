@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "SRA: SRP135960"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Molecular Architecture of the Mouse Nervous System
@@ -52,6 +55,12 @@ Zeisel A, Hochgerner H, Lönnerberg P, Johnsson A, Memic F, van der Zwan J, Här
 이 Resource는 포유류 신경계의 분자 구조 이해를 위한 토대를 마련하여, 약 50만 개 세포의 참조 아틀라스와 특정 세포 유형의 유전적 표적화를 가능하게 하는 데이터 기반 분류체계를 제공한다. 핵심 개념적 기여는 서로 다른 세포 클래스가 정체성 질문에 다르게 답한다는 점이다: 성상세포는 강한 발생적/영역적 각인을 유지(7개 영역 제한 유형)하는 반면, 희소돌기아교세포는 영역 정체성을 대부분 지우고 성숙 상태로 다양화하며, 뉴런 다양성은 주로 발생 해부학적 단위와 신경전달물질 사용에 의해 패턴화된다. 척수와 PNS를 포함하여 CNS/척수 세포 유형 및 신경교 생물학 연구에 직접적으로 관련된다.
 
 한계로는 여러 영역의 누락(망막, 후각상피, 서골비기관, 내이, 부교감신경절), 희소돌기아교세포의 의도적 다운샘플링, 클러스터 내 잔여 이질성을 남기는 보수적 클러스터링, 대규모 방울 scRNA-seq에 내재된 기술적 아티팩트가 있다. 향후 연구는 클러스터 내 아형 정교화, 공간적·발생 시계열 데이터 추가, 타 종으로의 분류체계 확장이 가능하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: SRP135960
+
 
 ---
 

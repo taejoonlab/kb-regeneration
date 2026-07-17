@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "GEO: GSE282555"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Specialized signaling centers direct cell fate and spatial organization in a mesodermal organoid model
@@ -57,6 +60,12 @@ Skoufa E, Zhong J, Hu K, Kahre O, Tsissios G, Carrau L, Herrera A, Dominguez Man
 신호 중심은 발생과 재생(예: 사지/부속지 재생)을 모두 조율하므로, budoid 시스템은 모르포겐 구배에 의한 세포 운명·패턴 조절을 연구하는 재생생물학의 다루기 쉬운 모델로서 의의가 있다. 실험당 수천 개의 budoid를 생성할 수 있는 처리량은 배아에서는 불가능한 통계적 견고성과 조합적 교란 실험을 가능케 한다.
 
 저자들이 인정한 한계: 외배엽 세포가 3D에서 과소대표되고 유지가 어려워 최적화가 필요하며, budoid 세포유형은 주석 불일치와 단일세포 포획 편향에 부분적으로 기인하는 혼합 발생단계 프로파일을 보이고, Hox 활성화가 3D에서만 나타나는 이유가 불명확하며, budoid는 사지싹과 동등하지 않고 특정 측면(중배엽-연골 분화, AER 매개 신호)만 재현하는 단순화 모델이다. 사지 형태형성 이해에는 생체 연구가 여전히 표준이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE282555
+
 
 ---
 

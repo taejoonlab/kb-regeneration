@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE234876"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 도마뱀 재생아(blastema) 섬유아세포의 단일세포 분석이 식세포 의존적 Hedgehog 반응성 연골형성 활성화를 밝히다 (Single-cell analysis of lizard blastema fibroblasts reveals phagocyte-dependent activation of Hedgehog-responsive chondrogenesis)
@@ -49,6 +52,12 @@ Vonk AC, Zhao X, Pan Z, Hudnall ML, Oakes CG, Lopez GA, Hasel-Kolossa SC, Kuncz 
 ## Perspective
 
 본 연구는 spp1+ 손상 활성화 FCTC가 척수를 둘러싸는 재생된 도마뱀 꼬리 연골 관의 공급원인 sulf1+, Hedgehog 반응성, 연골형성 촉진 집단을 생성하는 식세포-대-섬유아세포 신호전달 위계를 정의한다. 꼬리 재생아를 비재생성 사지 섬유아세포와 대조함으로써, 재생아 특이 능력을 일반적 상처 치유와 분리하고, sulf1과 식세포 유래 신호를 덜 재생성인 종에서 재생을 유도하기 위한 실행 가능한 표적으로 식별한다. 한계로는 정의된 분자 효과기가 아닌 약리학적 Hh 조절과 조건배지에 대한 의존, 그리고 계통 추론의 유사시간/상관적 특성이 있다. 포유류와 유사한 면역과 중심 척수 관련 연골 재생을 지닌 양막류 모델로서, 도마뱀은 CNS 인접 부속지 재생 연구에 번역적으로 관련된 가교를 제공한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE234876
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "PRIDE/ProteomeXchange: PXD006753"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A systems pharmacology-based approach to identify novel Kv1.3 channel-dependent mechanisms in microglial activation
@@ -47,6 +50,12 @@ Rangaraju S, Raza SA, Pennati A, Deng Q, Dammer EB, Duong D, Pennington MW, Tans
 본 연구는 pro-inflammatory 활성화에서 microglial Kv1.3 채널의 기존에 알려지지 않은 분자·기능적 역할을 확립했으며, 특히 Kv1.3 기능을 MHCI 조립/수송 및 CD8+ T세포 지향 항원제시와 연결하고, 초기 STAT1 S727 인산화를 통해 Kv1.3를 CD14/TLR 복합체와 연결했다. 이는 임상 단계의 ShK 유사체(dalazatide/ShK-186 등)로 표적화되는 microglial Kv1.3의 치료 후보성을 강화하며, Kv1.3 차단이 신경염증·신경퇴행 질환에서 활성 microglia의 적응면역 촉진 기능을 선택적으로 완화할 수 있음을 시사한다. microglial 활성화와 신경염증이 중심인 CNS 손상 및 회복(척수 손상 포함) 맥락에서 Kv1.3 선택적 면역조절은 기전적으로 정의된 개입 지점이 된다.
 
 저자들이 인정한 한계로는 주 프로테오믹스 스크린이 BV2 세포주에 의존한 점(일차 microglia 검증으로 부분 보완), 프로테옴 깊이의 제약(약 3141개 단백질; 분비 사이토카인 다수 누락 가능), 단일 활성화 자극(TLR에 다면적으로 작용하는 LPS) 사용, 그리고 제한된 BBB 투과성을 고려할 때 전신 투여된 ShK 펩타이드가 CNS에서 직접 작용하는지 말초 매개체를 통하는지에 대한 불확실성이 있다. 향후 방향으로는 GABPA를 통한 미토콘드리아 생합성에서의 Kv1.3 역할 규명과 말초 투여 Kv1.3 차단제의 작용 부위 명확화가 포함된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- PRIDE/ProteomeXchange: PXD006753
+
 
 ---
 

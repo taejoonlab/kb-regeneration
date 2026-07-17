@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "DDBJ: DRA009253, DRA015181"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Regeneration factors expressed on myeloid expression in macrophage-like cells is required for tail regeneration in Xenopus laevis tadpoles
@@ -48,6 +51,12 @@ Xenopus laevis 올챙이는 꼬리 절단 후 약 1주 이내에 근육, 척삭(
 
 ## Perspective
 이 연구는 rfem.L과 rfem.S를 Xenopus 꼬리 재생에 필요한 신규 유전자로 규명하고, 대식세포 유사(수복성 골수계, reparative myeloid) 세포에서의 이들 발현이 재생 촉진 기능에 필수적임을 보였다. 백혈구는 재생을 촉진(수복성)하기도 하고 저해(염증성)하기도 하므로, rfem 발현 대식세포 유사 집단은 기존에 기술된 수복성 골수계 세포의 (하위)집단을 정의하며, 골수계 세포가 재생 능력을 부여하는 방식에 대한 분자적 단서를 제공한다. Xenopus 꼬리는 근육·척삭과 함께 척수를 재생하므로, 이 결과는 CNS/부속지 재생에 대한 면역세포의 기여를 이해하는 데 관련성이 있다. 저자들이 언급한 한계로는 Rfem 단백질의 세포내·미특성화 성질(서열로 기능 예측 불가), 모자이크 CRISPR crispant 사용, paralog 특이적 프라이머 설계의 어려움(두 paralog를 함께 정량), 말초혈액세포에서 KO score와 재생 간 상관을 검출하지 못한 점(rfem 발현 백혈구 비율이 작기 때문으로 추정), 그리고 어류·설치류에 오솔로그가 없어 직접적 번역이 제한될 수 있는 점이 있다. 저자들은 rfem.L/rfem.S가 백혈구에 재생 능력을 부여하는 세포·분자 기전의 단서가 될 것으로 제안한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- DDBJ: DRA009253, DRA015181
+
 
 ---
 

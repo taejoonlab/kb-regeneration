@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE103892"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Massively Parallel Single Nucleus Transcriptional Profiling Defines Spinal Cord Neurons and Their Activity during Behavior
@@ -49,6 +52,12 @@ Sathyamurthy A, Johnson KR, Matson KJE, Dobrott CI, Li L, Ryba AR, Bergman TB, K
 본 연구는 성체 마우스 요추 척수 신경세포 집단 43개의 아틀라스를 확립하여, 수십 년간의 단일 마커 연구를 통합하고 이전에 알려지지 않은 세포 유형을 포함하는 세포 프레임워크를 제공한다. 함께 제공되는 클러스터별 유전자 발현 검색 가능 데이터베이스는 기능적 이질성의 분자적 기반을 탐구하는 자원이 된다. 개념적으로, 이 연구는 배측(뚜렷하고 성체 마커로 정의됨)과 복측(중첩되며 발생 과정에서 정의됨) 신경세포 정체성 사이의 서로 다른 조직 원리를 밝혀냈다. snRNA-seq를 행동과 결합함으로써, 저자들은 활성 유도 전사를 특정 분자적으로 정의된 세포 유형에 지도화하는 비편향적 방법을 입증하였다.
 
 세 가지 한계가 언급되었다: (1) 일부 다른 방법보다 핵당 검출된 유전자 수가 적었으나 클러스터링에는 충분하였다; (2) 요추 척수만 특성화되어 다른 분절 수준은 아직 프로파일링되지 않았다; (3) 활성 프로파일링은 역치 이상의 전사 반응만 검출하므로 음성 결과는 신중히 해석해야 한다. 핵은 냉동 및 인간 바이오뱅크 조직에서 쉽게 얻을 수 있으므로, 이 접근법은 질병, 손상, 퇴행, 염증 및 인간 생물학 연구로 확장될 수 있으며, 단일 핵 유전자 발현을 회로 및 시스템 수준의 기능과 연결한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE103892
+
 
 ---
 

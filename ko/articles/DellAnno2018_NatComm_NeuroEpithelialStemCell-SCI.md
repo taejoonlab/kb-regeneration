@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "GEO: GSE107514"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Human neuroepithelial stem cell regional specificity enables spinal cord repair through a relay circuit
@@ -45,6 +48,12 @@ Dell'Anno MT, Wang X, Onorati M, Li M, Talpo F, Sekine Y, Ma S, Liu F, Cafferty 
 
 ## Perspective
 본 연구는 신경줄기세포 이식편이 단순 지지체나 영양인자 공급원으로서가 아니라, 병변 위쪽 보존된 상위척수 입력과 아래쪽 탈신경 표적을 재연결하는 신경 릴레이를 형성함으로써 기능을 회복시킨다는 직접적 기전 증거를 제시한다. 이식편의 지역적 정체성을 손상 부위에 해부학적으로 일치시켜야 한다는 원칙은 세포 기반 척수 손상 치료의 핵심 번역 원리이다. 한계로는 완만한 운동 회복 정도, 면역결핍 마우스 사용, 설치류 숙주에서 인간 축삭 미엘린화 부재, 잔존 증식 세포 및 이소성 세포의 존재, 인간 배아 사후 조직 의존 등이 있다. 향후 릴레이 효율 향상, 지역적 정체성의 분자적 결정인자 규명, 임상 적용을 위한 확장 가능하고 윤리적으로 실현 가능한 SC-NES 세포 공급원 개발이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE107514
+
 
 ---
 

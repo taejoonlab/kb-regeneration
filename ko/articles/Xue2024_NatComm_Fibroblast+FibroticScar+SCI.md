@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE218584, GSE228032"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Heterogeneous fibroblasts contribute to fibrotic scar formation after spinal cord injury in mice and monkeys
@@ -52,6 +55,12 @@ Xue X, Wu X, Fan Y, Han S, Zhang H, Sun Y, Yin Y, Yin M, Chen B, Sun Z, Zhao S, 
 본 연구는 엄격한 다계통 계통 추적과 종간 scRNA-seq를 결합하여, 척수 섬유성 반흔이 관통성·비관통성 손상 모두에서 주위세포/vSMC가 아니라 PDGFRβ+ 수막 및 혈관주위 섬유아세포에서 주로 유래함을 보여 오랜 논란을 해소하였다. 또한 공간적·기능적으로 뚜렷이 구분되는 두 반흔 섬유아세포 아형(콜레스테롤 합성/콜라겐 침착의 CE-F, 지질 수송/혈관신생의 LA-F)을 규정하여, 섬유성 반흔을 완전히 제거하기보다 선택적으로 재구성함으로써 축삭 재생과 기능 회복을 향상시키는 틀을 제시한다.
 
 한계로는 Myh11+/NG2+ 계통이 모든 주위세포를 표지하지 못하므로 소수의 주위세포-근섬유아세포 기여를 완전히 배제할 수 없다는 점과, CNS 주위세포 이질성이 아직 충분히 규명되지 않았다는 점을 저자들이 인정한다. 향후에는 CE-F와 LA-F의 아형 특이적 제거 또는 조절을 통해 손상 미세환경과 회복에 대한 차별적 영향을 규명해야 한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE218584, GSE228032
+
 
 ---
 

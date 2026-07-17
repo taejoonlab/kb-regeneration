@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "GEO: GSE45376"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # RNA-Seq Characterization of Spinal Cord Injury Transcriptome in Acute/Subacute Phases: A Resource for Understanding the Pathology at the Systems Level
@@ -48,6 +51,15 @@ Chen K, Deng S, Lu H, Zheng Y, Yang G, Kim D, Cao Q, Wu JQ. RNA-Seq Characteriza
 ## Perspective
 
 본 연구는 급성기 및 아급성기 마우스 타박상 SCI의 게놈 전반, 시스템 수준 참조 전사체를 제공하며, RNA-Seq이 마이크로어레이를 능가하고 약물 특이성에 유용한 이형체 수준 해상도를 추가함을 입증한다. 차등발현, 네트워크 연결성, 세포 위치, 약물유전체를 결합한 시스템 기반 우선순위화 틀은 알려진 SCI 유전자를 성공적으로 회복하고 새로운 후보(예: Cd36, Lpl, C3ar1, Msr1)와 경로(LXR/RXR, 죽상경화증 신호전달)를 기능 검증 대상으로 제안한다. 한계로는 혼합 세포유형의 전조직 프로파일링(세포유형 귀속 제한), 손상 후 단 두 시점, 풀링된 생물학적 반복, 알려진 전사체로의 분석 제한이 있다. 데이터셋과 틀은 가설 생성 자원으로 제공되며, 저자들은 이차 손상 감소 및 재생 촉진을 위한 새로운 기전과 치료 표적을 규명하기 위해 우선순위 유전자를 동물 모델에서 검증할 계획을 언급한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE45376
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE5296
+
 
 ---
 

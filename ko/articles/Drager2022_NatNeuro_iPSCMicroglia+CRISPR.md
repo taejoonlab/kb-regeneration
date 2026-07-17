@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "GEO: GSE178317"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A CRISPRi/a platform in human iPSC-derived microglia uncovers regulators of disease states
@@ -49,6 +52,12 @@ CRISPR 기반 기능유전체학(pooled CRISPR 간섭 CRISPRi, CRISPR 활성화 
 본 연구는 이 세포 유형에서 CRISPR 스크리닝의 기존 장벽을 극복한, 확장 가능하고 신속하며 유전적으로 조작 가능한 인간 iPSC-미세아교세포 플랫폼을 확립했다. pooled 손실·획득 기능 스크린을 단일세포 판독과 결합함으로써, 유전자 교란을 미세아교세포 생존·활성화·식균작용 및 무엇보다 개별 질환 관련 전사 상태에 체계적으로 연결했다. 특히 CSF1R 억제로 고갈되는 SPP1+ 상태를 규명하여, 약물 표적 가능 표적을 특정 미세아교세포 상태와 연결했다.
 
 한계로는 불완전한 유도성 CRISPRi 시스템(예: PICALM은 항시성 시스템으로는 녹다운되나 유도성으로는 되지 않음), 일차 인간 미세아교세포와 여전히 구별되는 전사체(iPSC 유래 미세아교세포의 일반적 한계), 개체발생(ontogeny)이 아닌 전사인자 강제 분화에 의존한다는 점이 있다. 이 플랫폼은 미세아교세포 상태의 기능적 특성화와 치료적 표적화를 위한 자원을 제공하며, CNS 손상과 신경퇴행 전반에서 미세아교세포가 공유하는 역할을 고려할 때 CNS 복구·재생 연구와도 관련된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE178317
+
 
 ---
 

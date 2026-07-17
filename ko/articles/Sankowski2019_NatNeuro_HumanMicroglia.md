@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE135437"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Mapping microglia states in the human brain through the integration of high-dimensional techniques
@@ -52,6 +55,12 @@ Sankowski R, Böttcher C, Masuda T, Geirsdottir L, Sagar, Sindram E, Seredenina 
 본 연구는 두 가지 직교적 고차원 기법(scRNA-seq와 CyTOF)을 in situ 검증과 통합함으로써, 건강한 뇌와 질병 뇌의 인간 미세아교세포에 대한 단일세포 해상도 지도를 최초로 제공한 연구 중 하나다. 인간 미세아교세포가 공간적·연령적으로 형성된 전사 연속체를 따라 존재하며, 신경교종이 미세아교세포를 노화 관련 염증/대사 상태로 재편함을 확립했다. 이는 미세아교세포 아집단 특이적 치료 개발을 위한 자원이 된다.
 
 한계로는 대상자 수가 적고, 수술 환자의 "대조" 접근 조직에 의존(진정한 건강 뇌와 동일하지 않을 수 있음)하며, 일부 비교 데이터셋의 세포 수가 적고, 외부 검증 세트에서 분류기 정확도가 낮아진다는 점(프로토콜 차이 mCEL-Seq2 vs. nuc-seq, 환자 연령 차이 반영)이 있다. 향후 더 큰 코호트, 추가 뇌 영역, 정의된 상태의 기능적 특성화가 필요하다. CNS 손상·재생 연구 관점에서는, 영역·질환별로 정의된 미세아교세포 상태의 틀이 CNS 내 glia 반응을 이해하는 데 직접적으로 관련된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE135437
+
 
 ---
 

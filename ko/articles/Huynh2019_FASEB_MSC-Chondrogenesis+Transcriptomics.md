@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE109503"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # High-depth transcriptomic profiling reveals the temporal gene signature of human mesenchymal stem cells during chondrogenesis
@@ -76,6 +79,15 @@ Huynh NPT, Zhang B, Guilak F. High-depth transcriptomic profiling reveals the te
 - 새로운 lncRNA 및 miRNA 후보들의 연골형성 조절 가능성을 제시하여, 향후 기능 검증의 기반을 마련하였다.
 - 구축된 온라인 백과사전은 MSC 연골형성 연구자들에게 귀중한 공개 자원이 될 것이다.
 - 추후 연구 과제: (1) 발굴된 lncRNA/miRNA의 기능적 검증, (2) MSC 유래 연골과 자연 연골의 차이를 극복하기 위한 배양 조건 최적화, (3) 단일세포 수준에서의 이질성 분석.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE109503
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE106292
+
 
 ---
 

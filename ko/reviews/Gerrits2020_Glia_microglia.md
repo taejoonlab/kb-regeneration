@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "GEO: GSE135618"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Transcriptional profiling of microglia; current state of the art and future perspectives
@@ -65,6 +68,12 @@ Gerrits E, Heng Y, Boddeke EWGM, Eggen BJL. Transcriptional profiling of microgl
 - Lake BB, et al. (2016) Neuronal subtypes and diversity revealed by single-nucleus RNA sequencing of the human brain. *Science*.
 - Mathys H, et al. (2019) Single-cell transcriptomic analysis of Alzheimer's disease. *Nature*.
 - van der Poel M, et al. (2019) Transcriptional profiling of human microglia reveals grey-white matter heterogeneity and multiple sclerosis-associated changes. *Nat Commun*.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE135618
+
 
 ---
 

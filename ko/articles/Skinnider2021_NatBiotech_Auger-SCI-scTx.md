@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "GEO: GSE142245"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Cell type prioritization in single-cell data
@@ -48,6 +51,15 @@ Skinnider MA, Squair JW, Kathe C, Anderson MA, Gautier M, Matson KJE, Milano M, 
 ## Perspective
 
 Augur는 DE 유전자 개수 계산 방식에 내재된 존재비 편향을 극복하고, 교란에 대한 분자적 반응성으로 세포 유형 순위를 매기는 원칙적이고 모달리티 비의존적인 방법을 제공한다. 손상된 척수에의 적용은 SCI 회복과 직접 관련된다: 마비 후 TESS 유발 보행을 매개하는 특정 인터뉴런 아형(V2a, V1/V2b)을 식별하여 단일세포 전사체 상태를 기능적 회로 동원과 연결했다. 명시된 한계는 세포 유형 수준의 추론이 세포 집단 내부의 연속적 반응 강도 구배를 집약한다는 점이다. Augur는 개체 수준 표현형의 기저 세포 유형을 정확히 지목함으로써 하류 인과 실험(예: Cre 계통 또는 FACS gate 선택)을 안내할 수 있으며, SCI 맥락에서는 신경자극 기반 회복의 치료 표적 정의에 기여할 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE142245
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE102827, GSE130597, GSE103976
+
 
 ---
 

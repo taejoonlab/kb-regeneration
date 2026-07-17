@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "GEO: GSE163907"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-cell RNA analysis identifies pre-migratory neural crest cells expressing markers of differentiated derivatives
@@ -48,6 +51,16 @@ Lencer E, Prekeris R, Artinger KB. Single-cell RNA analysis identifies pre-migra
 ## Perspective
 
 본 연구는 일부 제브라피시 몸통 NCC가 이동 이전에 계통 특이적(xanthophore) 유전자조절네트워크를 개시한다는 증거를 제시하여, 고전적 계통 제한 세포 표지 연구를 확장하고 환경 신호 주도의 순수 이분지 모델에 도전하는 최근 마우스·닭 scRNA-seq 결과와 부합한다. 또한 xanthoblast 및 Rohon-Beard 뉴런 계통에 대한 신규 후보 마커(slc2a15b, gjb8, fgf13a/b, cxcr4b, pou4f4)를 제공하고, NCC와 RB의 발생학적 유사성 및 신경판 경계 공통 기원을 강화한다. 저자가 밝힌 한계로는 상대적으로 적은 세포 수(607세포)와 단일 시기 샘플링으로 다중 운명 공발현 세포 및 이동 선도(leader/trailblazer) 세포 검출이 제한되며, 이동 전 색소세포가 실제로 운명 고정되었는지는 기능적으로 검증되지 않았다는 점이 있다. 향후 더 이른 시기 샘플링, 후보 유전자 기능 검증, RB의 상동성/진화 규명을 위한 비척추동물 척삭동물 운동뉴런과의 비교가 제안된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE163907
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE112294
+- SRA: PRJNA640816
+
 
 ---
 

@@ -4,6 +4,7 @@ extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Histone ChIP-Seq identifies differential enhancer usage during chondrogenesis as critical for defining cell-type specificity
@@ -89,6 +90,12 @@ hMSC 유래 연골세포 인핸서(23,158개 공통 영역)는 태아 관절 연
 넷째, OA 연골의 차등 접근성 인핸서가 연골세포 특이적 인핸서와 유의하게 중첩되어, OA 병인이 발생 과정 후성유전체의 재활성화와 연관될 가능성을 지지한다. 이는 연골세포 인핸서가 OA 치료 표적으로서 잠재적 가치를 가짐을 시사한다.
 
 향후 과제로는 (1) 인핸서의 실제 표적 유전자 규명을 위한 염색질 입체형태 분석(3C/Hi-C), (2) 다양한 in vitro 모델과 실제 인간 관절 연골세포 후성유전체의 체계적 비교, (3) 발생-질환 연결고리의 완전한 규명이 필요하다.
+
+## 데이터 이용 가능성
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE69109
+
 
 ---
 

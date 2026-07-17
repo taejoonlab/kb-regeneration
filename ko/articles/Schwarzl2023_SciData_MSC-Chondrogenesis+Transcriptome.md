@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "ArrayExpress: E-MTAB-10476"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Transcriptional profiling of early differentiation of primary human mesenchymal stem cells into chondrocytes
@@ -59,6 +62,12 @@ Schwarzl T, Keogh A, Shaw G, Krstic A, Clayton E, Higgins DG, Kolch W, Barry F. 
 - 공개된 데이터와 분석 워크플로우는 MSC 연골형성 분화 연구자들에게 귀중한 리소스가 될 것이다.
 - 한계점: 단일 공여자, 단일 클론 사용으로 일반화에 주의 필요. 기술적 반복(technical replicate)으로 생물학적 다양성 반영 제한.
 - 추후 연구: 다양한 공여자 및 MSC 클론을 포함한 검증, 단일세포 수준에서의 초기 분화 반응 분석.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ArrayExpress: E-MTAB-10476
+
 
 ---
 

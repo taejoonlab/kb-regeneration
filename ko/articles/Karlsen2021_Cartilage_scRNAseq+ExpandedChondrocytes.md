@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "SRA: PRJNA522964"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-Cell RNA Sequencing of In Vitro Expanded Chondrocytes: MSC-Like Cells With No Evidence of Distinct Subpopulations
@@ -57,6 +60,12 @@ Karlsen TA, Sundaram AYM, Brinchmann JE. Single-cell RNA sequencing of in vitro 
 - 배양된 연골세포는 ISCT 기준의 MSC 정의를 충족하므로, ACI에 사용되는 탈분화 연골세포는 사실상 MSC와 동등한 세포임을 시사한다.
 - 연골세포의 MSC 특성은 ACI 후 재생 조직의 질이 제한적인 이유 중 하나일 수 있으며, 연골세포의 재분화(redifferentiation)를 유도하는 배양 조건 개발의 중요성을 강조한다.
 - 한계점: 단일 공여자만 사용, 비교적 적은 수의 세포(86개) 분석. 향후 다양한 공여자와 더 많은 세포를 포함한 연구가 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA522964
+
 
 ---
 

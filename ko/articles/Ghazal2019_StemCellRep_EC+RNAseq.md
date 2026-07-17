@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "GEO: GSE118445"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # RNA Profiling of the Human and Mouse Spinal Cord Stem Cell Niches Reveals an Embryonic-like Regionalization with MSX1+ Roof-Plate-Derived Cells
@@ -53,6 +56,12 @@ Ghazale H, Ripoll C, Leventoux N, Jacob L, Azar S, Mamaeva D, Glasson Y, Calvo C
 본 연구는 인간과 마우스 척수 상의 줄기세포 니치의 상세한 전사체 및 단백질 수준 자원을 제공하며, 성체 EZ가 예상 외로 발생 전사인자의 배아 유사 등-배 패터닝을 유지하고 설치류-인간 간 보존된 roof(MSX1+, roof-plate 유래, radial 정지) 및 floor(ARX+, floor-plate 유래) 세포 집단을 가짐을 밝힌다.
 
 의의: 내인성 수복 니치 후보의 보존된 마커와 하위집단을 정의하여 척수손상 재생 전략에 직접적으로 관련된다. 배아 패터닝의 유지는 EZ가 성체까지 발생학적 위치 정체성을 보유함을 시사한다. 한계로는 인간 시료 수가 적고(2건, 고령 공여자는 조직학적 질 저하) 종간 차이(예: 인간 EZ에서 CSF-N의 부재 가능성)가 있다. 무양막류와 달리 포유류 상의세포가 손상 후 신경세포를 재생하지 못하는 이유의 규명이 핵심 동기이자 향후 방향으로 남는다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE118445
+
 
 ---
 

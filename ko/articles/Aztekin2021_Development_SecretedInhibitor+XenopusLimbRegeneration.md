@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+raw_data:
+  - "ArrayExpress: E-MTAB-9104"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Secreted inhibitors drive the loss of regeneration competence in Xenopus limbs
@@ -47,6 +50,12 @@ Aztekin C, Hiscock TW, Gurdon J, Jullien J, Marioni J, Simons BD. Secreted inhib
 조직 수준 기술을 넘어, 본 연구는 특수화된 상처 표피(AEC)가 재생 특이적 신규 현상이 아니라 발생기 AER 프로그램의 재배치임을 보인다 — 이는 포유류가 전사 프로그램을 보유하나 손상 후 재배치에 실패함을 시사한다. 재생의 핵심 장벽은 활성화 인자의 단순 결핍이 아니라 **연골형성 계통에서 분비되는 억제 인자(예: Noggin)의 농축**이다. FGF10은 부분적으로 연골형성과 그에 따른 Noggin을 억제하여 재생 능력을 회복시킨다.
 
 의의: 세포외 환경 조작(분비 억제인자 제거) 또는 연골형성 제한이 고등 척추동물의 재생 잠재력을 회복하는 전략이 될 수 있다. 한계·향후 방향: anti-NOGGIN 단독은 생체 내 효과가 경미하여 추가 연골형성 억제인자(예: Chrdl1, Frzb)도 중화해야 함을 시사(또는 전달 한계 반영); 근위에서 유도된 AER 세포가 근위 배아싹을 지지할 수 있는지, 그리고 "원위 변환 규칙(rule of distal transformation)"과의 관계는 미해결 과제로 남는다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ArrayExpress: E-MTAB-9104
+
 
 ---
 

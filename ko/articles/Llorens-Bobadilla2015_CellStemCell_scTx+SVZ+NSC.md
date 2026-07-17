@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "GEO: GSE67833"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-Cell Transcriptomics Reveals a Population of Dormant Neural Stem Cells that Become Activated upon Brain Injury
@@ -51,6 +54,12 @@ Llorens-Bobadilla E, Zhao S, Baser A, Saiz-Castro G, Zwadlo K, Martin-Villalba A
 ## Perspective
 
 본 연구는 성체 SVZ NSC 상태에 대한 최초의 고해상도·비편향 단일세포 지도를 제공하여, 휴면과 프라임 정지를 근육 위성세포의 G0→Galert 전환을 연상시키는 별개의 단계로 확립하고, 번역 조절이 휴면 탈출의 초기 사건임을 규명하였다. NSC 특이 마커(CD9)를 정의하고 개별 NSC에 사전 계통 프라이밍이 존재함을 입증하였다. 기능적으로는 IFN-γ를 휴면 NSC를 동원하는 손상 유래 신호로 규명하여, 내인성 줄기세포를 동원하는 재생 전략의 가능성을 열었다. 한계로는 분석된 단일세포 수가 제한적이고, 표면 마커 기반 분류에 의존하며, 상태 전환이 상관관계/유사시간 추론에 기반하므로 직접적인 계통추적 검증이 필요하다는 점이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE67833
+
 
 ---
 

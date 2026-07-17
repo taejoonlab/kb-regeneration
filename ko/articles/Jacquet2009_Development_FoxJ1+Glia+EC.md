@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE18678"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # FoxJ1-dependent gene expression is required for differentiation of radial glia into ependymal cells and a subset of astrocytes in the postnatal brain
@@ -52,6 +55,12 @@ Jacquet BV, Salinas-Mondragon R, Liang H, Therit B, Buie JD, Dykstra M, Campbell
 본 연구는 FoxJ1을 방사아교세포가 뇌실막세포 및 출생 후/성체 신경 줄기세포 니치를 구성하는 성상세포 아집단으로 분화하는 시기·세포 특이적 과정의 master regulator로 확립한다. 기능상실, 억제, 교차 이식을 결합하여 세포 자율적 요구성을 입증했으며, 전사체/공동면역침강 데이터는 FoxJ1이 기저체를 정단면으로 수송하는 dynein/kinesin 모터의 발현을 구동하여 운동성 섬모형성을 유도하는 기전 모델을 제공한다. 특히 뇌실막·성상세포 결함이 수두증과 독립적임을 보였다.
 
 자가재생 및 신경발생 잠재력을 가진 FoxJ1+ 성상세포 아집단의 발견은 FoxJ1을 성체 신경 줄기세포의 정체성 및 유지와 연결하며, 이는 CNS 재생 및 세포 기반 치료와 관련이 있다. 한계로는 전신 녹아웃에 의존한 점(shRNA와 이식으로 부분적으로 보완)과, 척수 중심관보다는 뇌 SVZ에 초점을 둔 점이 있다. 다만 뇌실막/방사아교세포 생물학은 척수 뇌실막 줄기세포 니치와 직접적으로 관련된다. 향후 방향으로는 직접적 FoxJ1 표적 프로모터 규명, 성상세포 계통 프로그램 해부, FoxJ1+ 니치 세포가 재생에 기여하는지 검증이 제시된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE18678
+
 
 ---
 

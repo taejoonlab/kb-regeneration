@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE153737"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Diversified transcriptional responses of myeloid and glial cells in spinal cord injury shaped by HDAC3 activity
@@ -46,6 +49,15 @@ Wahane S, Zhou X, Zhou X, Guo L, Friedl MS, Kluge M, Ramakrishnan A, Shen L, Fri
 
 ## Perspective
 본 연구는 SCI 후 다양화된 골수계·아교세포 전사 지형을 고해상도로 제시하고, HDAC3를 미세아교세포·대식세포·상의세포를 아우르는 광범위한 후성유전 조절자로 자리매김한다. IAM과 DAM의 구분(특히 Trem2/Tyrobp 미유도)은 손상 대 퇴행이 미세아교세포를 어떻게 재프로그래밍하는지 정교화한다. 소스 집단 역할의 즉시반응형 미세아교세포와 HDAC3 조절 증식성 아형의 발견은 골수 반응을 회복 방향으로 유도할 표적 노드를 시사한다. 한계로는 scRNA-seq 세포 빈도 추정의 근사성(포획 편향), 단일 손상 모델/시점, HDAC3와 특정 하위군집 간 상관적 연관 등이 있다. 세포형 특이적 HDAC3 조절을 활용한 향후 연구는 SCI 후 기능 회복을 향상시킬 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE153737
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE113566
+
 
 ---
 

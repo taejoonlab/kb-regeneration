@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE146837"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Chromatin accessibility dynamics and single cell RNA-Seq reveal new regulators of regeneration in neural progenitors
@@ -44,6 +47,12 @@ Kakebeen AD, Chitsazan AD, Williams MC, Saunders LM, Wills AE. Chromatin accessi
 
 ## Perspective
 이 연구는 세포 유형 특이적 ATAC-Seq(FACS)와 scRNA-Seq를 결합하여 NPC의 유전자 조절 지형을 규명함으로써 척추동물 재생생물학을 진전시켰다. Bulk 분석으로는 보이지 않던 조절 peak를 드러냈고, 낮은 발현·계통 제한적 조절자(pbx3, meis1)를 후보 상위로 끌어올렸다. 핵심 통찰은 분화와 증식의 시간적 분리(temporal uncoupling)이다. pax6+ 전구세포는 증식보다 뉴런 분화를 먼저 우선하는데, 이는 전구세포가 증식 후 신경발생하는 배아 발생과 대조된다. 저자들이 인정한 한계로는 NPC의 불완전 포획(일부 Sox2+/pax6- 세포, 최배측 전구세포 배제), 최근 분화하여 GFP를 유지한 pax6+/Sox2- 세포의 포함 가능성, 초기 재생 단계에서 마커 공존 미검증 등이 있다. 향후 추가·영역 특이 리포터, birthdating, 단일세포 접근으로 hit 유전자의 직접적 뉴런 작용과 환경적 작용을 구분하고 전구세포 아형별 우선순위를 완전히 규명할 수 있을 것이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE146837
+
 
 ---
 

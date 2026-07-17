@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+raw_data:
+  - "SRA: PRJNA902554, PRJNA1067846"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Sorafenib inhibits ossification of the posterior longitudinal ligament by blocking LOXL2-mediated vascularization
@@ -99,6 +102,15 @@ Wang L, Jiang W, Zhao S, Xie D, Chen Q, Zhao Q, Wu H, Luo J, Yang L. Sorafenib i
 Sorafenib은 광범위 tyrosine kinase inhibitor로 LOXL2 매개 혈관 형태형성을 억제함으로써 OPLL 진행을 효과적으로 차단하면서도 정상 골량에는 영향을 미치지 않아, OPLL 특이적 치료제로서의 잠재력을 보였다. 이는 혈관화와 골화의 coupling을 표적으로 한 치료 전략이 OPLL뿐만 아니라 다른 이소성 골화 질환에도 적용 가능함을 시사한다.
 
 본 연구의 의의는 다음과 같다: (1) OPLL의 단일세포 atlas 최초로 구축, (2) 인대세포의 내피세포 유사 분화 능력 및 LOXL2의 조절 기전 규명, (3) Sorafenib의 OPLL 치료제로서의 preclinical 검증. 향후 연구로는 LOXL2-HIF1A 상호작용의 분자기전 심층 분석, Sorafenib의 장기 안전성 및 임상 시험, 그리고 LOXL2 특이적 억제제 개발이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA902554, PRJNA1067846
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE113212, GSE69787
+
 
 ---
 

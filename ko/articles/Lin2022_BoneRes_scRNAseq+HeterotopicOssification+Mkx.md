@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE102931"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single cell analysis reveals inhibition of angiogenesis attenuates the progression of heterotopic ossification in Mkx−/− mice
@@ -94,6 +97,12 @@ Lin J, Yang Y, Zhou W, Dai C, Chen X, Xie Y, Han S, Liu H, Hu Y, Tang C, Bunpetc
 BIBF1120은 Vegfr, Pdgfr, Fgfr를 표적으로 하는 triple vascular kinase 억제제로, 혈관 내피세포, 주위세포, 평활근세포의 전혈관신생 신호전달을 억제한다. 건 생물학에서 Fgf/Fgfr 및 Pdgf/Pdgfr 신호는 건 성장과 항상성에 중요하므로, BIBF1120의 pan-inhibition이 주변 건 세포에 부작용을 줄 우려가 있었으나, 본 연구에서는 증식 및 주요 marker 발현에 영향이 없어 비교적 특이적인 HO 억제 기능을 보였다.
 
 향후 연구로는 TPC의 정확한 운명 추적(lineage tracing), 고처리량 단일세포 방법을 통한 내피세포/주위세포/평활근세포 등 혈관 관련 세포군 포괄적 분석, 그리고 BIBF1120 외 더 특이적인 혈관신생 표적 치료제 개발이 필요하다. 본 연구는 건 HO의 병리기전 이해와 새로운 치료 접근법 개발에 중요한 기초를 제공한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE102931
+
 
 ---
 

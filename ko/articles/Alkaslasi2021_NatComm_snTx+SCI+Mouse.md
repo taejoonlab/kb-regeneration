@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+raw_data:
+  - "GEO: GSE167597"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single nucleus RNA-sequencing defines unexpected diversity of cholinergic neuron types in the adult mouse spinal cord
@@ -50,6 +53,12 @@ Alkaslasi MR, Piccus ZE, Hareendran S, Silberberg H, Chen L, Zhang Y, Petros TJ,
 본 연구는 성체 마우스 척수 콜린성 뉴런의 포괄적 전사체 아틀라스를 제공하여 세 부류 전반의 예상치 못한 다양성을 밝히고, 더 선택적인 신규 마커(골격근 MN의 Tns1; 알파 MN의 Sv2b/Stk32a; 내장 MN의 Fbn2)를 제시한다. ALS에서 상실이 궁극적으로 치명적인 횡격막 지배(phrenic) 알파 MN 아형의 마커를 규명함으로써, 퇴행성 질환에서의 MN 차등 취약성 연구와 운동뉴런 하위집단 선택적 표적화 도구를 제공한다.
 
 한계: 아형 배정(특히 알파/베타/감마)은 마커 발현과 해부학에 근거하며, 추정 베타("Type 3") MN의 확정적 규명에는 전기생리학이 필요하나 수행되지 않았다. 일부 배아기 마커는 성체에서 유지되지 않았다. 향후 방향은 발화 특성과 전사체 아형의 전기생리학적 상관, 중추 콜린성 뉴런에서 Piezo2의 기능 연구, 운동뉴런 질환의 세포유형 취약성 규명을 위한 아틀라스 활용을 포함한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE167597
+
 
 ---
 

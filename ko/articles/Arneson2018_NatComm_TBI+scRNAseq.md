@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+raw_data:
+  - "GEO: GSE101901"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 단일세포 분자 변화가 뇌진탕성 뇌손상의 표적 세포와 경로를 밝히다 (Single cell molecular alterations reveal target cells and pathways of concussive brain injury)
@@ -52,6 +55,12 @@ Arneson D, Zhang G, Ying Z, Zhuang Y, Byun HR, Ahn IS, Gomez-Pinilla F, Yang X. 
 본 연구는 수천 개의 개별 해마 세포에 걸쳐 mTBI 발병 기전을 다룬 최초의 단일세포 시퀀싱 연구로 제시되며, 세포 아틀라스를 제공하고 mTBI가 세포 유형 특이 유전자, 경로, 변화된 세포 간 유전자 공발현을 통해 거의 모든 해마 세포 유형(연구가 부족했던 집단 및 신규로 추정되는 집단 포함)에 급성으로 영향을 미친다는 것을 입증한다. 전사체 기반 접근은 형태학으로는 분해할 수 없는 새로운 세포 상태/마커를 밝혀내며, mTBI를 AD, CTE, 뇌전증 같은 이차 질환과 연결하는 후보 시그니처를 제공한다. Ttr 개념 증명은 이 아틀라스가 실행 가능한 치료 표적을 지목할 수 있음을 보여준다.
 
 저자들이 인정한 한계: Drop-seq 포획률은 세포 유형에 따라 다르므로 비율 변화가 증식/사멸을 직접 의미하지는 않는다; 공발현 분석은 in silico이며 후속 검증이 필요하다; 신규로 추정된 클러스터와 신경세포 아형은 기능적 특성 규명이 필요하다. 본 연구는 급성 24시간 시점만을 포착한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE101901
+
 
 ---
 

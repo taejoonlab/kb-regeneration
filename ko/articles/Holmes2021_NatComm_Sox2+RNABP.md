@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE142013"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # The Sox2 transcription factor binds RNA
@@ -45,6 +48,12 @@ Holmes ZE, Hamilton DJ, Hwang T, Parsonnet NV, Rinn JL, Wuttke DS, Batey RT. The
 
 ## Perspective
 본 연구는 Sox2가 pioneer 전사인자로서의 역할을 넘어 HMG 도메인으로 RNA에 결합하는 진정한 RNA 결합 단백질이며, 고친화도/저특이성 패러다임으로 A-form 이중가닥 구조를 선호함을 확립한다. Sox2는 만능성과 신경전구세포 유지/신경발생의 마스터 조절자이므로, 이 RNA 결합 활성은 Sox2가 신경 분화를 조절하는 lncRNA(예: RMST)와 상호작용하는 방식에 기여할 수 있으며, 신경 줄기/전구세포 생물학의 핵심 인자에 대한 기전적 이해를 확장한다. 한계로는 대체로 in vitro 생화학/생물물리 중심이라는 점, in vivo 상호작용체를 신경세포가 아닌 mESC에서 규명한 점, 돌연변이 데이터를 DNA 결합 구조에 매핑한 점(NMR 거동이 다르므로 근사치), 그리고 세포 내 Sox2-RNA 결합의 기능적/조절적 결과가 직접 검증되지 않은 점이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE142013
+
 
 ---
 

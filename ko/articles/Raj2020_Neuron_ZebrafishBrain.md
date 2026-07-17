@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE158142"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Emergence of Neuronal Diversity during Vertebrate Brain Development
@@ -45,6 +48,12 @@ Raj B, Farrell JA, Liu J, El Kholtei J, Carte AN, Navajas Acedo J, Du LY, McKenn
 
 ## Perspective
 이 NeuroResource는 척추동물(제브라피시) 뇌 발생을 전례 없는 규모와 해상도로, 시간적으로 촘촘하게 담은 대규모 단일세포 아틀라스를 제공하여 신경세포 다양화의 상세 분석 기반을 마련한다. 특정 신경세포 하위 집단을 정의·조작할 수 있게 하고, 잘 알려지지 않았던 배아기·배아 후기 신경전구세포의 관계를 규명하여 다수의 배아기 전구세포 상태가 일시적임을 보였다. 최적화된 scGESTALT 계통 기록자는 계통 추적 역량을 확장한다. 한계로는 밀접히 연관된 전구세포/신생 신경세포 상태를 최소 마커 조합으로 구분하기 어렵다는 점, 시점 간 샘플링 제약이 있다. 비교 발생/재생 자원으로서 이 아틀라스는 CNS 신경발생 이해 및 신경 세포 운명 조작 전략 수립에 직접적으로 유용하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE158142
+
 
 ---
 

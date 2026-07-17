@@ -4,6 +4,7 @@ extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Mapping single-cell atlases throughout Metazoa unravels cell type evolution
@@ -47,6 +48,12 @@ The authors previously introduced the self-assembling manifold (SAM) algorithm t
 SAMap provides a roadmap for tracing cell type evolutionary history by mapping both genes and cells in mutually reinforcing directions, accounting for the complexity of gene evolution. The findings support hierarchical diversification of cell types into families sharing ancestral regulatory programs, with one-to-one homologies persisting only where no further diversification followed speciation. The systematic detection of paralog substitutions offers a new lens on molecular evolution of cell types. A practical significance is the ability to accelerate annotation of non-model organism atlases — highly relevant to regeneration research in planaria, Hydra, and sponges.
 
 Limitations: the most memory-intensive steps (neighborhood coarsening, cross-species imputation) may be intractable for datasets of millions of cells, currently mitigated by chunking at the cost of runtime, or by downsampling. The analysis is largely pairwise; incorporating multiple species with explicit phylogeny is a future direction, requiring dense sampling of clades. Source code is available at GitHub (atarashansky/SAMap).
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE134912, GSE121617, GSE111764, GSE107873
+
 
 ---
 

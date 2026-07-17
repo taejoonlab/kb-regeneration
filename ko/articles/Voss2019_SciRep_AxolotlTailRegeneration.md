@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE118515"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # HDAC Regulates Transcription at the Outset of Axolotl Tail Regeneration
@@ -44,6 +47,12 @@ Voss SR, Ponomareva LV, Dwaraka VB, Pardue KE, Al Haj Baddar NW, Rodgers AK, Woo
 
 ## Perspective
 본 연구는 성공적인 꼬리(및 척수) 재생을 가능하게 하는 초기 전사 반응을 형성하기 위해 손상 순간에 class I HDAC 활성이 필요함을 전사 수준에서 직접적으로 입증한다. 아홀로틀 배아를 후성유전 조절과 재생능을 연결하는 다루기 쉬운 화학유전 모델로 확립하고, 암(HDACi/브로모도메인 표적)과 조직 재생이 공유하는 기전 간 유사성을 제시한다. 한계로는 마이크로어레이 데이터의 상관적 성격, 풍부한 배아 증식 배경에서 어떤 특정 세포집단이 영향을 받는지 규명하지 못한 점, 직접적 히스톤 아세틸화 측정의 부재 등이 있다. 향후 방향으로는 세포유형 분해 분석, 브로모도메인 억제제 비교, 재생 특이적 신호가 HDAC 코리프레서 복합체를 탈억제하여 전사를 시공간적으로 조절하는지 검증하는 연구가 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE118515
+
 
 ---
 

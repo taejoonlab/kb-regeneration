@@ -1,9 +1,13 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "GEO: GSE115067"
+  - "PRIDE/ProteomeXchange: PXD010192"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury
@@ -52,6 +56,16 @@ Squair JW, Tigchelaar S, Moon KM, Liu J, Tetzlaff W, Kwon BK, Krassioukov AV, We
 ## Perspective
 
 본 연구는 수십 년의 소규모 문헌을 전장유전체 인간 척수 공발현 네트워크와 통합하고 독립적 설치류 전사체·단백질체 데이터로 검증함으로써, 척수 손상에 대한 협응된 분자 반응의 시스템 수준, 진화적으로 보존된 지도를 제공한다. 핵심 기여는 손상 중증도에 비례하고 회복 촉진 처치에 따라 역전되는 보존적·재현적 미세아교세포/염증 관련 모듈(M3)의 규명이며, M3 hub 유전자 — 특히 annexin A1 — 를 SCI 중증도의 객관적 후보 바이오마커로 제안하여, 가변적 신경학적 평가에 의존하는 임상시험의 문제를 해결할 가능성을 제시한다. 본 지식베이스의 핵심 주제인 척수 손상 및 복구와 매우 관련이 깊다. 저자가 인정한 한계로는 건강한 인간 척수 전사체 구조가 외상성 병태생리에 대한 정보를 준다는 가정, 시스템 수준 보존이 성립하는 곳에서도 개별 유전자가 인간과 설치류 간 분기할 가능성, Anxa1을 중증도 바이오마커로 확정하기 위한 인간 연구 필요성 등이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE115067
+- PRIDE/ProteomeXchange: PXD010192
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE45006, GSE45376, GSE464, GSE5296, GSE69334
+
 
 ---
 

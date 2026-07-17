@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "GEO: GSE149664"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Sequentially induced motor neurons from human fibroblasts facilitate locomotor recovery in a rodent spinal cord injury model
@@ -52,6 +55,15 @@ Lee H, Lee HY, Lee BE, Gerovska D, Park SY, Zaehres H, Araúzo-Bravo MJ, Kim JI,
 본 연구는 SCI 모델에서 직접 전환된 인간 운동뉴런의 치료 효능을 처음으로 입증했으며, 최소 2인자(OCT4, LHX3) 순차 전략으로 생성한 자가재생성 iMNIC 중간체를 통해 핵심 난제였던 확장성 장벽을 극복했다. 다능성·신경전구 상태 모두와 구별되는 일시적 증식성 중간체는 종양형성 위험과 수율 문제를 동시에 해결하여 자가·개인 맞춤 세포 치료의 경로를 제시한다.
 
 한계로는 다중/자발 활동전위를 발화하는 세포 비율이 제한적이고, 기능 회복이 완전하지 않으며, 임상 번역 전 장기·대동물 안전성·효능 검증이 필요하다는 점이 있다. 확장 가능한 iMN 플랫폼은 MN 아형 특이적 질병 모델링과 운동뉴런 질환용 세포기반 약물 스크리닝에도 활용될 수 있다. 향후 HOX 패터닝을 통한 아형 특이화(rostro-caudal/columnar 정체성) 정교화와 이식 후 숙주 통합·회로 재건 특성화가 과제로 남는다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE149664
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- SRA: SRR2038215, SRR606336, SRR3647179
+
 
 ---
 

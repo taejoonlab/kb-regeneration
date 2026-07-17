@@ -4,6 +4,7 @@ extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Sox9 Is Required for Nail-Bed Differentiation and Digit-Tip Regeneration
@@ -48,6 +49,12 @@ The transcription factor SOX9 has multiple roles in development and adult tissue
 This study identifies Sox9 as essential for epithelial nail-bed differentiation, for maintenance of the terminal phalanx, and for digit-tip regeneration in mice. Mechanistically, Sox9 restrains nail matrix stem cell fate: without it, cells over-proliferate and default to the cornified nail-plate program, the nail bed and hyponychium are lost, and blastema osteoblast commitment (RUNX2) fails, blunting bone regeneration. It defines a Sox9+ transient nail-bed lineage and a continuous Sox9+ hyponychium supply.
 
 For regenerative biology, the work is relevant as a mammalian blastema-based (digit-tip) regeneration model, linking an epithelial transcription factor to mesenchymal blastema osteogenesis via nail-organ signaling. Limitations include the use of a ubiquitous conditional knockout (effects may not be entirely nail-epithelium-autonomous) and reliance on marker/histological readouts rather than direct molecular dissection of the Sox9-to-blastema signaling axis. The findings inform understanding of nail organ homeostasis/disease and could aid strategies for nail disorders and digit amputation.
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE135985
+
 
 ---
 

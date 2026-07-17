@@ -4,6 +4,7 @@ extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Single Cell Transcriptomics of Ependymal Cells Across Age, Region and Species Reveals Cilia-Related and Metal Ion Regulatory Roles as Major Conserved Ependymal Cell Functions
@@ -50,6 +51,12 @@ Here the authors mine publicly available single-cell RNA sequencing (scRNA-seq) 
 ## Perspective
 
 This resource-style study establishes that ependymal cell transcriptomes are remarkably homogeneous and conserved across age, species, and subtype, with cilia function as expected but also a previously underappreciated and conserved role in metal ion homeostasis (via metallothioneins), relevant to oxidative stress and neurodegenerative disease. For spinal cord/regeneration research, the most salient finding is that spinal canal E2 ependymal cells are transcriptionally distinct from brain E1 cells, uniquely expressing oligodendrocyte-differentiation and negative-proliferation-regulation programs, aligning with their documented latent regenerative capacity after spinal cord injury. Limitations include small ependymal cell numbers per dataset (33-344 cells), reliance on heterogeneous public datasets, a single human spinal cord absence (human data limited to brain), and correlative GO-based function inference validated for only a few genes. Future work should functionally test ependymal metal-ion regulation in disease and clarify the mechanistic basis of E1 vs E2 regenerative differences in the spinal cord.
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE123335, GSE100320
+
 
 ---
 

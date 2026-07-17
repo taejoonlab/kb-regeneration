@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+raw_data:
+  - "GEO: GSE137844"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Comparative gene expression profiling between optic nerve and spinal cord injury in Xenopus laevis reveals a core set of genes inherent in successful regeneration of vertebrate central nervous system axons
@@ -52,6 +55,12 @@ Belrose JL, Prasad A, Sammons MA, Gibbs KM, Szaro BG. Comparative gene expressio
 이 연구는 성공적 CNS 축삭 재생과 다른 조직 재생 사례(사지·간·지느러미) 사이의 깊고 계통학적으로 보존된 공통성을 규명하며, CNS 수복의 분자 기초를 탐구하기 위한 큐레이션된 후보 유전자·네트워크 자원(adipocytokine 허브 및 염색질 접근성 조절 네트워크)을 제공한다. 특히 한 개체 내에서 재생성/비재생성 반응을 대조함으로써, 손상 유도 유전자 발현 변화 중 재생 촉진적인 것과 해로운 것을 구별하는 지침을 제시한다 — 이는 염증이 재생 촉진적이면서 동시에 손상을 주는 포유류 연구의 핵심 난제다.
 
 한계로는 정제된 세포 유형이 아닌 복잡한 전체 조직(뉴런·아교·골수세포 혼합)을 사용한 점, 대부분 포유류 오솔로그에서 추론된 유전자 기능에 의존한 점, X. laevis에 주석화된 유전자로 분석을 제한한 점(신규 유전자·lncRNA·상세 homeolog/paralog 거동 제외), 규명된 네트워크가 상관관계적 성격이라는 점이 있다. 향후 개별 DESR 유전자·네트워크의 기능 검증, 세포 유형별 분석, 이러한 후보 구별의 포유류 CNS 손상으로의 확장이 제안된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE137844
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "GEO: GSE148316"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A latent lineage potential in resident neural stem cells enables spinal cord repair
@@ -50,6 +53,12 @@ Llorens-Bobadilla E, Chell JM, Le Merre P, Wu Y, Zamboni M, Bergenstråhle J, St
 ## Perspective
 
 본 연구는 성체 상주 신경줄기세포가 평소 발현되는 것보다 훨씬 큰 재생 잠재력, 즉 단일 전사인자(OLIG2)와 손상 신호에 의해 열릴 수 있는 잠재적·염색질 기반 희소돌기교세포 생성 프로그램을 보유함을 입증한다. 내인성 상의세포를 동원하여 세포이식(~30,000개)에 필적하는 수의 재수초화 희소돌기교세포를 생성하고 축삭 전도를 개선함으로써, CNS 손상 후 외인성 세포치료의 대안을 제시한다. 기전적으로 잠재 인핸서는 발생기 OLIG2 발현에서 유래했을 수 있으며 그 전개에는 손상 의존성 보조인자(예: Brg1)가 필요할 수 있다. 한계로는 유전적 OLIG2 유도가 필요하다는 점(아직 임상 적용 가능한 전달 전략 아님), 전도속도의 완전하지 않은 부분적 회복, 손상이 허용 조건으로 요구된다는 점이 있으며, OPC 유래 희소돌기교세포 생성과의 가산 효과는 향후 치료에서 시너지 접근 가능성을 시사한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE148316
+
 
 ---
 

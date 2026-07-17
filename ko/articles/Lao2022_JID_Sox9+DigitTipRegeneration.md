@@ -4,6 +4,7 @@ extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Sox9 Is Required for Nail-Bed Differentiation and Digit-Tip Regeneration
@@ -48,6 +49,12 @@ Lao M, Hurtado A, Chacón de Castro A, Burgos M, Jiménez R, Barrionuevo FJ. Sox
 본 연구는 Sox9가 생쥐에서 상피성 조갑상 분화, 말단 지골 유지, digit-tip 재생에 필수적임을 규명한다. 기전적으로 Sox9는 조갑기질 줄기세포 운명을 억제하며, Sox9가 없으면 세포가 과증식하여 각질화된 조갑판 프로그램으로 기본 전환되고, 조갑상과 hyponychium이 소실되며, blastema의 조골세포 결정(RUNX2)이 실패하여 뼈 재생이 둔화된다. 또한 Sox9+ 일시적 조갑상 계통과 Sox9+ hyponychium의 지속적 공급을 정의한다.
 
 재생생물학 관점에서 본 연구는 포유류 blastema 기반(digit-tip) 재생 모델로서 의미가 있으며, 손발톱 기관 신호전달을 통해 상피 전사인자를 중간엽 blastema 골형성과 연결한다. 한계로는 유비쿼터스 조건부 넉아웃 사용(효과가 조갑상피에 완전히 자율적이지 않을 수 있음)과, Sox9-blastema 신호 축의 직접적 분자 규명보다 표지자·조직학 판독에 의존한 점이 있다. 이 결과는 손발톱 기관 항상성/질환 이해에 기여하며 손발톱 질환 및 손가락 절단에 대한 전략 설계를 도울 수 있다.
+
+## 데이터 이용 가능성
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE135985
+
 
 ---
 

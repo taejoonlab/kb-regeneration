@@ -1,9 +1,13 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "ArrayExpress: E-MTAB-8194, E-MTAB-8197, E-MTAB-8196"
+  - "PRIDE/ProteomeXchange: PXD016080"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Genomic Rewiring of SOX2 Chromatin Interaction Network during Differentiation of ESCs to Postmitotic Neurons
@@ -53,6 +57,16 @@ Bunina D, Abazova N, Diaz N, Noh KM, Krijgsveld J, Zaugg JB. Genomic Rewiring of
 본 연구는 통합 다중 오믹스(전사체·단백질체·염색질 접근성)가 신경 분화 중 유전자 조절을 해부하는 데 유용함을 보이며, 다능성 인자 SOX2가 게놈적으로 "재배선"됨을 밝혔다. 즉 OCT4 공동 결합 ESC enhancer에서 신경 프로모터로 재배치되며, 이는 그 염색질 결합 단백질 interactome이 다능성 인자에서 염색질 remodeler ATRX로 전환됨에 의해 유도된다. 뉴런에서 SOX2가 미리 접근 가능한 영역에만 결합(비-pioneer)하고 SOX2-ATRX 공동 결합이 신경 유전자를 활성화한다는 발견은 단일 TF가 세포 상태 특이적인 상반된 기능을 획득하는 기전을 제공한다.
 
 본 지식베이스와의 연관성은 신경 분화 패러다임과 SOX2의 신경발생 역할(농축 GO 항목 중 전뇌·등쪽 척수 발생 포함)에 있다. 한계로는 단백질체로 정량된 TF 수가 적어(352개 중 43개, diffTF 추론 필요) co-occupancy가 공개 ChIP-seq에 의존(상호작용자 일부만 데이터 가용)한다는 점, 기능 검증이 3개 CRISPR loci에 국한된다는 점, 생체 척수/뇌 조직이 아닌 in vitro 글루타메이트성 뉴런 모델을 사용했다는 점이 있다. 상호작용자 게놈 위치의 광범위한 매핑과 생체 검증이 향후 방향이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ArrayExpress: E-MTAB-8194, E-MTAB-8197, E-MTAB-8196
+- PRIDE/ProteomeXchange: PXD016080
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE82631, GSE82353, GSE82859, GSE82453, GSE82464, GSE82630
+
 
 ---
 

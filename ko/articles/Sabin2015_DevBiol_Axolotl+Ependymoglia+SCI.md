@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE71934"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Dynamic membrane depolarization is an early regulator of ependymoglial cell response to spinal cord injury in axolotl
@@ -51,6 +54,12 @@ Sabin K, Santos-Ferreira T, Essig J, Rudasill S, Echeverri K. Dynamic membrane d
 본 연구는 SCI 후 첫 24시간 이내 뇌실교세포 막전위의 일시적·정밀 타이밍의 탈분극–재분극이 아홀로틀 재생 촉진 프로그램의 필수적·세포 자율적 방아쇠이며, 증식과 축삭 재생을 구동하는 ERK/c-Fos 초기반응 캐스케이드의 상위에서 작용한다는 기능적 증거를 제공한다. 이는 기존에 꼬리/부속지 재생에서 연구되던 생체전기 신호(bioelectric signaling)를 CNS 재생으로 확장하며, 특히 ERK/c-Fos 전압 감수성 네트워크가 비흥분성 교세포에서 작동함을 보인다.
 
 한계로는 약리·과발현 도구 의존성(예: Exp-1이 직접 표지되지 않고 공동 전기천공으로 추정됨), 일부 어레이 데이터의 상관성, 그리고 Vmem이 어떻게 감지·전달되는지에 대한 미해결 질문이 있다. 저자들은 Vmem의 증식 효과가 세포 유형·맥락 특이적임을 언급한다. 향후 방향은 전압 감지 기구, 뇌실교세포에서 c-Fos의 추가 결합 파트너, 그리고 재생 반응을 형성하는 병행 이온·기계적 신호의 규명이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE71934
+
 
 ---
 

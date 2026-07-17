@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
+raw_data:
+  - "PRIDE/ProteomeXchange: PXD001952"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A proteomic analysis of chondrogenic, osteogenic and tenogenic constructs from ageing mesenchymal stem cells
@@ -88,6 +91,12 @@ Peffers MJ, Collins J, Loughlin J, Proctor C, Clegg PD. A proteomic analysis of 
 고령 MSC 유래 건형성 construct에서 단백질 대사와 ECM turnover가 현저히 증가한 것은 노화 건의 생리적 재형성 기전을 이해하는 데 중요한 통찰을 제공한다. 연골형성에서 lipid metabolism 변화와 염증반응(inflammaging) 소견은 노화 연골의 특성과 일치하며, MSC 기반 연골 치료에서 allogeneic MSC 사용 시 공여자 연령을 고려해야 함을 시사한다.
 
 조골형성 construct에서 연령 영향이 적게 나타난 것은 2D 배양 시스템의 한계로, 향후 3D 조골형성 모델에서의 단백질체 분석이 필요하다. 본 연구에서 규명된 DE 단백질 프로파일은 고령 인구를 대상으로 한 MSC 기반 치료제 개발 시 산화 스트레스 보호에 초점을 맞춘 표적 중재 전략 수립에 유용한 가이드를 제공한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- PRIDE/ProteomeXchange: PXD001952
+
 
 ---
 

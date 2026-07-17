@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+raw_data:
+  - "GEO: GSE114000"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Identification of region-specific astrocyte subtypes at single cell resolution
@@ -53,6 +56,12 @@ Batiuk MY, Martirosyan A, Wahis J, de Vin F, Marneffe C, Kusserow C, Koeppen J, 
 본 연구는 성상세포가 단일세포 수준에서 영역 특이적이고 특수화된 아형으로 구성됨을 제시하며, 전사체 정체성을 공간적 위치·형태·Ca2+ 생리와 연결하여 CNS 조직 구성에 대한 이해를 정교화하였다. 특히 AST4를 해마 신경줄기/전구세포 집단으로, AST5를 중간 상태로 규명한 점은 신경 재생 및 성체 신경발생 연구에 중요하다. 공개 온라인 데이터베이스(holt-sc.glialab.org)는 후속 가설 기반 연구의 자원이 된다.
 
 저자들이 언급한 한계로는 성체 뇌 조직 해리의 기술적 어려움, 낮은 성상세포 RNA 함량, RNAscope 스펙트럼 채널 수 제한(분할 염색 필요), 그리고 확인된 마커에 대한 분자 시약(Cre 라인, 항체) 부족으로 인한 형태·기능 연계의 제약이 있다. 향후 각 아형의 CNS 기능 및 영역별 질병 감수성(알츠하이머, 파킨슨병 등)에 대한 기여를 규명하는 것이 목표이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE114000
+
 
 ---
 

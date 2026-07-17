@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE229916, GSE266250, GSE266251"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 생쥐 외상성 손상 후 섬유증에 대한 기질 섬유아세포의 구별되는 기원과 영역 의존적 기여
@@ -47,6 +50,15 @@ Holl D, Hau WF, Julien A, Banitalebi S, Kalkitsas J, Savant S, Llorens-Bobadilla
 
 ## Perspective
 본 연구는 CNS 섬유성 흉터의 세포 기원을 규명하여, 흉터가 두 개의 구별되는 혈관 주위 집단(pericyte와 perivascular fibroblast)에서 유래하며 그 기여가 영역 의존적임을 보였다(pericyte는 회백질 흉터, fibroblast는 백질 흉터 우세). 서로 다른 기원에도 불구하고 둘 다 기질 myofibroblast 생성으로 전사학적으로 수렴하여, 이전에 인식되지 않았던 흉터 형성의 이질성을 드러낸다. 의의: 정밀한 세포 기원과 영역 특이적 지식은 병변 위치에 맞춘 표적 항섬유화 치료를 가능하게 하여 SCI 후 축삭 재생과 기능 회복을 개선할 수 있다. 한계: 결과가 생쥐 모델에서 도출되었고 정해진 재조합 효율을 가진 형질전환 Cre 계통에 의존하며, 인간에서의 검증과 손상 중증도 바이오마커는 아직 확립되지 않았다. 향후 방향으로는 다양한 CNS 손상, 발달 단계, 기타 신경학적 상태에서 이들 기질 집단의 기여를 규명하는 것이 포함된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE229916, GSE266250, GSE266251
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE98816
+
 
 ---
 

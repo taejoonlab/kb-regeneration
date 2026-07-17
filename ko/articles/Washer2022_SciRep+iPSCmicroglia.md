@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "ENA: PRJEB55440"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-cell transcriptomics defines an improved, validated monoculture protocol for differentiation of human iPSC to microglia (단일세포 전사체 분석 기반의 인간 iPSC 유래 미세아교세포 단독배양 분화 프로토콜)
@@ -52,6 +55,12 @@ Washer SJ, Perez-Alcantara M, Chen Y, Steer J, James WS, Trynka G, Bassett AR, C
 본 연구는 신경세포 공동배양이나 이종이식 없이도 일차/이종이식 미세아교세포에 전사체적으로 근접하고 식세포 기능을 갖춘 인간 iPSC-미세아교세포를 생성하는, 체계적으로 검증된 정의 단독배양 배지(ITMG)를 제시한다. 오랫동안 관행적으로 사용되던 여러 성분(N-2, β-메르캅토에탄올, CX3CL1/CD200)이 불필요하며 TGF-β1이 정체성의 핵심 동인임을 보임으로써, 미세아교세포 분화를 합리화·단순화하고 신경염증 및 신경퇴행 질환 모델링과 약물/표현형 스크리닝의 확장성을 개선하였다.
 
 한계로는 소수의 건강한 공여자 iPSC 세포주와 제한된 마커 패널에 의존한 점, 그리고 단독배양 환경이 생체 내 CNS 미세환경의 신경세포·별아교세포·혈관 신호를 결여하고 있어 ITMG 미세아교세포가 개선되었더라도 완전히 성숙한 생체 내 상태의 근사치에 머문다는 점이 있다. 척수/CNS 재생 연구와의 연관성은, CNS 손상 반응·신경염증·복구에 핵심적인 선천면역세포인 미세아교세포의 재현 가능한 인간 세포 공급원을 제공한다는 데 있다. 향후 방향으로는 질환 유전형 전반에 프로토콜을 적용하고 더 복잡한 다세포 시스템이나 오가노이드에 통합하는 것이 제시되었다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ENA: PRJEB55440
+
 
 ---
 

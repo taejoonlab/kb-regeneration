@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE143753"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Dissecting human embryonic skeletal stem cell ontogeny by single-cell transcriptomic and functional analyses
@@ -117,6 +120,15 @@ eSSPCs에서 세포부착분자 CADM1이 선별적으로 발현되었다. FOXP1/
 ## Perspective
 
 본 연구는 인간 배아 골격 발생의 단일세포 전사체 지도를 최초로 작성하여, limb bud 간엽의 공간적 이질성, OCPs의 출현, 그리고 장골과 두개골에서 각각 다른 발생 기원을 가진 골격줄기/전구세포 집단을 규명하였다. 장골의 eSSPCs는 연골막에 위치하며 CADM1/PDPN으로 동정 가능하고, FOXP1/2 전사 네트워크에 의해 조절되며, 골연골 계통으로 분화하지만 지방세포나 조혈 기질로는 분화하지 않는다. 두개골의 NCDCs는 신경능선 유래로, intramembranous 골화를 매개하며 FOXP1/2/4 regulon을 공유한다. FOXP 전사인자 가족이 연골막 골격전구세포에서 Runx2와 상호작용하여 전활성화를 억제함으로써 미분화 상태를 유지한다는 기존 보고와 일치하여, FOXP 가족이 인간 배아 골격줄기세포 유지에 근본적 역할을 함이 시사된다. CADM1은 골육종 진단 마커로 알려져 있었으나, 본 연구에서 배아 골격줄기세포 마커로서의 새로운 기능이 규명되었다. eSSPCs가 골수 미세환경을 재구성하지 못하는 것은 성장판 SSCs와 기능적 차이가 있음을 보여주며, 이는 골격 발달 단계와 구획에 따라 SSCs의 이질성이 있음을 강조한다. 본 연구에서 동정된 인간 배아 골격줄기/전구세포와 분자 마커는 골절 비유합, 골다공증, 두개안면 결손 등 골격 질환의 세포 치료 및 조직 공학에 중요한 자원을 제공한다. 향후 유전자 추적(lineage-tracing) 연구를 통해 eSSPCs와 생후 성장판·골막·혈관주위 SSCs 간의 관계를 규명하고, 유도형 Cre 모델을 이용한 기능적 검증이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE143753
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE142425
+
 
 ---
 

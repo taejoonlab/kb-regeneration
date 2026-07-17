@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE69476, GSE69479"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Comprehensive profiling reveals mechanisms of SOX2-mediated cell fate specification in human ESCs and NPCs
@@ -54,6 +57,12 @@ Zhou C, Yang X, Sun Y, Yu H, Zhang Y, Jin Y. Comprehensive profiling reveals mec
 이 연구는 핵심 다능성/신경 마스터 인자인 SOX2가 서로 다른 신호 경로를 조절하고 히스톤 변이체를 동원하여 염색질 상태를 변화시킴으로써 세포 운명을 결정한다는 기전적 증거를 제공한다. hESC에서 Wnt 억제를 매개하는 신규 직접 SOX2 표적으로 WLS와 SFRP2를 식별하고, 신경 분화에서 SOX2를 Notch 신호 상류에 위치시키며, bivalent 발생 유전자의 SOX2-H2A.Z-PRC2 poising을 확립했다. 신경 줄기/전구세포 생물학 측면에서, SOX2가 인간 NPC로부터 신경 분화를 어떻게 준비(prime)하고 실행하는지를 명확히 했으며, 마우스와 반대되는 Wnt 역할은 인간 세포를 직접 연구할 필요성을 강조한다.
 
 한계로는 in vitro hESC/hNPC 모델에 의존(in vivo CNS 아님)하고, off-target 및 보상 문제를 동반하는 siRNA/shRNA knockdown 사용(SOX2/3 동시 knockdown 필요), 일부 기전 주장에 대한 상관적 유전체 통합 분석이 있다. 저자들이 언급한 향후 방향으로는 SOX2가 WLS/SFRP2 조절을 통해 종양형성에 기여하는지 검증하고 SOX2-염색질 조절인자 네트워크를 추가 해부하는 것이 포함된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE69476, GSE69479
+
 
 ---
 

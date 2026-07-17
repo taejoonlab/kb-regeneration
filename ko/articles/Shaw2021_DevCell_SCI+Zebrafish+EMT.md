@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE164945"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Localized EMT reprograms glial progenitors to promote spinal cord repair (국소적 EMT가 아교 전구세포를 재프로그래밍하여 척수 재생을 촉진한다)
@@ -52,6 +55,12 @@ Klatt Shaw D, Muraleedharan Saraswathy V, Zhou L, McAdow AR, Burris B, Butka E, 
 - **의의**: EMT를 재생능이 있는 제브라피시 아교와 재생능이 없는 포유류 아교를 구별하는 특징으로 규명하고, 아교 브리징과 기능적 척수 복구에 필요·충분한 Yap → ctgfa/twist1a 다중 노드 유전자 조절 네트워크를 정의한다. 포유류 아교를 브리징/중간엽 표현형으로 전환하면 흉터를 완화하고 축삭 재성장을 지원할 수 있다는 가능성을 제시한다.
 - **한계**: 기전 규명이 정해진 전사인자 집합에 집중되었으며, Yap 상류의 기계적/Hippo 감지 기전과 포유류 성상교세포로의 직접적 전이 가능성은 아직 확립되지 않음. 종 간 비교는 기존 공개 데이터에 의존함.
 - **향후 방향**: 이 EMT 구동 네트워크를 포유류 아교에서 활성화하면 브리징과 회복이 촉진되는지 검증; 복측 뇌실막 전구세포 니치와 운동뉴런 도메인 방향의 계보 제한을 추가 규명.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE164945
+
 
 ---
 

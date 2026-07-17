@@ -4,6 +4,7 @@ extract: 2026-06-07
 extract_file: extract/2026-06-07_p02.txt
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Probing the communication patterns of different chondrocyte subtypes in osteoarthritis at the single cell level using pattern recognition and manifold learning
@@ -90,6 +91,12 @@ Wang J, Liu C, Yang L, Chen H, Zheng M, Wan Y, Hong X, Li S, Han J, Luo R, Wan X
 넷째, 패턴 인식과 manifold learning 기반 접근법이 단일세포 통신 분석의 새로운 연구 패러다임을 제시하였다. 이 방법은 우세 세포 집단(ProCs, preHTCs)을 신속하게 타겟팅하여 세포 치료 대체 세포로 선별하거나, 관련 억제제 개발로 OA 관련 통신을 차단하는 치료 전략에 적용 가능하다.
 
 향후 과제로는 더 큰 OA 환자 코호트(질환分级 정보 포함)에서의 검증, 단일세포 공간 전사체(spatial transcriptome) 및 공간 단백질체 기술을 통한 연골세포 공간 분포와 통신 패턴의 통합 분석, 그리고 FACS/sorting으로 동정된 아집단의 실제 분리 및 세포 치료 적용 최적화가 필요하다.
+
+## 데이터 이용 가능성
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE104782, GSE160625
+
 
 ---
 

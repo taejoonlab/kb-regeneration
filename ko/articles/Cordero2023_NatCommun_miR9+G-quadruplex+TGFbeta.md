@@ -1,9 +1,14 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE244952"
+  - "PRIDE/ProteomeXchange: PXD054375"
+  - "MassIVE: MSV000095480"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Nuclear microRNA 9 mediates G-quadruplex formation and 3D genome organization during TGF-β-induced transcription
@@ -84,6 +89,14 @@ Cordero J, Swaminathan G, Rogel-Ayala DG, Rubio K, Elsherbiny A, Mahmood S, Szym
 넷째, miR-Pd mass spectrometry로 핵 내 miR-9 결합 단백질 다수를 동정하였고, 이 중 상당수가 G4 상호작용 단백질로, miR-9가 단백질 복합체를 매개로 chromatin 구조를 조절할 가능성을 제시하였다.
 
 향후 과제로는 miR-9의 핵 내 이동 메커니즘(확장된 nuclear shuttling motif의 기능적 검증), miR-9가 G4 형성을 촉진하는 분자적 기전(DNA vs RNA G4 구분), 그리고 miR-9-G4 축을 표적으로 한 섬유화·암 치료 전략 개발이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE244952
+- PRIDE/ProteomeXchange: PXD054375
+- MassIVE: MSV000095480
+
 
 ---
 

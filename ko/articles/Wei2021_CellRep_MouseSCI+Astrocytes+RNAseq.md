@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE153721"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Systematic analysis of purified astrocytes after SCI unveils Zeb2os function during astrogliosis
@@ -46,6 +49,12 @@ Wei H, Wu X, You Y, Cuevas-Diaz Duran R, Zheng Y, Narayanan KL, Hai B, Li X, Tal
 
 ## Perspective
 본 연구는 반응성 astrogliosis에서 lncRNA의 기여를 정의하고 Zeb2os를 Zeb2os/Zeb2/Stat3 축을 통해 작용하는 미지의 보존 조절자로 확립하여 중요한 공백을 메운다. Zeb2os KD가 염증을 악화시키지 않으면서 astrogliosis·흉터 관련 유전자 발현·병변 부피를 감소시키므로, Zeb2os 표적화는 SCI 및 astrogliosis 관련 질환의 RNA 기반 치료 전략 후보이다. 한계로는 일부 축 연결의 상관적 성격, 미미한(비유의) 축삭 발아 효과, 더 긴 생존/기능(행동) 결과의 필요성이 있다. 저자들은 Zeb2os가 단계 의존적(초기 보호 대 후기 억제) 기능을 가질 수 있음을 지적하며, 만성 흉터 진행에서의 역할과 성장 지지 개입과의 병용 접근 연구를 촉구한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE153721
+
 
 ---
 

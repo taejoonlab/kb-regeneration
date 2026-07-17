@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "PRIDE/ProteomeXchange: PXD050668"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Craniofacial chondrogenesis in organoids from human stem cell-derived neural crest cells
@@ -58,6 +61,12 @@ Foltz L, Avabhrath N, Lanchy JM, Levy T, Possemato A, Ariss M, Peterson B, Grime
 주요 의의: (1) 기존 중배엽 기원 연골과 달리 신경릉 기원 연골의 특이적 분화 경로를 제시하였으며, (2) mesenchyme-연골세포 간 paracrine 신호 및 ECM 기반 autocrine feedforward 신호가 연골 형성을 주도함을 밝혔다. (3) 오가노이드가 비대 분화 없이 탄력연골 표현형을 장기간 유지하여 두개안면 재생에 적합한 세포원으로서 가능성을 보였다.
 
 향후 과제: (1) 오가노이드의 in vivo 이식 후 안전성 및 기능 검증, (2) mesenchyme 세포의 신경릉 기원 여부 및 전구세포로서의 완전한 특성 규명, (3) 환자 특이적 iPSC 유래 오가노이드를 활용한 두개안면 기형 질환 모델링 및 약물 스크리닝, (4) articular cartilage 재생을 위한 중배엽 기원 연골 형성 프로토콜과의 체계적 비교가 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- PRIDE/ProteomeXchange: PXD050668
+
 
 ---
 

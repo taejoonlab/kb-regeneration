@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE160756"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Spatially defined single-cell transcriptional profiling characterizes diverse chondrocyte subtypes and nucleus pulposus progenitors in human intervertebral discs
@@ -89,6 +92,12 @@ Gan Y, He J, Zhu J, Xu Z, Wang Z, Yan J, Hu O, Bai Z, Chen L, Xie Y, Jin M, Huan
 CellChat 기반 신호전달 네트워크 분석은 NP 미세환경에서 PDGF와 TGF-β cascades가 세포 간 crosstalk의 핵심 cue임을 밝혔으며, Fib3가 다중 signaling pathway에 관여하는 hub 세포 유형임을 제시하였다. 이는 퇴행성 추간판 질환(DDD)에서 NP 세포의 항상성 상실 기전을 이해하고, PROCR+ 전구세포를 표적으로 한 세포 기반 재생 치료 전략 개발에 중요한 기초를 제공한다.
 
 향후 연구로는 퇴행성 IVD(Pfirrmann grade III-IV)에서의 단일세포 atlas 비교, PROCR+ 세포의 in vivo 재생 능력 검증, 그리고 PDGF/TGF-β 신호 조절을 통한 DDD 치료 접근이 필요하다. 본 연구에서 확립된 IVD 세포 marker와 신호전달 네트워크는 DDD의 새로운 치료 표적 발굴에 유용한 자원이 될 것이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE160756
+
 
 ---
 

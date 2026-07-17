@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p07.txt
+raw_data:
+  - "GEO: GSE158380"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A harmonized atlas of mouse spinal cord cell types and their spatial organization
@@ -52,6 +55,17 @@ Russ DE, Patterson Cross RB, Li L, Koch SC, Matson KJE, Yadav A, Alkaslasi MR, L
 이 연구는 서로 호환되지 않던 데이터셋으로 파편화되어 있던 분야를 표준화하여, 척수 세포 유형에 대한 통합된 참조 틀을 제공한다. 기존 아틀라스들을 단순 교차 정합할 수 없으며 공유 세포 유형을 복원하려면 통합이 필요하다는 점을 보인 것은 단일세포 분야 전반에 중요한 방법론적 교훈이다. 계층적 조직 논리(위치 > 신경전달물질 > family > 집단)와 검증된 in situ 마커 코드는 유전자 도구 설계와 새로운 데이터 해석에 직접 활용될 수 있다. SeqSeek은 표준화된 세포 유형 식별의 장벽을 낮춘다.
 
 본문에 언급된 한계로는 통합이 줄이되 완전히 제거하지 못하는 연구 간 잔여 기술적 차이(예: 고처리량 핵 연구는 더 적은 유전자를 검출하고, 세포 기반 연구는 스트레스/즉시조기 유전자 발현이 더 높음)가 있다. 아틀라스는 특정 연구 집합의 출생 후 마우스 데이터에 기반하므로, 다른 연령·종·손상/질환 상태로의 확장은 향후 과제이며, 추론된 수렴적 계통 관계에 대한 심화 검증도 남아 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE158380
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE103892, GSE130312, GSE103840, GSE110823, GSE108788, GSE161621, GSE167597
+- SRA: SRP117727, SRP128071, SRP135960, SRP117627, SRP133097
+- ArrayExpress: E-MTAB-7320
+
 
 ---
 

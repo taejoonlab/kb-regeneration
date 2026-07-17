@@ -4,6 +4,7 @@ extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Single-cell transcriptomic analysis identifies a highly replicating Cd168+ skeletal stem/progenitor cell population in mouse long bones
@@ -73,6 +74,12 @@ Hao RC, Li ZL, Wang FY, et al. Single-cell transcriptomic analysis identifies a 
 Cd168+ SSPC의 발견은 기존에 알려진 골수(Lepr+), 성장판 하방(Grem1+/PTHrP+), 골막(aSMA+/Ctsk+) SSPC 집단과는 구별되는 새로운 SSPC 집단을 제시하며, 연골 관절 표층과 성장판(proliferative zone)에 위치한 특성상 관절 연골 항상성 및 장골 성장 조절에 중요한 역할을 할 가능성이 있다.
 
 향후 과제로는 (1) Cd168-CreERT2 계통추적 마우스 모델을 통한 세포 운명 매핑 및 자가재생 능력 검증, (2) FACS 분리 Cd168+ 세포의 이식 및 분화 기능 분석, (3) 다양한 병리 모델(골관절염, 골다공증)에서 Cd168+ SSPC의 역할 규명, (4) 사지싹 중간엽 LBM2 집단의 특성 규명이 필요하다. 본 연구는 골격계 질환 치료를 위한 새로운 세포 치료 표적으로 Cd168+ SSPC의 가능성을 제시했다.
+
+## 데이터 이용 가능성
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE154247
+
 
 ---
 

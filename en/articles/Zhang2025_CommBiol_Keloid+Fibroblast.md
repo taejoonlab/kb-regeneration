@@ -4,6 +4,7 @@ extract: 2026-07-17
 extract_file: extract/2026-07-17_p02.txt
 log:
   - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Uncovering a fibroblast differentiation-based keloid classification by integration of single-cell and bulk RNA sequencing
@@ -80,6 +81,13 @@ Second, the recurrent identification of fibroblast subtype 3 with a POSTN/ASPN/C
 Third, the CMap-nominated inhibitors—especially Ouabain for HFDC via TGF-β/α-SMA suppression—offer testable precision-therapy hypotheses aligned with the vault's fibrosis and anti-fibrotic themes, and the differentiation-state framework echoes the dedifferentiation/redifferentiation logic central to cartilage regeneration.
 
 Limitations include the small scRNA-seq cohort (3 keloids), reliance on in silico predictions requiring experimental validation, and immune-infiltration findings inconsistent with prior mast-cell studies, which the authors attribute to limited sample size and individual variation.
+
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE188952, GSE7890, GSE163973, GSE113619, GSE44270
+- SRA: SRP137071
 
 
 ---

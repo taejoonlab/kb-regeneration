@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE183645"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # HDAC Inhibitor Titration of Transcription and Axolotl Tail Regeneration
@@ -44,6 +47,12 @@ Voss SR, Smith JJ, Cecil RF, Kabangu M, Duerr TJ, Monaghan JR, Timoshevskaya N, 
 
 ## Perspective
 본 연구는 소분자(romidepsin, class I HDAC 억제제)가 전사와 재생 결과를 어떻게 형성하는지 해부하기 위한 적정 가능한 용량-반응 틀을 확립하며, 아홀로틀 배아를 꼬리 재생의 후성유전 모델로 검증한다. HDAC 매개 유전자 조절이 다수 세포유형에 걸친 공유되고 통합적인 특성임을 보이고, 기능 연구 우선순위 후보 유전자(예: Has2)를 제시함으로써 분야를 진전시킨다. 한계로는 romidepsin의 직접 대 간접 효과(비히스톤 단백질 포함) 불확실성, 전사와 결과 간 상관적 연관성, 배아 꼬리 재생이 유생/성체 재생보다 큰 전사 가소성을 보이는지에 대한 미해결 의문 등이 있다. 향후 방향으로는 허용 대 억제 농도에서의 히스톤 아세틸화 ChIP-Seq, romidepsin 농도 시리즈 전반의 snRNA-Seq가 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE183645
+
 
 ---
 

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p06.txt
+raw_data:
+  - "ArrayExpress: E-MTAB-8785, E-MTAB-8839"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Foxm1 regulates neural progenitor fate during spinal cord regeneration
@@ -51,6 +54,12 @@ Pelzer D, Phipps LS, Thuret R, Gallardo-Dodd CJ, Baker SM, Dorey K. Foxm1 regula
 본 연구는 척수 특이적 손상 반응을 규명하고 Foxm1에 세포주기 비의존적 재생 역할을 부여한다: 증식을 유도하기보다 Foxm1은 분열 중인 신경전구세포의 운명을 조절하여 성공적 척수 재생에 필요한 신경세포 분화를 촉진한다. 이는 *X. laevis* 1차 신경발생과 마우스 종뇌에서 보고된 Foxm1의 세포주기 의존적 역할과 대비되며, 정통 세포주기 조절자의 맥락 특이적 기능을 시사한다. 또한 신경세포 분화 자체가 재생 과정에 필요함을 강조하고, ROS를 foxm1의 상위 유도인자로 규명한다.
 
 언급된 한계: 시퀀싱 depth/세포 수가 전구세포·신경세포 아형의 명확한 배정을 허용하지 않음; 새로 확인된 leptin+ 신경세포 집단의 재생 중 역할이 불명확; Foxm1이 (세포주기 길이와 무관하게) 운명을 편향시키는 하류 기전이 완전히 규명되지 않음. 이 비교 양서류 모델은 포유류 척수 재생이 실패하는 이유에 관한 통찰을 제공한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ArrayExpress: E-MTAB-8785, E-MTAB-8839
+
 
 ---
 

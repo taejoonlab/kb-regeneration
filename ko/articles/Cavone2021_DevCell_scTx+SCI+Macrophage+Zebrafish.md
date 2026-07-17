@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "ArrayExpress: E-MTAB-10379, E-MTAB-10390"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # A unique macrophage subpopulation signals directly to progenitor cells to promote regenerative neurogenesis in the zebrafish spinal cord
@@ -50,6 +53,12 @@ Cavone L, McCann T, Drake LK, Aguzzi EA, Oprișoreanu AM, Pedersen E, Sandi S, S
 ## Perspective
 
 본 연구는 손상 활성화된 재생 촉진 대식세포가 Tnf를 분비하고, 이 Tnf가 Tnfrsf1a를 통해 ERG 척수 전구 세포에 작용하여 AP-1을 활성화, hdac1을 상향조절하고 척수 손상 후 운동신경 신경발생을 유도하는 직접적이고 재생 특이적인 신호 축을 확립한다. 특히 tnfrsf1a는 발생 신경발생에는 불필요하나 재생성 신경발생에는 필요하며, 인간 TNF가 분리된 ERG를 신경으로 유도하기에 충분하다는 점은 재생 능력이 결핍된 포유류 척수에 대한 중개연구적 의의를 강조한다. 저자들이 인정한 한계로는 불완전한 억제(약 50%)가 추가적인 대식세포 유래 및 발생 신호의 존재를 시사한다는 점과, ERG 세포 내 신호전달을 완전히 규명하기 위한 추가 scRNA-seq 및 직접 전사인자 결합 분석의 필요성이 있다. 세포외 Tnf를 광범위하게 증강하면 복구의 다른 측면에 해로울 수 있으므로, 규명된 하류 노드(AP-1, Hdac1)가 보다 정밀한 치료 표적으로 제안된다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- ArrayExpress: E-MTAB-10379, E-MTAB-10390
+
 
 ---
 

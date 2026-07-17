@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "GEO: GSE185197"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Hyaline cartilage differentiation of fibroblasts in regeneration and regenerative medicine
@@ -45,6 +48,12 @@ Yu L, Lin YL, Yan M, Li T, Wu EY, Zimmel K, Qureshi O, Falck A, Sherman KM, Hugg
 
 ## Perspective
 본 연구는 섬유아세포를 유리연골 재생의 새로운 세포 공급원으로 규명하고 재생생물학과 재생의학을 연결하는 실험 전략을 확립한다. 포유류 절단 상처의 잠재적 연골전구 잠재력이 BMP9로 동원될 수 있으며, 조작 유리연골이 손상 관절에 생착할 수 있음을 보여준다. 주요 한계: 이식 유리연골이 관절연골로 성숙하지 못해 이식 전 AC 분화 필요성이 제기되며, 관절 손상 환경이 비대성/골형성 편향을 촉진해 이식편 안정성을 위협한다. 향후 연구는 안정적 AC 성숙을 유도하고 비대성 진행을 제어하는 조건을 정의하여 섬유아세포 유래 연골의 치료적 활용을 진전시켜야 한다. (참고: 본 논문은 포유류 사지/digit 절단 재생 모델로, 본 지식베이스에서는 CNS 특이적이라기보다 비교 재생 패러다임으로서 관련성을 가진다.)
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE185197
+
 
 ---
 

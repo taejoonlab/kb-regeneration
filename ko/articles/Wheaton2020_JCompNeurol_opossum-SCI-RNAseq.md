@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p09.txt
+raw_data:
+  - "SRA: PRJNA564188"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Identification of regenerative processes in neonatal spinal cord injury in the opossum (Monodelphis domestica): A transcriptomic study
@@ -43,6 +46,12 @@ Wheaton BJ, Sena J, Sundararajan A, Umale P, Schilkey F, Miller RD. Identificati
 
 ## Perspective
 본 연구는 포유류 모델에서 완전 척수 절단에 대한 연령 의존적 재생 반응의 지금까지 최대 규모 전사체 조사이며, 단일 초기 시점이 아니라 손상 후 시간 경과를 포착한다. 재생 척수는 더 단순하고 주로 면역 중심의 반응을 보이는 반면 비재생 척수는 더 광범위한 증식/접착/세포자멸사 프로그램을 동원한다는 발견은, 비신경 세포(미세아교세포, 내피)와 면역/수초화/세포자멸사 기구의 성숙이 재생 결과를 강하게 형성함을 시사한다. 제시된 유전자 목록은 성공적 척수 재생의 후보 동인을 규명하는 리소스를 제공한다. 한계로는 전사체학의 서술적/상관적 성격(기능적 교란 없음), GO 수준 해석 의존, 주머니쥐 유전체 주석의 어려움이 있다. 후보 유전자의 향후 기능 검증은 어떤 과정이 재성장에 인과적으로 필요한지 밝힐 수 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- SRA: PRJNA564188
+
 
 ---
 

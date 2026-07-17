@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "DDBJ: DRA009306"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Neurod4 converts endogenous neural stem cells to neurons with synaptic formation after spinal cord injury
@@ -48,6 +51,12 @@ Fukuoka T, Kato A, Hirano M, Ohka F, Aoki K, Awaya T, et al. Neurod4 converts en
 본 연구는 외인성 줄기세포 이식과 근본적으로 다른 유전자 치료 전략을 제시한다: 재생력이 높은 Xenopus와의 종간 비교를 통해 동정한 신경재생 bHLH 인자(Neurod4)를, NSC 친화성 LCMV-pseudotyped 레트로바이러스로 손상 척수에 이미 존재하는 내인성 상의세포 유래 활성화 NSC에 직접 전달한다. 이 세포를 흥분성·억제성·운동신경 운명으로 재프로그래밍하여 요추 운동신경에 시냅스를 형성하는 릴레이 신경세포를 생성하였고, 이차 효과로 신경교 흉터를 억제하며 피질척수 축삭 재성장을 가능하게 하고 뒷다리 운동 기능을 개선하였다.
 
 저자들이 인정한 한계로는 마우스 모델에만 의존한 점, 레트로바이러스 벡터의 안전성·효능 확인 필요(삽입 돌연변이 위험, LCMV 병원성), 기능적 회로에 대한 전기생리학적 확인이 아닌 조직학적 확인, 피질운동신경 연결의 종간 차이(설치류는 이중시냅스, 영장류는 단일시냅스) 등이 있다. 회복이 불완전하였는데, 이는 재생된 신경망이 아직 정련되지 않았음을 나타낸다. 향후 환자에게 번역 가능한 치료 프로토콜과 새 회로의 전기생리학적 검증이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- DDBJ: DRA009306
+
 
 ---
 

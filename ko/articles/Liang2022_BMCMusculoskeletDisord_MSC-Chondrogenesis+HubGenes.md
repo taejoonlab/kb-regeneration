@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
+raw_data:
+  - "GEO: GSE210984"
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Identifying the key genes regulating mesenchymal stem cells chondrogenic differentiation: an in vitro study
@@ -65,6 +68,12 @@ Liang T, Li P, Liang A, Zhu Y, Qiu X, Qiu J, Peng Y, Huang D, Gao W, Gao B. Iden
 - RORA를 초기 연골형성 촉진 전사인자로 발굴하여, 연골 재생 치료를 위한 새로운 분자 표적을 제시하였다.
 - 한계점: (1) 비교적 작은 샘플 크기, (2) RORA 외 다른 TF의 기능 검증 필요, (3) 생체 내(in vivo) 검증 부재.
 - 향후 과제: 발굴된 TF(LEF1, FOXO1, BHLHE41, SOX5)의 기능 검증 및 연골 재생 치료 응용 가능성 탐색.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE210984
+
 
 ---
 

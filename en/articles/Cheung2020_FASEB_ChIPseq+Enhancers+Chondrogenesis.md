@@ -4,6 +4,7 @@ extract: 2026-06-06
 extract_file: extract/2026-06-06_p01.txt
 log:
   - "2026-06-06 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add Data Availability section"
 ---
 
 # Histone ChIP-Seq identifies differential enhancer usage during chondrogenesis as critical for defining cell-type specificity
@@ -89,6 +90,12 @@ Third, SOX9 binding motifs are enriched in chondrocyte enhancers, and SOX9 regul
 Fourth, differentially accessible enhancers in OA cartilage significantly overlap with chondrocyte-specific enhancers, supporting the possibility that OA pathogenesis is associated with reactivation of the developmental epigenome. This suggests that chondrocyte enhancers have potential value as therapeutic targets for OA.
 
 Future tasks include: (1) chromatin conformation analysis (3C/Hi-C) to identify actual target genes of enhancers, (2) systematic comparison of the epigenomes of various in vitro models with actual human articular chondrocytes, and (3) complete elucidation of the development-disease link.
+
+## Data Availability
+
+**Other accessions referenced in the text (reused/external data):**
+- GEO: GSE69109
+
 
 ---
 

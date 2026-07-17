@@ -1,9 +1,12 @@
 ---
-tags: [2026-06, Chondrocyte]
+tags: [2026-06, Chondrocyte, RawDataAvailable]
 extract: 2026-06-07
 extract_file: extract/2026-06-07_p01.txt
+raw_data:
+  - "GEO: GSE230235"
 log:
   - "2026-06-07 · create · DeepSeek V4 Flash (OpenCode Go)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Pre-hypertrophic chondrogenic enhancer landscape of limb and axial skeleton development
@@ -94,6 +97,16 @@ Darbellay F, Ramisch A, Lopez-Delisle L, Kosicki M, Rauseo A, Jouini Z, Visel A,
 셋째, 4개 locus(Col2a1, Fgfr3, Hhip, Nkx3-2)의 인핸서 삭제로 표적 유전자 발현 감소를 in vivo에서 직접 검증하여, 인핸서 변이가 골격 질환(예: Fgfr3 인핸서 변이 → CATSHL 증후군, Nkx3-2 인핸서 변이 → 단신증)의 원인이 될 수 있음을 입증하였다.
 
 향후 과제로는 인핸서-프로모터 3D 상호작용(Hi-C/HiChIP)을 통한 표적 유전자 매핑 정확도 향상, 연골세포 아집단(조기/성숙/비대)별 인핸서 동적 변화 규명, 그리고 인간 연골세포에서의 인핸서 기능 검증이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE230235
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE164738
+- SRA: SRP339920, SRR14305872, SRR14305873, SRR14305249, SRR14305250, SRR14305866, SRR14305867, SRR14306149, SRR14306150, SRR14306037, SRR14306038
+
 
 ---
 

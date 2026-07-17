@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p05.txt
+raw_data:
+  - "GEO: GSE121737"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 단일세포 해상도로 본 성체 아홀로틀 사지 재생 중 블라스테마 니치의 전사체 지형
@@ -51,6 +54,12 @@ Leigh ND, Dunlap GS, Johnson K, Mariano R, Oshiro R, Wong AY, Bryant DM, Miller 
 척수/재생 분야 관련성: 본 연구는 대표적 모델 생물에서의 비교 재생 지도이며, 저자들은 제브라피시의 척수·심장·망막 재생에 조절 T세포가 필요하다는 점을 명시적으로 언급하여 블라스테마 면역 집단을 중추신경계 재생 문제와 연결한다.
 
 저자들이 인정한 한계로는 신경 세포체를 포착하지 못하는 점(축삭만 사지로 투사되므로 nrg1/신경 신호가 과소 대표됨), 미세유체 scRNA-seq의 낮은 리드 커버리지로 저발현 전사인자(예: pax7)를 놓칠 수 있는 점, 궤적이 계통 추적으로 확인이 필요한 계산적 예측이라는 점이 있다. 블라스테마 T세포가 실제로 아홀로틀 사지 재생에서 기능하는지는 아직 규명되지 않았다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE121737
+
 
 ---
 

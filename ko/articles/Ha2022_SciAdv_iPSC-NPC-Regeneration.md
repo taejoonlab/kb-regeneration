@@ -1,9 +1,13 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p04.txt
+raw_data:
+  - "GEO: GSE156888"
+  - "SRA: PRJNA555736"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Intermediate cells of in vitro cellular reprogramming and in vivo tissue regeneration require desmoplakin
@@ -50,6 +54,17 @@ Ha J, Kim BS, Min B, Nam J, Lee JG, Lee M, Yoon BH, Choi YH, Im I, Park JS, Choi
 ## Perspective
 
 본 연구는 데스모플라킨(Dsp)을 포유류의 체외 리프로그래밍과 하등 척추동물의 체내 조직 재생을 잇는 진화적으로 보존된 공통 인자로 규명하고, granular IC(gIC)가 포유류의 블라스테마 세포에 상응하는 세포일 가능성을 제안한다. 이는 포유류가 어류·양서류의 광범위한 재생 능력을 상실한 이유에 대한 기전적 단서를 제공하며, 이러한 중간세포를 특정할 수 있다면 재생의학의 새로운 접근이 열릴 수 있음을 시사한다. 한계로는 gIC의 정체성 규명 미완, 모르폴리노/과발현 도구 의존, 직접적 계통 추적이 아닌 전사체 시그니처 매핑에 근거한 종간 비교가 있다. 향후 블라스테마 유사 중간세포의 완전한 분자적 정체성과 치료적 잠재력 규명이 필요하다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE156888
+- SRA: PRJNA555736
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE50206, GSE137971
+- SRA: PRJNA559885
+
 
 ---
 

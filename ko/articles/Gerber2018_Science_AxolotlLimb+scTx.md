@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p03.txt
+raw_data:
+  - "GEO: GSE106269"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-cell analysis uncovers convergence of cell identities during axolotl limb regeneration
@@ -53,6 +56,12 @@ Gerber T, Murawala P, Knapp D, Masselink W, Schuez M, Hermann S, Gac-Santel M, N
 본 연구는 성숙하고 이질적인 결합조직 세포가 복잡한 척추동물 기관 재생 동안 공통의 다능성 limb bud 유사 전구세포로 탈분화하는 과정의 분자 지도를 제공하며, 오랜 논쟁을 "기존 줄기세포 선택"이 아니라 "재프로그래밍" 쪽으로 결론짓는다. 단일세포 전사체와 클론 계보추적으로 뒷받침되는 수렴-후-발산("funneling") 모델은 blastema 형성을 분자적 재프로그래밍으로 재해석한다.
 
 의의: 성체 세포가 사지 형태발생을 조율할 수 있는 배아 사지 잠재력으로 재프로그래밍될 수 있음을 보여주어 재생공학에 시사점을 준다. 저자들이 지적한 한계·향후 방향으로는 탈분화에 필요한 전환 상태의 구성요소 규명, 재생 관련 유전자와 그 크로마틴 구조의 조절 메커니즘 연구가 있다. 또한 포유류의 제한된 재생능이 CT를 이러한 배아 상태로 재프로그래밍하지 못하는 데서 기인할 수 있다는 가설을 제기한다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE106269
+
 
 ---
 

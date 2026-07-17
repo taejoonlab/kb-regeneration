@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, Fibroblast]
+tags: [2026-07, Fibroblast, RawDataAvailable]
 extract: 2026-07-17
 extract_file: extract/2026-07-17_p02.txt
+raw_data:
+  - "GEO: GSE175866, GSE163973"
 log:
   - "2026-07-17 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-cell RNA-seq reveals fibroblast heterogeneity and increased mesenchymal fibroblasts in human fibrotic skin diseases
@@ -83,6 +86,15 @@ Pseudotime 및 RNA velocity 분석에서 sC4 섬유아세포(켈로이드에서 
 셋째, mesenchymal 섬유아세포가 POSTN을 통해 인접 섬유아세포의 콜라겐 생성을 유도한다는 기능적 증명과 TGFβ1 및 POSTN-ITGAV/ITGB5 신호 증가는 POSTN과 mesenchymal 아집단을 치료 표적으로 지목한다. 저자들은 기존 켈로이드 치료 전후에 mesenchymal 섬유아세포를 억제·제거(예: POSTN 소분자 억제제)하면 높은 재발률을 줄일 수 있다고 제안한다.
 
 한계로는 적은 환자 수, 성숙 켈로이드만 사용한 점, sC4 전구체의 기원이 미해결인 점이 있으며, 저자들은 형질전환 계통추적 모델로 이를 규명할 계획이다.
+
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE175866, GSE163973
+
+**본문에 인용된 기타 accession (외부·재사용 데이터):**
+- GEO: GSE160536
 
 
 ---

@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p01.txt
+raw_data:
+  - "GEO: GSE76097"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # 별아교세포 흉터 형성은 중추신경계 축삭 재생을 돕는다 (Astrocyte scar formation aids central nervous system axon regeneration)
@@ -47,6 +50,12 @@ Anderson MA, Burda JE, Ren Y, Ao Y, O'Shea TM, Kawaguchi R, Coppola G, Khakh BS,
 통념과 달리, 별아교세포 흉터 형성은 심각한 CNS 손상 후 축삭 재생 실패의 주된 원인이 아니며, 흉터 형성 별아교세포는 성장이 적절히 자극될 때 오히려 강건한 축삭 재생을 허용하고 지지한다. 이 결과는 CSPG 생물학을 재정립하여, 특정 CSPG가 억제뿐 아니라 성장을 지지할 수 있으며, CS56에 의한 총 CSPG 검출이 순수하게 억제적인 환경을 의미하지 않음을 보여준다. 또한 심각한 병변을 가로지르는 장거리 재생(내재적 성장 활성화와 라미닌 등 지지 기질을 따라 결핍된 축삭 특이적 성장 인자의 보충을 모두 요구)을 손상 주변 반응성 회백질에서의 국소 발아(억제 인자 차단만으로 충분할 수 있음)와 구별한다.
 
 핵심 한계는 자극된 재생에 대한 증거가 AST(감각) 계통에 근거하고 있어 CST 및 5HT와 같은 다른 축삭 계통으로 확장될 필요가 있다는 점이다. 그럼에도 본 연구는 내인성 또는 이식된 전구세포에서 유래한, 새로 생성된 미성숙 흉터 형성 별아교세포가 심각한 CNS 병변을 가로질러 재성장하는 축삭에 활용 가능한 다리(bridge) 역할을 할 수 있음을 시사하며, 외상, 뇌졸중, 퇴행성 질환 후 CNS 회복 전략에 중요한 함의를 갖는다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE76097
+
 
 ---
 

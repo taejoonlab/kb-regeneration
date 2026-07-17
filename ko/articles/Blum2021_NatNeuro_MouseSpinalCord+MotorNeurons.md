@@ -1,9 +1,12 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p02.txt
+raw_data:
+  - "GEO: GSE161621"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Single-cell transcriptomic analysis of the adult mouse spinal cord reveals molecular diversity of autonomic and skeletal motor neurons
@@ -44,6 +47,12 @@ Blum JA, Klemm S, Shadrach JL, Guttenplan KA, Nakayama L, Kathiria A, Hoang PT, 
 
 ## Perspective
 본 연구는 성체 생쥐 척수 운동 시스템의 최초 고해상도 단일핵 전사체 지도를 제공하여, 운동뉴런이 말초 표적과 소통하는 분자적 논리(신경펩타이드·전달물질·수용체)를 정의한다. 의의는 이전에 특성화되지 않은 운동뉴런 집단에 유전적으로 접근할 수 있는 마커 도구와 웹 포털(spinalcordatlas.org)을 제공하여 ALS 등 질환에서 세포 유형별 취약성 연구를 가능케 한다는 점이다. 한계로는 snRNA-seq(핵 전사체) 의존, 새로 제안된 마커의 추가 in vivo 검증 필요성, γ vs γ*가 발생·기능적으로 구별되는 세포 유형인지 아니면 일시적 활성 상태인지 미해결 상태라는 점이 있다. 향후 방향은 후보 마커(예: Bcl6, Tns1)의 심층 특성화, partition cell 회로(Nrxn3)의 기능적 검증, 그리고 이 로드맵을 활용해 줄기세포를 특정 운동뉴런 아형으로 리프로그래밍하는 것이다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE161621
+
 
 ---
 

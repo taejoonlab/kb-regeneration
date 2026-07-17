@@ -1,9 +1,13 @@
 ---
-tags: [2026-07, SpinalCord]
+tags: [2026-07, SpinalCord, RawDataAvailable]
 extract: 2026-07-16
 extract_file: extract/2026-07-16_p08.txt
+raw_data:
+  - "GEO: GSE121617"
+  - "SRA: PRJNA497966"
 log:
   - "2026-07-16 · create · Claude Fable 5 (Claude Code)"
+  - "2026-07-17 · edit · Claude Fable 5 (Claude Code) · add RawDataAvailable tag, raw_data, Data Availability section"
 ---
 
 # Stem cell differentiation trajectories in Hydra resolved at single-cell resolution
@@ -48,6 +52,13 @@ Siebert S, Farrell JA, Cazet JF, Abeykoon Y, Primack AS, Schnitzler CE, Juliano 
 ## Perspective
 
 본 연구는 히드라 세포 상태, 분화 궤적, 후보 유전자 조절 인자, 공간 분해능 신경계 지도를 광범위하게 검증하여 포괄적 분자 아틀라스를 제공하며, 발생·진화·재생 생물학의 강력한 리소스를 확립한다. 재생 동물 전체의 분화 지형을 하나의 생활사 단계에서 비교적 적은 세포로 포착할 수 있음을 보여, 전신 수준의 교란 연구 가능성을 연다. 동적으로 재생하는 신경계 지도의 규명은 진화적 맥락에서 신경 가소성과 재생을 이해하는 데 특히 유의미하다. 저자들이 언급한 한계로는 제안된 공유 샘/뉴런 전구세포(vs. 초기 전사 이벤트를 공유하는 별개 전구세포)를 확증하기 위한 fate-mapping의 필요성, scRNA-seq 해석을 복잡하게 하는 강한 식세포성 상피세포, 그리고 기능적 검증이 필요한 궤적 추론 의존성이 있다.
+
+## 데이터 이용 가능성
+
+**본 연구가 생성·기탁한 원시 데이터:**
+- GEO: GSE121617
+- SRA: PRJNA497966
+
 
 ---
 
