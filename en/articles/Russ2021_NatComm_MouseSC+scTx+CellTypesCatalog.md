@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # A harmonized atlas of mouse spinal cord cell types and their spatial organization

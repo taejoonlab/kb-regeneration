@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p03.txt
 ---
 
 # Evolving Concepts of Gliogenesis: A Look Way Back and Ahead to the Next 25 Years

@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # Sequentially induced motor neurons from human fibroblasts facilitate locomotor recovery in a rodent spinal cord injury model

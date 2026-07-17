@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p02.txt
 ---
 
 # Astrocyte-Specific Deletion of Sox2 Promotes Functional Recovery After Traumatic Brain Injury

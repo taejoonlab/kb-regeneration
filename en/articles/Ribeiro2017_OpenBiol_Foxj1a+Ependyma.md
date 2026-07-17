@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # Foxj1a is expressed in ependymal precursors, controls central canal position and is activated in new ependymal cells during regeneration in zebrafish

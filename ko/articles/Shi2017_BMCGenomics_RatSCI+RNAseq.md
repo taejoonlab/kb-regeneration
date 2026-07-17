@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # Transcriptome profile of rat genes in injured spinal cord at different stages by RNA-sequencing (RNA 시퀀싱을 통한 손상 시기별 쥐 척수 유전자 전사체 프로파일)

@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # FoxJ1 regulates spinal cord development and is required for the maintenance of spinal cord stem cell potential

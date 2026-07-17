@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # Foxm1은 신경 줄기세포에서 stemness 촉진 microRNA 네트워크를 조절한다

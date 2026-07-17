@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p02.txt
 ---
 
 # Regeneration factors expressed on myeloid expression in macrophage-like cells is required for tail regeneration in Xenopus laevis tadpoles

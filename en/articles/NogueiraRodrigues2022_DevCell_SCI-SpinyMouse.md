@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p06.txt
 ---
 
 # Rewired glycosylation activity promotes scarless regeneration and functional recovery in spiny mice after complete spinal cord transection

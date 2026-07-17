@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # 척수의 중간엽 유사 ZEB1+ 니치는 배측 방사교세포 GFAP 양성 줄기세포를 품고 있다

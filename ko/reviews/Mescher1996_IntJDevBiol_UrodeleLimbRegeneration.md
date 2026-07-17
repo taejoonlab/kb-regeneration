@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p06.txt
 ---
 
 # The cellular basis of limb regeneration in urodeles

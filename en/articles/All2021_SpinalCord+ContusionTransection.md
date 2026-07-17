@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # Comparative analysis of functional assessment for contusion and transection models of spinal cord injury

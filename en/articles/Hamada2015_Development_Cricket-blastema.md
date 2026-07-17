@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p04.txt
 ---
 
 # Leg regeneration is epigenetically regulated by histone H3K27 methylation in the cricket Gryllus bimaculatus

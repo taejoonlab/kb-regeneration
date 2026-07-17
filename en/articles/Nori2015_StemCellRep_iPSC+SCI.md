@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p06.txt
 ---
 
 # Long-Term Safety Issues of iPSC-Based Cell Therapy in a Spinal Cord Injury Model: Oncogenic Transformation with Epithelial-Mesenchymal Transition

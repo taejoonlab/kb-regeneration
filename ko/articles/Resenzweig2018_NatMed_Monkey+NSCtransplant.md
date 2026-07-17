@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # Restorative effects of human neural stem cell grafts on the primate spinal cord

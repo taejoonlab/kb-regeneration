@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p08.txt
 ---
 
 # Understanding axon guidance: are we nearly there yet? (축삭 유도의 이해: 우리는 거의 다 왔는가?)

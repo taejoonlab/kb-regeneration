@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # Foxm1 controls a pro-stemness microRNA network in neural stem cells

@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p04.txt
 ---
 
 # Heterogeneity analysis of astrocytes following spinal cord injury at single-cell resolution

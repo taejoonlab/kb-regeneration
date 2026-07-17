@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # Fibrotic Scar After Spinal Cord Injury: Crosstalk With Other Cells, Cellular Origin, Function, and Mechanism

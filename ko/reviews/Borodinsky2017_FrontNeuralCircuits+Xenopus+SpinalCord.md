@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p02.txt
 ---
 
 # Xenopus laevis as a Model Organism for the Study of Spinal Cord Formation, Development, Function and Regeneration

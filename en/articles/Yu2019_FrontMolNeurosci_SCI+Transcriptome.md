@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p09.txt
 ---
 
 # The Landscape of Gene Expression and Molecular Regulation Following Spinal Cord Hemisection in Rats

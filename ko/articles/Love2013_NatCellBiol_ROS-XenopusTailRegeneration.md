@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # Amputation-induced reactive oxygen species are required for successful Xenopus tadpole tail regeneration

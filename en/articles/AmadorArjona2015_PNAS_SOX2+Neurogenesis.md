@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # SOX2 primes the epigenetic landscape in neural precursors enabling proper gene activation during hippocampal neurogenesis

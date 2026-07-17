@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p04.txt
 ---
 
 # Rat models of spinal cord injury: from pathology to potential therapies

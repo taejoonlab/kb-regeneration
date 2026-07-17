@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p03.txt
 ---
 
 # RNA Profiling of the Human and Mouse Spinal Cord Stem Cell Niches Reveals an Embryonic-like Regionalization with MSX1+ Roof-Plate-Derived Cells

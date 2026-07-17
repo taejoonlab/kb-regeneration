@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p03.txt
 ---
 
 # Sister, Sister: Ependymal Cells and Adult Neural Stem Cells Are Separated at Birth by Geminin Family Members

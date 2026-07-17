@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # 척수 손상에 대한 세포 이식 치료 (Cell transplantation therapy for spinal cord injury)

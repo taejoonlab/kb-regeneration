@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p06.txt
 ---
 
 # A Single Cell Atlas of Spared Tissue Below a Spinal Cord Injury Reveals Cellular Mechanisms of Repair

@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p03.txt
 ---
 
 # Changes in Spinal Cord Regenerative Ability Through Phylogenesis and Development: Lessons to Be Learnt

@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p06.txt
 ---
 
 # The Lesioned Spinal Cord Is a "New" Spinal Cord: Evidence from Functional Changes after Spinal Injury in Lamprey

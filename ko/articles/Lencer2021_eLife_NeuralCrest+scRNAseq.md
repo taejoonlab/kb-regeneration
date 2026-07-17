@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # Single-cell RNA analysis identifies pre-migratory neural crest cells expressing markers of differentiated derivatives

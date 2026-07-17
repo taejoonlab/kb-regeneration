@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p03.txt
 ---
 
 # Neurod4 converts endogenous neural stem cells to neurons with synaptic formation after spinal cord injury

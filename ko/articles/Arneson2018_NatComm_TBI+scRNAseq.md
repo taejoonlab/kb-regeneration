@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # 단일세포 분자 변화가 뇌진탕성 뇌손상의 표적 세포와 경로를 밝히다 (Single cell molecular alterations reveal target cells and pathways of concussive brain injury)

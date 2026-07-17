@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # Comparative gene expression profiling between optic nerve and spinal cord injury in Xenopus laevis reveals a core set of genes inherent in successful regeneration of vertebrate central nervous system axons

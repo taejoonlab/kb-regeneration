@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p03.txt
 ---
 
 # Xenopus에서 상의세포 섬모는 심장 박동성 힘과 무관하게 배아 CSF 순환과 뇌 발달을 주도한다 (In Xenopus ependymal cilia drive embryonic CSF circulation and brain development independently of cardiac pulsatile forces)

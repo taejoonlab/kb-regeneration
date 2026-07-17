@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p09.txt
 ---
 
 # Single-cell transcriptomics defines an improved, validated monoculture protocol for differentiation of human iPSC to microglia (단일세포 전사체 분석 기반의 인간 iPSC 유래 미세아교세포 단독배양 분화 프로토콜)

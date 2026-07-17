@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # Bioengineering strategies to accelerate stem cell therapeutics (줄기세포 치료 가속화를 위한 생명공학 전략)

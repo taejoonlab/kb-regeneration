@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # Forkhead Transcription Factor FoxM1 Regulates Mitotic Entry and Prevents Spindle Defects in Cerebellar Granule Neuron Precursors

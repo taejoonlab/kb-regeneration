@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p09.txt
 ---
 
 # 단일세포 유전자 발현 분석이 발생 중인 인간 신경세포에서 구별되는 세포 하위집단의 조절자를 밝히다 (Single-cell gene expression analysis reveals regulators of distinct cell subpopulations among developing human neurons)

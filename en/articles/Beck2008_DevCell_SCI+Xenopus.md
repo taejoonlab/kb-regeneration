@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # Molecular Pathways Needed for Regeneration of Spinal Cord and Muscle in a Vertebrate

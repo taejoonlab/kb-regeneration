@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p01.txt
 ---
 
 # 별아교세포 흉터 형성은 중추신경계 축삭 재생을 돕는다 (Astrocyte scar formation aids central nervous system axon regeneration)

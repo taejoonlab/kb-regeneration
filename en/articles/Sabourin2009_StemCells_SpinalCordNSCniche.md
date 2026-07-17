@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # A Mesenchymal-Like ZEB1+ Niche Harbors Dorsal Radial Glial Fibrillary Acidic Protein-Positive Stem Cells in the Spinal Cord

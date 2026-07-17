@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p06.txt
 ---
 
 # Adult Neural Stem Cells and Multiciliated Ependymal Cells Share a Common Lineage Regulated by the Geminin Family Members

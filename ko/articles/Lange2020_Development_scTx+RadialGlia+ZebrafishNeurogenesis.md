@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p05.txt
 ---
 
 # 방사아교세포 후손의 단일세포 시퀀싱이 성체 제브라피시 뇌에서 신생 신경세포의 다양성을 밝히다 (Single cell sequencing of radial glia progeny reveals the diversity of newborn neurons in the adult zebrafish brain)

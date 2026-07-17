@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p02.txt
 ---
 
 # Neuroanatomical and functional analysis of neural tube formation in notochordless Xenopus embryos; laterality of the ventral spinal cord is lost

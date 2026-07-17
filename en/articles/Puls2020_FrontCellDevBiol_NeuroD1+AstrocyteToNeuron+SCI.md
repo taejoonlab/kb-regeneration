@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p07.txt
 ---
 
 # Regeneration of Functional Neurons After Spinal Cord Injury via in situ NeuroD1-Mediated Astrocyte-to-Neuron Conversion

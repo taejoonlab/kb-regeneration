@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p02.txt
 ---
 
 # Common and Distinct Features of Adult Neurogenesis and Regeneration in the Telencephalon of Zebrafish and Mammals

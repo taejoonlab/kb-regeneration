@@ -1,6 +1,7 @@
 ---
 tags: [2026-07]
 extract: 2026-07-16
+extract_file: extract/2026-07-16_p04.txt
 ---
 
 # Spinal Cord Injury Induces Permanent Reprogramming of Microglia into a Disease-Associated State Which Contributes to Functional Recovery
